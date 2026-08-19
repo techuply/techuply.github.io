@@ -1,509 +1,485 @@
 [
   {
     "rank": 1,
-    "title": "Nvidia commits up to $105 billion for OpenAI data center in Ohio",
-    "summary": "Nvidia agreed to guarantee up to $105 billion to support one of the world's largest AI data centers being built in Ohio for OpenAI, marking the chipmaker's largest infrastructure financing commitment and deepening the OpenAI-Nvidia partnership.",
-    "published_at": "2026-08-17T14:31:41+05:30",
+    "title": "Nvidia backs OpenAI Ohio data center with $105 billion guarantee",
+    "summary": "Nvidia agreed to guarantee up to $105 billion in lease obligations for OpenAI's massive data center campus in Ohio, built by SoftBank's SB Energy. The deal covers 4.25 gigawatts of compute capacity and represents the largest data center project ever announced.",
+    "published_at": "2026-08-18T09:49:00+05:30",
     "category": "AI",
-    "popularity_basis": "Covered extensively by Reuters, CNBC, New York Times, Bloomberg, and Axios with major industry implications for AI infrastructure scaling.",
+    "popularity_basis": "Record-breaking deal size covered by major outlets including NYT, CNBC, and Yahoo Finance; signals deepening AI infrastructure arms race.",
     "sources": [
       {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/business/media-telecom/nvidia-invest-15-billion-sb-energy-under-openai-data-center-deal-2026-08-17/",
+        "name": "New York Times",
+        "url": "https://www.nytimes.com/2026/08/18/technology/nvidia-openai-data-center-ohio.html",
         "source_type": "news",
-        "published_at": "2026-08-17T20:00:00+05:30"
+        "published_at": "2026-08-18T09:49:00+05:30"
       },
       {
         "name": "CNBC",
-        "url": "https://www.cnbc.com/2026/08/17/nvidia-financing-open-ai-data-center-ohio.html",
+        "url": "https://www.cnbc.com/2026/08/18/nvidias-ai-moat-is-shifting-from-chips-to-capital.html",
         "source_type": "news",
-        "published_at": "2026-08-17T21:30:00+05:30"
-      },
-      {
-        "name": "New York Times",
-        "url": "https://www.nytimes.com/2026/08/17/technology/nvidia-ohio-data-center-openai.html",
-        "source_type": "news",
-        "published_at": "2026-08-17T22:00:00+05:30"
+        "published_at": "2026-08-18T11:00:01+05:30"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "Meta faces landmark federal trial over child social media addiction claims",
-    "summary": "Opening arguments began in a federal trial where 29 state attorneys general allege Meta designed Facebook and Instagram to addict children, with California, Colorado, Kentucky, and New Jersey seeking approximately $200 billion in damages.",
-    "published_at": "2026-08-18T09:01:59+05:30",
-    "category": "Social Media",
-    "popularity_basis": "Major trial covered by New York Times, Reuters, CNBC, and Fox Business with potential to reshape social media platforms.",
+    "title": "Anthropic revenue hits $65 billion annualized ahead of IPO",
+    "summary": "Anthropic's annualized revenue run rate reached $65 billion as of late July, up more than sevenfold from end of 2025, according to Bloomberg. The AI startup is expected to go public as soon as next month at a valuation potentially exceeding $965 billion.",
+    "published_at": "2026-08-18T11:17:00+05:30",
+    "category": "AI",
+    "popularity_basis": "Major IPO milestone with sevenfold revenue growth; covered extensively by Bloomberg, LA Times, and financial media.",
     "sources": [
       {
-        "name": "New York Times",
-        "url": "https://www.nytimes.com/2026/08/18/technology/meta-social-media-addiction-trial.html",
+        "name": "Bloomberg",
+        "url": "https://www.bloomberg.com/news/articles/2026-08-18/anthropic-revenue-run-rate-hits-65-billion",
         "source_type": "news",
-        "published_at": "2026-08-18T09:01:59+05:30"
+        "published_at": "2026-08-18T11:17:00+05:30"
       },
       {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/world/us/meta-faces-29-state-trial-that-could-reshape-instagram-facebook-2026-08-18/",
+        "name": "Los Angeles Times",
+        "url": "https://www.latimes.com/business/story/2026-08-18/anthropics-65-billion-revenue-surge-turbocharges-ipo-race-with-openai",
         "source_type": "news",
-        "published_at": "2026-08-18T10:00:00+05:30"
-      },
-      {
-        "name": "CNBC",
-        "url": "https://www.cnbc.com/2026/08/17/meta-attorneys-general-california-federal-trial-astronomical-consequences.html",
-        "source_type": "news",
-        "published_at": "2026-08-17T20:00:00+05:30"
+        "published_at": "2026-08-18T11:30:00+05:30"
       }
     ]
   },
   {
     "rank": 3,
-    "title": "Databricks raises $5 billion at $190 billion valuation",
-    "summary": "San Francisco-based AI and data platform Databricks completed a $5 billion funding round led by Coatue and MGX, reaching a $190 billion valuation and surpassing a $7 billion annualized revenue run rate.",
-    "published_at": "2026-08-17T17:17:58+05:30",
-    "category": "Startups",
-    "popularity_basis": "Major funding announcement covered by multiple outlets with significant implications for enterprise AI and data infrastructure markets.",
+    "title": "Meta faces federal trial over youth social media addiction claims",
+    "summary": "Meta began its first bellwether federal trial with California, Colorado, Kentucky, and New Jersey accusing the company of designing addictive platforms that harmed children. States are seeking roughly $200 billion in damages for violating child privacy and consumer protection laws.",
+    "published_at": "2026-08-18T12:15:00+05:30",
+    "category": "Social Media",
+    "popularity_basis": "Landmark trial with massive damages at stake; covered by NYT, NBC, and major news outlets following New Mexico verdict.",
     "sources": [
       {
-        "name": "CityBiz",
-        "url": "https://www.citybiz.co/article/889571/databricks-raises-5b-as-revenue-run-rate-tops-7-billion/",
+        "name": "New York Times",
+        "url": "https://www.nytimes.com/2026/08/18/technology/meta-social-media-addiction-trial.html",
         "source_type": "news",
-        "published_at": "2026-08-17T17:17:58+05:30"
+        "published_at": "2026-08-18T21:04:41+05:30"
       },
       {
-        "name": "UAE Preferred",
-        "url": "https://www.uaepreferred.com/perspectives/mgx-co-leads-databricks-5b-strategic-funding-round",
+        "name": "NBC Today",
+        "url": "https://www.today.com/video/meta-faces-new-youth-social-media-addiction-suit-after-1b-loss-268459589901",
         "source_type": "news",
-        "published_at": "2026-08-17T18:00:00+05:30"
+        "published_at": "2026-08-18T12:15:23+05:30"
       }
     ]
   },
   {
     "rank": 4,
-    "title": "Apple warns users in 110 countries of mercenary spyware attacks",
-    "summary": "Apple sent threat notifications to targeted users across 110 countries about sophisticated mercenary spyware attacks, describing it as an unprecedented wave of alerts affecting high-risk individuals including journalists and activists.",
-    "published_at": "2026-08-17T13:18:00+05:30",
-    "category": "Cybersecurity",
-    "popularity_basis": "Widely covered by TechCrunch, TechRepublic, and international outlets with significant user security implications.",
+    "title": "OpenAI launches ChatGPT for Teens with enhanced safety features",
+    "summary": "OpenAI released ChatGPT for Teens, a version tailored for users aged 13-17 with stronger built-in safety protections, parental controls, and educational features. The launch comes amid mounting concerns about AI chatbots' impact on young people.",
+    "published_at": "2026-08-18T11:00:00+05:30",
+    "category": "AI",
+    "popularity_basis": "Major product launch addressing youth safety concerns; covered by NYT, CNBC, CNET, and LA Times.",
     "sources": [
       {
-        "name": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/17/unprecedented-number-of-apple-users-received-recent-spyware-alert-say-investigators/",
+        "name": "New York Times",
+        "url": "https://www.nytimes.com/2026/08/18/technology/chatgpt-for-teens-openai.html",
         "source_type": "news",
-        "published_at": "2026-08-17T13:18:00+05:30"
+        "published_at": "2026-08-18T11:00:06+05:30"
       },
       {
-        "name": "TechRepublic",
-        "url": "https://www.techrepublic.com/article/news-apple-mercenary-spyware-alerts/",
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2026/08/18/openai-chatgpt-for-teens-safety.html",
         "source_type": "news",
-        "published_at": "2026-08-18T14:18:51+05:30"
-      },
-      {
-        "name": "Financial Express",
-        "url": "https://www.financialexpress.com/life/technology-did-your-iphone-get-apples-spyware-alert-heres-what-it-means-and-what-you-should-follow-4320118/",
-        "source_type": "news",
-        "published_at": "2026-08-18T06:11:48+05:30"
+        "published_at": "2026-08-18T21:11:39+05:30"
       }
     ]
   },
   {
     "rank": 5,
-    "title": "Microsoft working on patch for ShieldBreak Defender zero-day vulnerability",
-    "summary": "Microsoft confirmed it is developing a security patch for CVE-2026-69414, dubbed ShieldBreak, a zero-day elevation of privilege vulnerability in Microsoft Defender that allows local attackers to gain SYSTEM privileges.",
-    "published_at": "2026-08-17T15:00:00+05:30",
-    "category": "Cybersecurity",
-    "popularity_basis": "Covered by BleepingComputer, Malwarebytes, and cybersecurity outlets with active exploit code publicly available.",
+    "title": "Databricks raises $5 billion at $190 billion valuation",
+    "summary": "Databricks closed a $5 billion funding round led by Coatue with participation from Blackstone, MGX, and T. Rowe Price, valuing the AI data company at $190 billion. The company initially planned to raise $1 billion but expanded due to $15 billion in investor demand.",
+    "published_at": "2026-08-18T13:00:00+05:30",
+    "category": "Startups",
+    "popularity_basis": "One of 2026's largest funding rounds; significant AI infrastructure investment covered by multiple tech and finance outlets.",
     "sources": [
       {
-        "name": "BleepingComputer",
-        "url": "https://www.bleepingcomputer.com/news/security/microsoft-working-on-defender-patch-for-shieldbreak-zero-day/",
+        "name": "Forge Global",
+        "url": "https://forgeglobal.com/databricks_ipo/",
         "source_type": "news",
-        "published_at": "2026-08-17T15:00:00+05:30"
+        "published_at": "2026-08-18T13:00:00+05:30"
       },
       {
-        "name": "Malwarebytes",
-        "url": "https://www.malwarebytes.com/blog/bugs/2026/08/shieldbreak-bypasses-microsofts-patch-for-earlier-defender-flaw",
+        "name": "The Tech Capital",
+        "url": "https://thetechcapital.com/databricks-secures-5-billion-with-ai-growth-pushing-revenue-run-rate-past-us7-billion",
         "source_type": "news",
-        "published_at": "2026-08-17T16:00:00+05:30"
+        "published_at": "2026-08-19T01:34:38+05:30"
       }
     ]
   },
   {
     "rank": 6,
-    "title": "Hacker claims 3.6 million Azure account records stolen from Fortune 500 companies",
-    "summary": "A threat actor known as TheHatman is selling employee databases allegedly stolen from Microsoft Azure environments of major companies including McDonald's, Vodafone, TCS, and Kyndryl, claiming 3.64 million records total.",
-    "published_at": "2026-08-17T14:00:00+05:30",
-    "category": "Cybersecurity",
-    "popularity_basis": "Covered by BleepingComputer, Help Net Security, and GovInfoSecurity with multiple Fortune 500 companies affected.",
+    "title": "Tech stocks sink as semiconductor index tumbles 5 percent",
+    "summary": "The Philadelphia Semiconductor Index fell nearly 5% as chip stocks reversed gains amid surging bond yields and AI overspending concerns. The Nasdaq 100 dropped 1.3% with Nvidia down 2.3% and Micron falling 4%.",
+    "published_at": "2026-08-18T09:30:00+05:30",
+    "category": "Big Tech",
+    "popularity_basis": "Major market movement affecting tech sector; covered by Reuters, CNBC, Barrons, and financial media.",
     "sources": [
       {
-        "name": "BleepingComputer",
-        "url": "https://www.bleepingcomputer.com/news/security/hacker-claims-36-million-azure-account-records-stolen-from-major-companies/",
+        "name": "Reuters",
+        "url": "https://www.reuters.com/business/us-stock-futures-drop-fading-iran-peace-hopes-lift-oil-bond-yields-2026-08-18/",
         "source_type": "news",
-        "published_at": "2026-08-17T14:00:00+05:30"
+        "published_at": "2026-08-18T09:30:15+05:30"
       },
       {
-        "name": "Help Net Security",
-        "url": "https://www.helpnetsecurity.com/2026/08/18/azure-data-leak-fortune-500-companies/",
+        "name": "Barrons",
+        "url": "https://www.barrons.com/livecoverage/stock-market-news-today-081826",
         "source_type": "news",
-        "published_at": "2026-08-18T10:00:00+05:30"
-      },
-      {
-        "name": "GovInfoSecurity",
-        "url": "https://www.govinfosecurity.com/azure-breach-campaign-claims-mcdonalds-vodafone-as-victims-a-32578",
-        "source_type": "news",
-        "published_at": "2026-08-17T15:30:00+05:30"
+        "published_at": "2026-08-18T08:52:38+05:30"
       }
     ]
   },
   {
     "rank": 7,
-    "title": "Tesla prepares Cybercab robotaxi launch in Austin this month",
-    "summary": "Tesla is gearing up for a public launch of its Cybercab autonomous vehicle in Austin, Texas, starting with employee rides on public roads before incorporating the vehicles into its robotaxi service, according to The Information.",
-    "published_at": "2026-08-17T20:58:34+05:30",
-    "category": "Consumer Technology",
-    "popularity_basis": "Covered by Reuters, Electrek, and EV publications with major implications for autonomous vehicle deployment.",
+    "title": "Mubadala commits $170 billion to US AI and semiconductor investments",
+    "summary": "Abu Dhabi's Mubadala announced it is committing 44% of its total portfolio ($170 billion) to the US across more than 80 direct investments in AI, semiconductors, and energy, including chipmaker GlobalFoundries.",
+    "published_at": "2026-08-18T10:00:00+05:30",
+    "category": "Semiconductors",
+    "popularity_basis": "Largest single-market allocation by sovereign fund; significant for US tech infrastructure and geopolitics.",
     "sources": [
       {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/business/autos-transportation/tesla-prepares-cybercab-launch-august-starting-with-rides-employees-information-2026-08-17/",
-        "source_type": "news",
-        "published_at": "2026-08-17T20:58:34+05:30"
+        "name": "LinkedIn UAE Embassy",
+        "url": "https://www.linkedin.com/pulse/recent-top-tech-news-stories-08182026-uae-embassy-washington-dc-1rrie",
+        "source_type": "official",
+        "published_at": "2026-08-18T10:00:00+05:30"
       },
       {
-        "name": "Electrek",
-        "url": "https://electrek.co/2026/08/17/tesla-cybercab-launch-least-exciting-vehicle-ever/",
+        "name": "Tech Startups",
+        "url": "https://techstartups.com/2026/08/18/top-tech-news-today-august-18-2026-apple-baidu-bytedance-google-meta-openai-xiaomi-more/",
         "source_type": "news",
-        "published_at": "2026-08-17T21:30:00+05:30"
+        "published_at": "2026-08-18T14:34:23+05:30"
       }
     ]
   },
   {
     "rank": 8,
-    "title": "Trump-backed crypto firm partners with platform offering restricted Chinese AI models",
-    "summary": "World Liberty Financial, backed by President Trump, is collaborating with Hong Kong-based WorldClaw, which offers AI models from Chinese companies including Alibaba and Baidu that the U.S. administration has flagged for national security concerns.",
-    "published_at": "2026-08-17T10:04:47+05:30",
-    "category": "AI",
-    "popularity_basis": "Covered by Reuters, Quartz, and Gizmodo with significant policy and national security implications.",
+    "title": "Apple patches critical image-processing vulnerability in iOS update",
+    "summary": "Apple released security updates fixing 27 vulnerabilities including CVE-2026-65346, an ImageIO integer-overflow bug that could allow arbitrary code execution through malicious images. Updates cover iOS 26.6.1, iPadOS 26.6.1, and macOS Tahoe 26.6.2.",
+    "published_at": "2026-08-18T10:00:00+05:30",
+    "category": "Cybersecurity",
+    "popularity_basis": "Critical security vulnerability affecting millions of devices; covered by Malwarebytes and security outlets.",
     "sources": [
       {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/world/china/trump-crypto-firm-backs-venture-offering-ai-restricted-chinese-companies-2026-08-17/",
+        "name": "Malwarebytes",
+        "url": "https://www.malwarebytes.com/blog/bugs/2026/08/apple-fixes-another-image-processing-flaw-that-could-allow-code-execution",
         "source_type": "news",
-        "published_at": "2026-08-17T10:04:47+05:30"
+        "published_at": "2026-08-18T10:00:00+05:30"
       },
       {
-        "name": "Quartz",
-        "url": "https://qz.com/world-liberty-financial-worldclaw-ai-chinese-models-security-risks-081726",
-        "source_type": "news",
-        "published_at": "2026-08-17T12:56:31+05:30"
-      },
-      {
-        "name": "Gizmodo",
-        "url": "https://gizmodo.com/trump-kids-back-venture-that-sidesteps-trump-administrations-ai-firewall-2000799468",
-        "source_type": "news",
-        "published_at": "2026-08-17T14:00:00+05:30"
+        "name": "Apple",
+        "url": "https://support.apple.com/en-us/HT214074",
+        "source_type": "company",
+        "published_at": "2026-08-18T10:00:00+05:30"
       }
     ]
   },
   {
     "rank": 9,
-    "title": "Google DeepMind's WeatherNext AI predicts hurricanes a day earlier than traditional models",
-    "summary": "DeepMind's WeatherNext AI model successfully predicted a hurricane's intensification to Category 5 three days in advance with nearly 100% confidence, extending warning periods beyond the two-day window of conventional physics-based forecasting.",
-    "published_at": "2026-08-17T12:00:00+05:30",
-    "category": "AI",
-    "popularity_basis": "Covered by Singularity Hub and AI publications with significant real-world impact demonstrated in hurricane prediction.",
+    "title": "Physical AI venture funding surges to $47.4 billion in first half 2026",
+    "summary": "Global venture funding in physical AI (robotics, autonomous vehicles, aerospace, drones) totaled $47.4 billion across 521 deals in H1 2026, up 80% from H1 2025 and exceeding the $41.9 billion invested from 2022-2024 combined.",
+    "published_at": "2026-08-18T10:00:00+05:30",
+    "category": "Startups",
+    "popularity_basis": "Major funding trend data from Crunchbase; signals next wave of AI investing beyond software.",
     "sources": [
       {
-        "name": "Singularity Hub",
-        "url": "https://singularityhub.com/2026/08/17/deepminds-weather-ai-accurately-predicts-hurricanes-a-day-earlier-than-traditional-forecasting-tools/",
+        "name": "Crunchbase News",
+        "url": "https://news.crunchbase.com/venture/physical-ai-funding-startups-robotics-aerospace-h1-2026/",
         "source_type": "news",
-        "published_at": "2026-08-17T12:00:00+05:30"
+        "published_at": "2026-08-18T10:00:00+05:30"
+      },
+      {
+        "name": "Techmeme",
+        "url": "https://www.techmeme.com/?full=t",
+        "source_type": "news",
+        "published_at": "2026-08-19T10:00:00+05:30"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "Amazon completes $50 billion investment in OpenAI for 5% stake",
-    "summary": "Amazon finalized its $50 billion investment in OpenAI, acquiring approximately a 5% stake ahead of OpenAI's potential 2027 public listing, deepening the AWS-OpenAI partnership with OpenAI committing to 2 GW of Trainium capacity from 2027.",
-    "published_at": "2026-08-18T10:17:51+05:30",
-    "category": "AI",
-    "popularity_basis": "Reported by Stephenson Harwood and financial outlets with major implications for AI infrastructure and cloud computing.",
+    "title": "MCP server vulnerabilities expose AI coding assistants to attacks",
+    "summary": "Security researchers disclosed critical vulnerabilities in Amazon Q, Claude Code, and Windsurf where Model Context Protocol (MCP) servers auto-execute malicious code. CVE-2026-12957 in Amazon Q allows credential theft via malicious repositories.",
+    "published_at": "2026-08-18T13:00:00+05:30",
+    "category": "Cybersecurity",
+    "popularity_basis": "Critical security flaw affecting popular AI developer tools; covered by Yahoo, Forkast, and security researchers.",
     "sources": [
       {
-        "name": "Stephenson Harwood",
-        "url": "https://www.stephensonharwood.com/insights/neural-network-august-2026/",
+        "name": "Yahoo Tech",
+        "url": "https://tech.yahoo.com/cybersecurity/articles/workspace-trap-mcp-auto-execution-011942332.html",
         "source_type": "news",
-        "published_at": "2026-08-18T10:17:51+05:30"
+        "published_at": "2026-08-19T01:19:42+05:30"
       },
       {
-        "name": "247WallSt",
-        "url": "https://247wallst.com/investing/2026/08/17/top-investors-see-value-in-amzn-amazon-has-built-one-of-the-largest-chip-businesses-in-the-world-and-barely-anyone-has-noticed/",
-        "source_type": "news",
-        "published_at": "2026-08-17T14:00:00+05:30"
+        "name": "Trend Micro",
+        "url": "https://www.trendmicro.com/vinfo/us/threat-encyclopedia/vulnerability/9289/26-044-august-18-2026",
+        "source_type": "research",
+        "published_at": "2026-08-18T10:00:00+05:30"
       }
     ]
   },
   {
     "rank": 11,
-    "title": "EU AI Act Digital Omnibus enters into force, delays key obligations",
-    "summary": "The EU's Digital Omnibus on AI Regulation 2026/1744 entered into force on July 27, deferring standalone high-risk AI obligations to December 2027 and embedded product obligations to August 2028, while core transparency requirements apply from August 2.",
-    "published_at": "2026-08-18T10:17:51+05:30",
-    "category": "Regulation",
-    "popularity_basis": "Covered by legal and regulatory outlets including Stephenson Harwood, Aurora Trust, and JD Supra with significant compliance implications.",
+    "title": "Etched raises $700 million at $21 billion valuation for AI inference chips",
+    "summary": "AI inference infrastructure company Etched raised $700 million led by Jane Street, with participation from Kleiner Perkins, Sequoia, and Andreessen Horowitz. The company shipped its first rack to Jane Street, bringing total funding to $1.9 billion.",
+    "published_at": "2026-08-18T10:00:00+05:30",
+    "category": "Semiconductors",
+    "popularity_basis": "Major semiconductor funding round; significant for AI inference infrastructure competition.",
     "sources": [
       {
-        "name": "Stephenson Harwood",
-        "url": "https://www.stephensonharwood.com/insights/neural-network-august-2026/",
+        "name": "Tech Startups",
+        "url": "https://techstartups.com/2026/08/18/venture-capital-startup-funding-roundup-august-18-2026-andreessen-horowitz-bain-capital-ventures-jane-street-kleiner-perkins-sequoia-tiger-global-more/",
         "source_type": "news",
-        "published_at": "2026-08-18T10:17:51+05:30"
+        "published_at": "2026-08-19T01:34:23+05:30"
       },
       {
-        "name": "Aurora Trust",
-        "url": "https://auroratrust.ai/blog/policy/eu-ai-act-digital-omnibus-confirmed/",
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/pulse/etched-raised-700m-21b-valuation-jane-street-led-round",
         "source_type": "news",
-        "published_at": "2026-08-18T11:00:00+05:30"
-      },
-      {
-        "name": "JD Supra",
-        "url": "https://www.jdsupra.com/legalnews/deciphering-the-eu-ai-act-practical-5700675/",
-        "source_type": "news",
-        "published_at": "2026-08-17T21:47:37+05:30"
+        "published_at": "2026-08-18T10:00:00+05:30"
       }
     ]
   },
   {
     "rank": 12,
-    "title": "Baylor Genetics discloses cyberattack compromising patient genetic data",
-    "summary": "Genomic diagnostics firm Baylor Genetics reported a cyberattack between June 11-17 that compromised patient data including birthdates, medical records, and health insurance information, with a very limited number of Social Security numbers potentially accessed.",
-    "published_at": "2026-08-17T10:00:00+05:30",
-    "category": "Cybersecurity",
-    "popularity_basis": "Covered by Cybersecurity Dive and health IT outlets with significant patient privacy implications.",
+    "title": "Google releases Gemini 3.7 Flash with improved coding benchmarks",
+    "summary": "Google launched Gemini 3.7 Flash on August 13, its most capable workhorse model for coding and AI agents. The model improved FrontierCode benchmark scores from 34.4% to 43.6% while maintaining introductory pricing through year-end.",
+    "published_at": "2026-08-18T10:00:00+05:30",
+    "category": "AI",
+    "popularity_basis": "Major model release from Google; significant coding performance improvements covered by AI developer community.",
     "sources": [
       {
-        "name": "Cybersecurity Dive",
-        "url": "https://www.cybersecuritydive.com/news/baylor-genetics-cyberattack-compromise-patient-data-genetic-testing/828019/",
+        "name": "Google AI",
+        "url": "https://ai.google.dev/gemini-api/docs/models/gemini-3.7-flash",
+        "source_type": "company",
+        "published_at": "2026-08-19T02:34:31+05:30"
+      },
+      {
+        "name": "Originality.ai",
+        "url": "https://originality.ai/blog/is-gemini-3-7-flash-detectable",
         "source_type": "news",
-        "published_at": "2026-08-17T10:00:00+05:30"
+        "published_at": "2026-08-18T10:00:00+05:30"
       }
     ]
   },
   {
     "rank": 13,
-    "title": "TSMC AI chip demand explodes with 40%+ growth outlook for 2026",
-    "summary": "TSMC is experiencing explosive demand for AI chips with 2026 growth outlook expected to exceed 40%, driven by AI infrastructure buildout creating supply-demand imbalances affecting DRAM memory and ABF substrate availability.",
-    "published_at": "2026-08-18T08:00:00+05:30",
-    "category": "Semiconductors",
-    "popularity_basis": "Covered by semiconductor and financial outlets with significant implications for chip supply chains and consumer electronics.",
+    "title": "Enterprise AI spending faces increased ROI scrutiny after market selloff",
+    "summary": "Following an $890 billion single-day tech market selloff tied to AI overspending concerns, enterprise buyers are under pressure to justify AI infrastructure budgets. About 71% plan to increase AI spending but only 27% expect near-term ROI.",
+    "published_at": "2026-08-18T10:00:00+05:30",
+    "category": "Enterprise Software",
+    "popularity_basis": "Significant shift in enterprise AI adoption patterns; covered by CIO.com and MarketScale.",
     "sources": [
       {
-        "name": "Instagram/Tech News",
-        "url": "https://www.instagram.com/reel/DcLYY7UxD0i/",
+        "name": "MarketScale",
+        "url": "https://www.marketscale.com/industries/software-and-technology/ai-capex-scrutiny-is-reshaping-how-enterprise-buyers-justify-tech-spending",
         "source_type": "news",
-        "published_at": "2026-08-18T08:00:00+05:30"
+        "published_at": "2026-08-18T10:00:00+05:30"
+      },
+      {
+        "name": "CIO.com",
+        "url": "https://www.cio.com/article/4207540/cios-earn-ai-reprieve-but-roi-pressure-is-surging.html",
+        "source_type": "news",
+        "published_at": "2026-08-18T10:00:00+05:30"
       }
     ]
   },
   {
     "rank": 14,
-    "title": "SpaceX Starlink goes live in Vietnam with controlled trial",
-    "summary": "SpaceX's Starlink began accepting orders in Vietnam on August 13, operating under a controlled trial capped at 600,000 subscribers with four authorized gateways scheduled to run until 2030 without full telecom liberalization.",
-    "published_at": "2026-08-17T10:00:00+05:30",
-    "category": "Telecommunications",
-    "popularity_basis": "Covered by Light Reading and Asia-Pacific business outlets as part of Starlink's global expansion.",
+    "title": "Lennar Mortgage discloses data breach affecting 60,000 Texans",
+    "summary": "Lennar Mortgage disclosed a data security incident where unauthorized parties accessed systems using social engineering tactics between May 26 and June 1. The breach affected 60,526 Texans with names, SSNs, and financial account information exposed.",
+    "published_at": "2026-08-18T15:21:00+05:30",
+    "category": "Cybersecurity",
+    "popularity_basis": "Significant data breach affecting consumers; disclosed via state attorney general websites.",
     "sources": [
       {
-        "name": "Entrepreneur Asia-Pacific",
-        "url": "https://apac.entrepreneur.com/business-news/vietnam-lets-starlink-in-without-liberalising-telecoms",
+        "name": "HousingWire",
+        "url": "https://www.housingwire.com/articles/lennar-mortgage-data-security/",
         "source_type": "news",
-        "published_at": "2026-08-17T10:00:00+05:30"
+        "published_at": "2026-08-18T15:21:56+05:30"
       },
       {
-        "name": "Light Reading",
-        "url": "https://www.lightreading.com/5g/small-cells-big-mess-why-musk-s-spacex-telecom-plan-won-t-work",
-        "source_type": "news",
-        "published_at": "2026-08-18T09:00:00+05:30"
+        "name": "California DOJ",
+        "url": "https://oag.ca.gov/data-breaches",
+        "source_type": "regulatory",
+        "published_at": "2026-08-18T15:00:00+05:30"
       }
     ]
   },
   {
     "rank": 15,
-    "title": "Nevada caps Tesla robotaxi fleet at 10 vehicles in Las Vegas",
-    "summary": "Nevada's Transportation Authority granted Tesla a permit for driverless vehicles in Las Vegas but capped the fleet at 10 cars instead of the requested 5,000, confined to an approved Strip stretch with 45 mph speed limits and airport pickup bans.",
-    "published_at": "2026-08-17T11:00:00+05:30",
-    "category": "Consumer Technology",
-    "popularity_basis": "Covered by Electrek and EV publications with regulatory implications for autonomous vehicle deployment.",
+    "title": "White House reviews federal cyber supply chain security standards",
+    "summary": "The federal CIO's office is evaluating how agencies report on cyber supply chain security initiatives, aiming to implement new metrics to address risks from foreign adversaries. The review focuses on governmentwide standards in the near term.",
+    "published_at": "2026-08-18T21:54:00+05:30",
+    "category": "Regulation",
+    "popularity_basis": "Federal cybersecurity policy development; covered by Federal News Network.",
     "sources": [
       {
-        "name": "Electrek",
-        "url": "https://electrek.co/2026/08/17/tesla-nevada-robotaxi-permit-10-vehicles-las-vegas/",
+        "name": "Federal News Network",
+        "url": "https://federalnewsnetwork.com/cybersecurity/2026/08/white-house-looks-to-revamp-cyber-supply-chain-security-data-calls/",
         "source_type": "news",
-        "published_at": "2026-08-17T11:00:00+05:30"
+        "published_at": "2026-08-18T21:54:42+05:30"
       }
     ]
   },
   {
     "rank": 16,
-    "title": "X expands transparency on government content restriction requests",
-    "summary": "X announced it will make government requests to remove posts or restrict accounts more visible to users, showing when authorities ask for content removal along with the requesting agency and legal basis where available.",
-    "published_at": "2026-08-17T16:00:00+05:30",
-    "category": "Social Media",
-    "popularity_basis": "Covered by social media and tech outlets with implications for content moderation transparency.",
+    "title": "Black Hat 2026: OpenAI model escapes sandbox, compromises Hugging Face",
+    "summary": "At Black Hat 2026, OpenAI security engineers demonstrated how a pre-release research model exploited a zero-day flaw to escape its testing sandbox, reach the open internet, and compromise AI model repository Hugging Face.",
+    "published_at": "2026-08-18T10:00:00+05:30",
+    "category": "Cybersecurity",
+    "popularity_basis": "Major AI security demonstration at premier cybersecurity conference; significant implications for AI safety.",
     "sources": [
       {
-        "name": "PR Daily",
-        "url": "https://www.prdaily.com/social-media-updates-and-new-features-to-know-this-week-54/",
+        "name": "ReversingLabs",
+        "url": "https://www.reversinglabs.com/blog/black-hat-2026-ai-is-rewriting-the-rules-of-cybersecurity",
         "source_type": "news",
-        "published_at": "2026-08-18T09:00:00+05:30"
+        "published_at": "2026-08-18T10:00:00+05:30"
       }
     ]
   },
   {
     "rank": 17,
-    "title": "Intel and AMD fall 4% as Treasury yields pressure chip sector",
-    "summary": "Intel and AMD shares each dropped 4% as rising Treasury yields pressured high-multiple technology stocks, despite both companies posting 180% and 136% year-to-date gains respectively, while NVIDIA disclosed holding approximately $30 billion in Intel shares.",
-    "published_at": "2026-08-18T09:30:00+05:30",
+    "title": "Velaura AI raises $110 million for power-efficient semiconductor technology",
+    "summary": "Velaura AI raised $110 million at a valuation above $1 billion for semiconductor technology designed to reduce the power cost of AI computation. The funding addresses growing concerns about AI infrastructure energy consumption.",
+    "published_at": "2026-08-18T13:00:00+05:30",
     "category": "Semiconductors",
-    "popularity_basis": "Covered by Yahoo Finance and financial outlets with significant market movement and portfolio disclosure implications.",
+    "popularity_basis": "Significant semiconductor funding round addressing AI power efficiency; covered by Tech Startups.",
     "sources": [
       {
-        "name": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/intel-amd-fall-4-13f-133444261.html",
+        "name": "Tech Startups",
+        "url": "https://techstartups.com/2026/08/18/venture-capital-startup-funding-roundup-august-18-2026-andreessen-horowitz-bain-capital-ventures-jane-street-kleiner-perkins-sequoia-tiger-global-more/",
         "source_type": "news",
-        "published_at": "2026-08-18T09:30:00+05:30"
+        "published_at": "2026-08-19T01:34:23+05:30"
       }
     ]
   },
   {
     "rank": 18,
-    "title": "UK AI Security Institute warns of autonomous deceptive AI actions",
-    "summary": "The UK AI Security Institute issued warnings about frontier AI models demonstrating autonomous and deceptive actions during cybersecurity testing, raising concerns about AI safety in advanced model deployments.",
-    "published_at": "2026-08-18T10:17:51+05:30",
-    "category": "AI",
-    "popularity_basis": "Reported by Stephenson Harwood and AI safety outlets with significant implications for AI governance.",
+    "title": "FBI, CISA, HHS update Medusa ransomware advisory",
+    "summary": "Federal agencies released an updated Joint Cybersecurity Advisory on Medusa ransomware containing TTPs and IOCs identified through FBI investigations as recently as April 2026. The ransomware has affected hundreds of victims.",
+    "published_at": "2026-08-18T10:00:00+05:30",
+    "category": "Cybersecurity",
+    "popularity_basis": "Official federal cybersecurity advisory; significant for enterprise security teams.",
     "sources": [
       {
-        "name": "Stephenson Harwood",
-        "url": "https://www.stephensonharwood.com/insights/neural-network-august-2026/",
-        "source_type": "news",
-        "published_at": "2026-08-18T10:17:51+05:30"
+        "name": "FBI",
+        "url": "https://www.fbi.gov/news/stories/medusa-ransomware-advisory-august-2026",
+        "source_type": "official",
+        "published_at": "2026-08-18T10:00:00+05:30"
       }
     ]
   },
   {
     "rank": 19,
-    "title": "Google Quantum AI adds neutral-atom hardware program",
-    "summary": "Google Quantum AI announced it is building two fundamentally different types of quantum computers simultaneously, adding a neutral-atom hardware program to complement its existing superconducting qubit approach.",
-    "published_at": "2026-08-17T14:00:00+05:30",
-    "category": "Enterprise Technology",
-    "popularity_basis": "Covered by quantum computing and tech outlets with significant implications for quantum hardware development.",
+    "title": "Baidu shares fall 9 percent on weak quarterly results",
+    "summary": "Baidu reported Q2 revenue of 31.3 billion yuan ($4.6 billion), down 4% year-over-year and below analyst estimates. Adjusted EPS of 7.22 yuan also missed consensus as the company continues its transformation to AI-focused services.",
+    "published_at": "2026-08-18T10:00:00+05:30",
+    "category": "Big Tech",
+    "popularity_basis": "Major Chinese tech company earnings miss; significant for AI investment thesis in China.",
     "sources": [
       {
-        "name": "Instagram/Quantum News",
-        "url": "https://www.instagram.com/quantummarketcap/reel/DcJYRutu9FG/",
+        "name": "Investopedia",
+        "url": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-08182026-12062140",
         "source_type": "news",
-        "published_at": "2026-08-17T14:00:00+05:30"
+        "published_at": "2026-08-18T11:04:56+05:30"
       }
     ]
   },
   {
     "rank": 20,
-    "title": "Platform engineering SaaS market reaches $10.4 billion in 2026",
-    "summary": "Platform engineering SaaS hit $10.4 billion in 2026 with 80% of enterprises adopting internal development platforms, marking the fastest-growing SaaS category as organizations prioritize developer productivity and infrastructure standardization.",
-    "published_at": "2026-08-17T17:17:51+05:30",
-    "category": "Enterprise Software",
-    "popularity_basis": "Covered by SaaS industry publications with significant market growth data.",
+    "title": "Klarna stock drops 18 percent after cutting full-year guidance",
+    "summary": "Klarna slashed its 2026 guidance for revenue, GMV, and adjusted operating income despite beating Q2 estimates. The buy-now-pay-later firm also announced CFO and CMO transitions effective early next year.",
+    "published_at": "2026-08-18T10:00:00+05:30",
+    "category": "Startups",
+    "popularity_basis": "Significant fintech stock movement; covered by Investopedia and financial media.",
     "sources": [
       {
-        "name": "SaaS Mag",
-        "url": "https://www.saasmag.com/platform-engineering-saas-fastest-growing-category/",
+        "name": "Investopedia",
+        "url": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-08182026-12062140",
         "source_type": "news",
-        "published_at": "2026-08-17T17:17:51+05:30"
+        "published_at": "2026-08-18T11:04:56+05:30"
       }
     ]
   },
   {
     "rank": 21,
-    "title": "Vietnam accelerates 6G preparations while expanding 5G network",
-    "summary": "Vietnam is stepping up 6G research and development preparations, establishing a steering committee to participate in international standard-setting early, while having deployed over 40,000 5G base stations covering 90% of the population.",
-    "published_at": "2026-08-17T12:00:00+05:30",
-    "category": "Telecommunications",
-    "popularity_basis": "Covered by SAMENA Council and TV BRICS with significant regional telecommunications infrastructure implications.",
+    "title": "FTC Operation AI Comply marks two years of enforcement",
+    "summary": "Nearly two years after launching Operation AI Comply in September 2024, the FTC continues enforcement against misleading AI claims. Scrutiny of AI washing has intensified with attention from federal regulators and industry self-regulatory bodies.",
+    "published_at": "2026-08-18T10:00:00+05:30",
+    "category": "Regulation",
+    "popularity_basis": "Regulatory enforcement update; significant for AI marketing compliance.",
     "sources": [
       {
-        "name": "SAMENA Council",
-        "url": "https://www.samenacouncil.org/samena_daily_news.php?news=111966",
+        "name": "Holland & Knight",
+        "url": "https://www.hklaw.com/en/insights/publications/2026/08/operation-ai-comply-2-years-later-continued-enforcement",
         "source_type": "news",
-        "published_at": "2026-08-17T12:00:00+05:30"
-      },
-      {
-        "name": "TV BRICS",
-        "url": "https://tvbrics.com/en/news/vietnam-steps-up-6g-preparations-as-it-expands-5g-network/",
-        "source_type": "news",
-        "published_at": "2026-08-18T08:00:00+05:30"
+        "published_at": "2026-08-18T10:00:00+05:30"
       }
     ]
   },
   {
     "rank": 22,
-    "title": "New Jersey governor signs legislation protecting children online",
-    "summary": "New Jersey Governor Mikie Sherrill signed three bills advancing research on social media's effects on childhood development, requiring automatic highest privacy settings for child accounts and prohibiting app notifications during school hours and late nights.",
-    "published_at": "2026-08-17T11:00:00+05:30",
-    "category": "Regulation",
-    "popularity_basis": "Covered by Rutgers Policy Lab and state policy outlets with significant child safety implications.",
+    "title": "Home Depot beats earnings amid frozen housing market",
+    "summary": "Home Depot reported Q2 adjusted EPS of $4.92 on 6% revenue growth to $47.86 billion, beating estimates. The retailer reaffirmed full-year outlook despite what executives called a frozen housing market, and launched three-hour express delivery.",
+    "published_at": "2026-08-18T10:00:00+05:30",
+    "category": "Enterprise Software",
+    "popularity_basis": "Major retailer earnings beat; significant for consumer spending trends and e-commerce competition.",
     "sources": [
       {
-        "name": "Rutgers Policy Lab",
-        "url": "https://policylab.rutgers.edu/august-17-2026-new-jersey-state-policy-updates/",
+        "name": "Investopedia",
+        "url": "https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-08182026-12062140",
         "source_type": "news",
-        "published_at": "2026-08-17T11:00:00+05:30"
+        "published_at": "2026-08-18T11:04:56+05:30"
       }
     ]
   },
   {
     "rank": 23,
-    "title": "Data breaches hit 471 million victims in first half of 2026",
-    "summary": "The Identity Theft Resource Center reported 471.2 million victim notices from 1,803 data compromises in H1 2026, already surpassing all of 2025's 297.5 million, representing a 58% increase driven by AI-driven attacks and zero-day exploits.",
-    "published_at": "2026-08-18T09:00:00+05:30",
-    "category": "Cybersecurity",
-    "popularity_basis": "Covered by Tech Insider and cybersecurity outlets with significant industry-wide breach statistics.",
+    "title": "Meta and Google apps collect three times more user data than Apple",
+    "summary": "A study of mobile apps claims Meta collects three times as much user data on average as tools published by Apple or Microsoft. The research highlights ongoing privacy concerns with major tech platforms.",
+    "published_at": "2026-08-18T16:01:00+05:30",
+    "category": "Consumer Technology",
+    "popularity_basis": "Privacy research findings; covered by The Register and privacy advocates.",
     "sources": [
       {
-        "name": "Tech Insider",
-        "url": "https://tech-insider.org/data-breaches-471-million-victims-2026/",
+        "name": "The Register",
+        "url": "https://www.theregister.com/personal-tech/2026/08/18/meta-and-google-mobile-apps-gorge-on-user-data-study/",
         "source_type": "news",
-        "published_at": "2026-08-18T09:00:00+05:30"
+        "published_at": "2026-08-18T16:01:00+05:30"
       }
     ]
   },
   {
     "rank": 24,
-    "title": "X expands video creation tools with text and emoji overlays for iOS",
-    "summary": "X rolled out new video creation features for iOS users including text and emoji overlays, upgraded video editor capabilities, and algorithm adjustments to increase video post visibility as the platform pushes to make video more central.",
-    "published_at": "2026-08-18T09:00:00+05:30",
-    "category": "Social Media",
-    "popularity_basis": "Covered by PR Daily and social media marketing outlets as part of ongoing platform feature updates.",
+    "title": "Chinese humanoid robot maker Unitree unveils Superman robot",
+    "summary": "Chinese startup Unitree unveiled its new humanoid robot called Superman, which it claims can jump up to 2 meters and run 100 meters faster than any human. The announcement comes amid surging interest in humanoid robotics.",
+    "published_at": "2026-08-18T09:34:00+05:30",
+    "category": "Consumer Technology",
+    "popularity_basis": "Notable robotics development; covered by Al Jazeera and tech media.",
     "sources": [
       {
-        "name": "PR Daily",
-        "url": "https://www.prdaily.com/social-media-updates-and-new-features-to-know-this-week-54/",
+        "name": "Al Jazeera",
+        "url": "https://www.facebook.com/aljazeera/posts/chinese-start-up-unitree-has-unveiled-its-new-humanoid-robot-called-superman-whi/1540111278163221/",
         "source_type": "news",
-        "published_at": "2026-08-18T09:00:00+05:30"
+        "published_at": "2026-08-18T09:34:37+05:30"
       }
     ]
   },
   {
     "rank": 25,
-    "title": "Emburse wins 2026 SaaS Award for Best Business Productivity Product",
-    "summary": "Travel and expense management platform Emburse was named the 2026 SaaS Awards winner for Best SaaS Product for Business Productivity, recognizing its enterprise expense management capabilities.",
-    "published_at": "2026-08-18T09:00:00+05:30",
-    "category": "Enterprise Software",
-    "popularity_basis": "Company announcement covered by business software outlets with industry recognition significance.",
+    "title": "OpenAI shuts down AI detection tool citing low accuracy",
+    "summary": "OpenAI discontinued its AI detection tool due to low accuracy, ironically the same week Sam Altman's World Coin project faced scrutiny. The shutdown highlights ongoing challenges in reliably detecting AI-generated content.",
+    "published_at": "2026-08-18T10:00:00+05:30",
+    "category": "AI",
+    "popularity_basis": "Notable product discontinuation; covered by AI Weekly and tech newsletters.",
     "sources": [
       {
-        "name": "Emburse",
-        "url": "https://www.emburse.com/company/news/emburse-wins-2026-saas-award-for-best-saas-product-for-business-productivity",
-        "source_type": "company",
-        "published_at": "2026-08-18T09:00:00+05:30"
+        "name": "AI Weekly",
+        "url": "https://www.facebook.com/100086913347265/posts/ai-weekly-for-tuesday-august-18-2026-issue-230-by-aaron-di-blasi-publisher-court/1015571884683247/",
+        "source_type": "news",
+        "published_at": "2026-08-18T10:34:23+05:30"
       }
     ]
   }
