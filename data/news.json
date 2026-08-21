@@ -1,479 +1,551 @@
 [
   {
     "rank": 1,
-    "title": "Landmark Meta trial begins as dozens of states allege platform harms children",
-    "summary": "A federal trial opened in California with 29 states suing Meta, claiming Facebook and Instagram were deliberately designed to addict young users and contribute to the youth mental health crisis. The case seeks up to $1.4 trillion in damages and product redesigns, marking one of the biggest legal challenges ever faced by a social media company.",
-    "published_at": "2026-08-19T20:50:00-05:00",
-    "category": "Social Media",
-    "popularity_basis": "Major federal trial with bipartisan state coalition, massive damages sought, and extensive coverage across mainstream and tech media.",
+    "title": "California VC investment hits record $366 billion driven by AI boom",
+    "summary": "California has attracted $366 billion in venture capital in 2026, more than triple the other 49 states combined, fueled by the AI boom in Silicon Valley. This nearly doubles the state's previous 2025 record.",
+    "published_at": "2026-08-20T09:54:00-07:00",
+    "category": "Startups",
+    "popularity_basis": "Major financial milestone covered by WSJ with significant industry implications for AI investment concentration.",
     "sources": [
       {
-        "name": "The Washington Post",
-        "url": "https://www.washingtonpost.com/video/politics/this-is-about-our-children-landmark-meta-trial-begins-for-lawsuit-filed-by-dozens-of-states/2026/08/19/9a4cb52a-ff3c-4979-885b-5aef5672c5d7_video.html",
+        "name": "Wall Street Journal",
+        "url": "https://www.wsj.com/tech/ai/californias-ai-dominance-fuels-366-billion-venture-capital-bonanza-820e9bde",
         "source_type": "news",
-        "published_at": "2026-08-19T20:50:00-05:00"
+        "published_at": "2026-08-20T09:54:00-07:00"
       },
       {
-        "name": "USA Today",
-        "url": "https://www.usatoday.com/story/money/legal/2026/08/18/landmark-trial-meta-teen-safety-social-media/91351649007/",
-        "source_type": "news",
-        "published_at": "2026-08-18T17:18:18-05:00"
+        "name": "PitchBook",
+        "url": "https://pitchbook.com",
+        "source_type": "research",
+        "published_at": "2026-08-20T09:54:00-07:00"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "OpenAI pauses frontier AI training after Astra model nears critical cybersecurity threshold",
-    "summary": "OpenAI announced it is halting reinforcement learning training on its most advanced models, citing cybersecurity risks after internal evaluations indicated its upcoming Astra model may meet the 'critical' capability threshold in its Preparedness Framework. The pause follows the Hugging Face incident and reflects heightened safety concerns around autonomous AI agents.",
-    "published_at": "2026-08-19T15:29:47+00:00",
-    "category": "AI",
-    "popularity_basis": "Major AI lab halts training over safety concerns; significant implications for AI development pace and industry safety practices.",
+    "title": "US agencies warn of AI-enabled hacking campaign targeting water systems",
+    "summary": "CISA, FBI, and NSA warned that hackers are using AI to target Siemens S7 programmable logic controllers in US water facilities across at least 12 states, with suspected Iran-nexus groups involved.",
+    "published_at": "2026-08-20T10:00:00-07:00",
+    "category": "Cybersecurity",
+    "popularity_basis": "Critical infrastructure threat with federal agency warnings and multi-state impact covered by multiple outlets.",
     "sources": [
       {
-        "name": "CNET",
-        "url": "https://www.cnet.com/tech/services-and-software/openai-pauses-training-new-ai-models-cybersecurity-2026/",
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/20/us-says-hackers-are-targeting-vulnerable-water-systems-with-the-help-of-ai/",
         "source_type": "news",
-        "published_at": "2026-08-19T15:29:47+00:00"
+        "published_at": "2026-08-20T10:00:00-07:00"
       },
       {
-        "name": "Help Net Security",
-        "url": "https://www.helpnetsecurity.com/2026/08/19/openai-model-safety-updates/",
+        "name": "Cybersecurity Dive",
+        "url": "https://www.cybersecuritydive.com/news/what-we-know-so-far-about-the-hacking-campaign-against-us-water-systems/828374/",
         "source_type": "news",
-        "published_at": "2026-08-19T00:00:00+00:00"
+        "published_at": "2026-08-20T10:00:00-07:00"
       }
     ]
   },
   {
     "rank": 3,
-    "title": "Samsung raises advanced chipmaking prices by up to 15% amid AI demand surge",
-    "summary": "Samsung Electronics increased prices for advanced contract chipmaking services by 10–15% for new orders, driven by tight capacity as AI chip demand books up TSMC production. The move signals a turnaround for Samsung's foundry business, which has operated at a loss since 2022.",
-    "published_at": "2026-08-19T08:30:14-07:00",
-    "category": "Semiconductors",
-    "popularity_basis": "Major foundry price hike affecting global chip supply chain; covered by Reuters and multiple tech outlets.",
+    "title": "OpenAI Q2 results disappoint with 18% revenue growth, $12.3 billion loss",
+    "summary": "OpenAI reported Q2 revenue of $6.7 billion, up 18% quarter-over-quarter, but posted a $12.3 billion loss. Growth lagged behind rival Anthropic, which doubled revenue to $11.6 billion in the same period.",
+    "published_at": "2026-08-20T08:00:00-07:00",
+    "category": "AI",
+    "popularity_basis": "Major AI company financial results with market-moving implications covered by WSJ, CNBC, and multiple outlets.",
     "sources": [
       {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/business/autos-transportation/samsung-hikes-chipmaking-prices-by-up-15-demand-spike-sources-say-2026-08-19/",
+        "name": "MarketWise",
+        "url": "https://marketwise.com/investing/openai-cash-burn-token-prices-plunge/",
         "source_type": "news",
-        "published_at": "2026-08-19T08:30:14-07:00"
+        "published_at": "2026-08-20T08:00:00-07:00"
       },
       {
-        "name": "WCCF Tech",
-        "url": "https://wccftech.com/samsung-increases-advanced-chipmaking-prices-15-percent-demand/",
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2026/08/18/stock-market-today-live-updates.html",
         "source_type": "news",
-        "published_at": "2026-08-19T10:54:33+00:00"
+        "published_at": "2026-08-20T08:00:00-07:00"
       }
     ]
   },
   {
     "rank": 4,
-    "title": "CISA, FBI warn Medusa ransomware has hit over 500 US critical infrastructure organizations",
-    "summary": "Federal agencies updated their advisory to report that the Medusa ransomware gang has breached more than 500 critical infrastructure victims since 2021, up from 300 previously reported. The group weaponizes new vulnerabilities within 24 hours and heavily targets healthcare, defense, and manufacturing sectors.",
-    "published_at": "2026-08-19T04:00:00+00:00",
-    "category": "Cybersecurity",
-    "popularity_basis": "Official federal advisory with significant increase in victim count; high impact on critical infrastructure operators.",
+    "title": "S&P 500 Q2 earnings surge 52% driven by AI company stake gains",
+    "summary": "S&P 500 companies posted 52% Q2 earnings growth, with Amazon and Alphabet recognizing $53.4 billion and $77.1 billion in unrealized gains from AI investments including Anthropic stakes.",
+    "published_at": "2026-08-20T10:04:00+00:00",
+    "category": "Big Tech",
+    "popularity_basis": "Major market-wide earnings data from Reuters with significant AI investment implications.",
     "sources": [
       {
-        "name": "Bleeping Computer",
-        "url": "https://www.bleepingcomputer.com/news/security/cisa-medusa-ransomware-hit-over-500-critical-infrastructure-orgs/",
+        "name": "Reuters",
+        "url": "https://www.reuters.com/business/gains-ai-company-stakes-juice-second-quarter-earnings-sp-500-2026-08-20/",
         "source_type": "news",
-        "published_at": "2026-08-19T04:00:00+00:00"
+        "published_at": "2026-08-20T10:04:00+00:00"
       },
       {
-        "name": "SC World",
-        "url": "https://www.scworld.com/news/medusa-ransomware-group-attacked-more-than-500-victims-since-2021",
-        "source_type": "news",
-        "published_at": "2026-08-19T00:00:00+00:00"
+        "name": "LSEG",
+        "url": "https://www.lseg.com",
+        "source_type": "research",
+        "published_at": "2026-08-20T10:04:00+00:00"
       }
     ]
   },
   {
     "rank": 5,
-    "title": "Trump hosts crypto and tech leaders at White House to discuss digital asset regulation",
-    "summary": "President Donald Trump met with executives from Coinbase, Ripple, Nasdaq and other firms alongside SEC and CFTC chairs to discuss crypto regulation and AI leadership. The administration emphasized maintaining US dominance in digital assets and artificial intelligence.",
-    "published_at": "2026-08-19T16:39:50-04:00",
-    "category": "Regulation",
-    "popularity_basis": "White House event with major crypto firms and regulators; signals policy direction ahead of CLARITY Act vote.",
+    "title": "Meta child safety trial testimony reveals growth prioritized over safety",
+    "summary": "A former Meta engineering director testified that Mark Zuckerberg encouraged growth over child safety measures. The trial involves 29 state attorneys general suing Meta over allegedly addictive platforms harming children.",
+    "published_at": "2026-08-20T14:00:00-07:00",
+    "category": "Social Media",
+    "popularity_basis": "High-profile federal trial with major Big Tech implications and multi-state attorney general involvement.",
     "sources": [
       {
-        "name": "ABC News 4",
-        "url": "https://abcnews4.com/news/nation-world/trump-hosts-crypto-technology-leaders-at-white-house-cryptocurrency-executives-financial-regulators-digital-assets-president-donald-trump-politics",
+        "name": "Claims Journal",
+        "url": "https://www.claimsjournal.com/date/2026-08-20/",
         "source_type": "news",
-        "published_at": "2026-08-19T16:39:50-04:00"
+        "published_at": "2026-08-20T14:00:00-07:00"
       },
       {
-        "name": "The National Desk",
-        "url": "https://thenationaldesk.com/news/politics/trump-hosts-crypto-technology-leaders-at-white-house-cryptocurrency-executives-financial-regulators-digital-assets-president-donald-trump-politics",
+        "name": "WCBE",
+        "url": "https://www.wcbe.org/2026-08-20/the-first-week-of-testimony-wraps-in-the-federal-child-safety-case-against-meta",
         "source_type": "news",
-        "published_at": "2026-08-19T00:00:00-04:00"
+        "published_at": "2026-08-20T17:13:00-04:00"
       }
     ]
   },
   {
     "rank": 6,
-    "title": "Microsoft patches critical Copilot flaw enabling one-click data theft from connected apps",
-    "summary": "Varonis disclosed CoSnitch, a chain of three vulnerabilities in Microsoft Copilot Personal that allowed attackers to exfiltrate emails, calendar data, and cloud files via a single malicious link. Microsoft patched the flaw server-side on August 18 with no evidence of wild exploitation.",
-    "published_at": "2026-08-19T20:54:42+00:00",
-    "category": "Cybersecurity",
-    "popularity_basis": "Critical AI assistant vulnerability with broad implications; covered by multiple security publications.",
+    "title": "AI startup valuations doubling in weeks as funding pace accelerates",
+    "summary": "Late-stage AI rounds are compressing from years to weeks, with Etched doubling to $21B valuation in under a month, Higgsfield reaching $5.4B, and Rillet hitting $1B unicorn status in 48 hours.",
+    "published_at": "2026-08-20T08:00:00-07:00",
+    "category": "Startups",
+    "popularity_basis": "Significant trend in AI funding with multiple high-profile examples covered by TechCrunch and VC analysis.",
     "sources": [
       {
-        "name": "Redmond Magazine",
-        "url": "https://redmondmag.com/articles/2026/08/19/cosnitch-flaws-turned-microsoft-copilot-into-a-one-click-data-theft-tool.aspx",
-        "source_type": "news",
-        "published_at": "2026-08-19T20:54:42+00:00"
+        "name": "ValueAdd VC",
+        "url": "https://valueaddvc.com/pulse/pulse-analysis-ai-valuation-doubling-pace-2026",
+        "source_type": "research",
+        "published_at": "2026-08-20T08:00:00-07:00"
       },
       {
-        "name": "TechRadar",
-        "url": "https://www.techradar.com/pro/security/experts-manage-to-hack-microsoft-copilot-by-continually-asking-it-questions-about-itself",
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com",
         "source_type": "news",
-        "published_at": "2026-08-19T00:00:00+00:00"
+        "published_at": "2026-08-20T08:00:00-07:00"
       }
     ]
   },
   {
     "rank": 7,
-    "title": "Sakura Internet hack exposes up to 1.36 million member accounts in Japan",
-    "summary": "Japanese cloud provider Sakura Internet disclosed hackers accessed its sales management system on August 9, potentially compromising 1.36 million accounts. The strategic domestic cloud provider, selected for Japan's Government Cloud program, said passwords are hashed and no credit card data was stored.",
-    "published_at": "2026-08-19T20:53:38+00:00",
-    "category": "Cybersecurity",
-    "popularity_basis": "Large-scale breach at major national infrastructure provider; significant for APAC region.",
+    "title": "OpenAI gaining on Anthropic with US business users, Ramp data shows",
+    "summary": "Ramp data covering 70,000+ US businesses shows OpenAI growing faster than Anthropic in Q3, with GPT-5.6 Sol becoming preferred for developers. Anthropic holds 44% share versus OpenAI's 40% as of July.",
+    "published_at": "2026-08-20T11:00:00-07:00",
+    "category": "AI",
+    "popularity_basis": "Competitive AI market dynamics with fresh data from major corporate spend platform.",
     "sources": [
       {
-        "name": "Bleeping Computer",
-        "url": "https://www.bleepingcomputer.com/news/security/sakura-internet-hack-exposes-data-of-up-to-136-million-accounts/",
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
         "source_type": "news",
-        "published_at": "2026-08-19T20:53:38+00:00"
+        "published_at": "2026-08-20T11:00:00-07:00"
+      },
+      {
+        "name": "Ramp",
+        "url": "https://ramp.com",
+        "source_type": "company",
+        "published_at": "2026-08-20T11:00:00-07:00"
       }
     ]
   },
   {
     "rank": 8,
-    "title": "US charges 17 Iranians over $3.4 billion academic and IP theft campaign",
-    "summary": "The Justice Department unsealed charges against 17 alleged members of the Mabna Institute hacking group for stealing 31.5 terabytes of academic research and intellectual property from 178 universities and 53 companies since 2013. Five defendants have $10 million bounties offered for information leading to their capture.",
-    "published_at": "2026-08-19T11:56:00+00:00",
-    "category": "Cybersecurity",
-    "popularity_basis": "Major state-sponsored IP theft indictment with record bounty offers; broad impact on academia and industry.",
+    "title": "Google launches Preferred Sources button to help publishers combat AI traffic loss",
+    "summary": "Google introduced an embeddable 'Preferred Sources' button letting readers mark favorite publishers for prioritization in Search, Discover, and News. Studies show users are 2x more likely to click preferred sources.",
+    "published_at": "2026-08-20T11:00:00-07:00",
+    "category": "Big Tech",
+    "popularity_basis": "Major Google product change addressing publisher concerns about AI-driven traffic decline.",
     "sources": [
       {
-        "name": "Bleeping Computer",
-        "url": "https://www.bleepingcomputer.com/news/security/us-charges-iranian-hackers-over-34-billion-intellectual-property-theft/",
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
         "source_type": "news",
-        "published_at": "2026-08-19T11:56:00+00:00"
+        "published_at": "2026-08-20T11:00:00-07:00"
+      },
+      {
+        "name": "Google",
+        "url": "https://blog.google",
+        "source_type": "company",
+        "published_at": "2026-08-20T11:00:00-07:00"
       }
     ]
   },
   {
     "rank": 9,
-    "title": "KKR acquires minority stake in India's BookMyShow amid live entertainment boom",
-    "summary": "Global private equity firm KKR agreed to buy a minority stake in Indian ticketing and live events platform BookMyShow, backing its expansion as India's entertainment economy surges. BookMyShow Live has staged concerts by Coldplay, Ed Sheeran, and Travis Scott in India.",
-    "published_at": "2026-08-19T18:03:10+00:00",
-    "category": "Startups",
-    "popularity_basis": "Major PE investment in India's fastest-growing entertainment sector; covered by music and business media.",
+    "title": "Ramp launches Router AI model routing service to compete with OpenRouter",
+    "summary": "Corporate expense platform Ramp launched Router, an AI model routing API supporting OpenAI, Anthropic, DeepSeek, and others. Free through 2026, it offers routing strategies and usage dashboards for token spend management.",
+    "published_at": "2026-08-20T18:00:00-07:00",
+    "category": "Enterprise Software",
+    "popularity_basis": "New AI infrastructure product from well-funded fintech entering competitive model routing market.",
     "sources": [
       {
-        "name": "Music Business Worldwide",
-        "url": "https://www.musicbusinessworldwide.com/kkr-to-acquire-minority-stake-in-bookmyshow-the-company-behind-coldplay-and-ed-sheerans-india-concerts/",
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
         "source_type": "news",
-        "published_at": "2026-08-19T18:03:10+00:00"
+        "published_at": "2026-08-20T18:00:00-07:00"
       },
       {
-        "name": "YourStory",
-        "url": "https://yourstory.com/2026/08/startup-news-and-updates-daily-roundup-august-19-2026",
-        "source_type": "news",
-        "published_at": "2026-08-19T12:41:53+05:30"
+        "name": "Ramp",
+        "url": "https://ramp.com",
+        "source_type": "company",
+        "published_at": "2026-08-20T18:00:00-07:00"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "Zerodha's Nikhil Kamath invests Rs 200 crore in CtrlS data center expansion",
-    "summary": "Hyperscale data center operator CtrlS raised Rs 250 crore, with Rs 200 crore from Zerodha co-founder Nikhil Kamath and Rs 50 crore from entrepreneur Sreeram Vanga, to expand AI-ready infrastructure across India. CtrlS operates 19 data centers with 370 MW capacity and 4.4 GW in development.",
-    "published_at": "2026-08-19T20:31:00+05:30",
-    "category": "Enterprise Software",
-    "popularity_basis": "High-profile Indian tech investor backs critical AI infrastructure; significant for India's data center market.",
+    "title": "Patreon unveils 30 creator features including Clips and Niches communities",
+    "summary": "Patreon launched 30 new features including short-form Clips, topic-based Niches communities, improved discovery algorithms favoring smaller creators, and enhanced analytics. Native video and Quips now support adult content creators.",
+    "published_at": "2026-08-20T09:00:00-07:00",
+    "category": "Social Media",
+    "popularity_basis": "Major platform update from leading creator economy company with 30 new features.",
     "sources": [
       {
-        "name": "ET Entrepreneur",
-        "url": "https://entrepreneur.economictimes.indiatimes.com/amp/news/funding/ctrls-datacenters-raises-250-crore-from-nikhil-kamath-sreeram-vanga/133351551",
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/20/patreon-launches-30-new-creator-features-including-short-form-clips-and-revamped-discovery/",
         "source_type": "news",
-        "published_at": "2026-08-19T20:31:00+05:30"
+        "published_at": "2026-08-20T09:00:00-07:00"
       },
       {
-        "name": "Entrackr",
-        "url": "https://entrackr.com/news/nikhil-kamath-invests-rs-200-cr-in-ctrls-as-hyperscale-data-centre-operator-raises-rs-250-cr-12395469",
-        "source_type": "news",
-        "published_at": "2026-08-19T09:25:04+05:30"
+        "name": "Patreon",
+        "url": "https://www.patreon.com",
+        "source_type": "company",
+        "published_at": "2026-08-20T09:00:00-07:00"
       }
     ]
   },
   {
     "rank": 11,
-    "title": "Hackers compromise over 14,500 Dahua IP cameras in 35-day CameraSwarm campaign",
-    "summary": "Hunt.io researchers disclosed a campaign that compromised 14,530 Dahua cameras, mostly in Ukraine and Russia, using brute force, two authentication-bypass flaws, and P2P relay attacks. The operator left an exposed working directory containing tools, logs, and captured images.",
-    "published_at": "2026-08-19T14:09:00+00:00",
-    "category": "Cybersecurity",
-    "popularity_basis": "Large-scale IoT botnet disclosure with detailed technical analysis; significant for surveillance security.",
+    "title": "3GPP to decide 6G core architecture in September with AI-native design",
+    "summary": "3GPP will make critical 6G decisions in September 2026. Early deployments around 2030 will likely use evolved 5G core infrastructure with new AI domain, balancing ambitious AI-native goals with practical implementation constraints.",
+    "published_at": "2026-08-20T08:00:00-07:00",
+    "category": "Telecommunications",
+    "popularity_basis": "Major telecommunications standardization milestone with AI-native 6G implications.",
     "sources": [
       {
-        "name": "Bleeping Computer",
-        "url": "https://www.bleepingcomputer.com/news/security/hackers-compromise-14-500-dahua-web-cameras-in-35-day-campaign/",
+        "name": "Light Reading",
+        "url": "https://www.lightreading.com/6g/why-the-first-ai-native-6g-cores-will-run-on-5g-foundations",
         "source_type": "news",
-        "published_at": "2026-08-19T14:09:00+00:00"
+        "published_at": "2026-08-20T08:00:00-07:00"
       },
       {
-        "name": "The Hacker News",
-        "url": "https://thehackernews.com/2026/08/hackers-compromised-14500-dahua-devices.html",
-        "source_type": "news",
-        "published_at": "2026-08-19T00:00:00+00:00"
+        "name": "Omdia",
+        "url": "https://omdia.com",
+        "source_type": "research",
+        "published_at": "2026-08-20T08:00:00-07:00"
       }
     ]
   },
   {
     "rank": 12,
-    "title": "US agencies warn of AI-powered attacks on Siemens PLCs in critical infrastructure",
-    "summary": "NSA, CISA, FBI, DOE, and EPA issued a joint advisory warning that threat actors are using AI-generated Python scripts to exploit Siemens S7 Series PLCs in water, energy, and manufacturing facilities. The attacks use internet scanning to find exposed devices for persistent reconnaissance.",
-    "published_at": "2026-08-19T13:50:00+00:00",
-    "category": "Cybersecurity",
-    "popularity_basis": "Multi-agency advisory on emerging AI-enabled OT attacks; high relevance to critical infrastructure operators.",
+    "title": "EMEA 5G mobile core revenue jumps 30% as Europe leads 5G SA adoption",
+    "summary": "EMEA 5G Mobile Core Network revenue reached new highs in Q2 2026, up 30% year-over-year. Europe leads with 80% of operators launching 5G Standalone networks for consumer services in 2026.",
+    "published_at": "2026-08-20T08:00:00-07:00",
+    "category": "Telecommunications",
+    "popularity_basis": "Significant regional telecom infrastructure growth data from Dell'Oro Group.",
     "sources": [
       {
-        "name": "Bleeping Computer",
-        "url": "https://www.bleepingcomputer.com/news/security/us-warns-of-ai-powered-attacks-on-siemens-plcs-in-critical-infrastructure/",
+        "name": "RCR Wireless News",
+        "url": "https://rcrtech.com/rcrwirelessnews/ran-stabilizes-as-5g-core-shifts/",
         "source_type": "news",
-        "published_at": "2026-08-19T13:50:00+00:00"
+        "published_at": "2026-08-20T08:00:00-07:00"
+      },
+      {
+        "name": "Dell'Oro Group",
+        "url": "https://dellorogroup.com",
+        "source_type": "research",
+        "published_at": "2026-08-20T08:00:00-07:00"
       }
     ]
   },
   {
     "rank": 13,
-    "title": "FTC Chairman says AI antitrust risks lie in chips, power, and construction, not models",
-    "summary": "FTC Chair Andrew Ferguson stated at the Aspen Forum that competition among LLM developers appears healthy, with the biggest competitive concerns upstream in compute infrastructure. His comments signal a narrower enforcement focus on AI deception rather than model capabilities.",
-    "published_at": "2026-08-19T00:00:00-04:00",
-    "category": "Regulation",
-    "popularity_basis": "Top regulator's policy speech at major forum; shapes expectations for AI antitrust enforcement.",
+    "title": "Google backs Marvell with custom AI chip partnership and potential $12.2B stake",
+    "summary": "Marvell will develop Google's custom AI chips while offering Google an option to buy a potential $12.2 billion stake, deepening their strategic relationship and reshaping AI supply chains.",
+    "published_at": "2026-08-20T08:00:00-07:00",
+    "category": "Semiconductors",
+    "popularity_basis": "Major Big Tech-semiconductor partnership with significant financial commitment.",
     "sources": [
       {
-        "name": "Broadband Breakfast",
-        "url": "https://broadbandbreakfast.com/federal-trade-commission-chairman-sees-ai-antitrust-risks-upstream/",
+        "name": "RCR Wireless News",
+        "url": "https://rcrtech.com/rcrwirelessnews/ran-stabilizes-as-5g-core-shifts/",
         "source_type": "news",
-        "published_at": "2026-08-19T00:00:00-04:00"
+        "published_at": "2026-08-20T08:00:00-07:00"
       },
       {
-        "name": "Holland & Knight",
-        "url": "https://www.hklaw.com/en/insights/publications/2026/08/a-look-at-the-ftcs-current-approach-to-ai-regulation",
-        "source_type": "news",
-        "published_at": "2026-08-19T00:00:00-05:00"
+        "name": "Marvell",
+        "url": "https://www.marvell.com",
+        "source_type": "company",
+        "published_at": "2026-08-20T08:00:00-07:00"
       }
     ]
   },
   {
     "rank": 14,
-    "title": "Nebius raises $4.5 billion in convertible notes to fund AI data center build-out",
-    "summary": "AI neocloud provider Nebius announced a $4.5 billion convertible senior notes offering to finance rapid data center expansion, with 2027 capacity already heavily contracted. The stock fell sharply on dilution concerns despite 454% revenue growth in Q2.",
-    "published_at": "2026-08-19T17:19:37+00:00",
-    "category": "Enterprise Software",
-    "popularity_basis": "Massive capital raise by fast-growing AI infrastructure company; significant market reaction.",
+    "title": "Nvidia designing Feynman GPUs on TSMC A16 1.6nm node",
+    "summary": "Nvidia is reportedly designing next-generation Feynman GPUs on TSMC's A16 1.6nm-class process rather than standard 2nm, potentially making Nvidia the first major customer for the advanced node.",
+    "published_at": "2026-08-20T08:00:00-07:00",
+    "category": "Semiconductors",
+    "popularity_basis": "Major semiconductor development from world's most valuable company with advanced process node implications.",
     "sources": [
       {
-        "name": "AOL",
-        "url": "https://www.aol.com/articles/why-nebius-group-stock-got-171937000.html",
+        "name": "RCR Wireless News",
+        "url": "https://rcrtech.com/rcrwirelessnews/ran-stabilizes-as-5g-core-shifts/",
         "source_type": "news",
-        "published_at": "2026-08-19T17:19:37+00:00"
+        "published_at": "2026-08-20T08:00:00-07:00"
+      },
+      {
+        "name": "TSMC",
+        "url": "https://www.tsmc.com",
+        "source_type": "company",
+        "published_at": "2026-08-20T08:00:00-07:00"
       }
     ]
   },
   {
     "rank": 15,
-    "title": "FCC releases 2026 Broadband Report showing 97% access to 100/20 Mbps service",
-    "summary": "The FCC's Section 706 Report found 97% of Americans have access to fixed broadband at 100/20 Mbps, with rural lack of access down 44% over two years. Mobile 5G covers nearly 95% of homes at 35/3 Mbps, and prices have fallen amid increased competition.",
-    "published_at": "2026-08-19T00:00:00-04:00",
-    "category": "Telecommunications",
-    "popularity_basis": "Official federal report on broadband deployment; informs policy and investment decisions.",
+    "title": "CareCloud data breach exposes 3.75 million patients' medical records",
+    "summary": "Healthcare technology provider CareCloud suffered a data breach affecting 3.75 million patients, with sensitive medical data stolen. The breach was disclosed on August 20, 2026.",
+    "published_at": "2026-08-20T09:13:00+05:30",
+    "category": "Cybersecurity",
+    "popularity_basis": "Major healthcare data breach affecting millions with significant privacy implications.",
     "sources": [
       {
-        "name": "NCTA",
-        "url": "https://www.ncta.com/news/fccs-2026-broadband-report-faster-speeds-lower-prices-more-choices",
+        "name": "WION News",
+        "url": "https://www.facebook.com/WIONews/videos/carecloud-data-breach-hits-375-million/1199585579048978/",
         "source_type": "news",
-        "published_at": "2026-08-19T00:00:00-04:00"
+        "published_at": "2026-08-20T09:13:00+05:30"
+      },
+      {
+        "name": "CareCloud",
+        "url": "https://www.carecloud.com",
+        "source_type": "company",
+        "published_at": "2026-08-20T09:13:00+05:30"
       }
     ]
   },
   {
     "rank": 16,
-    "title": "Healthtech firm CareCloud discloses breach impacting 3.7 million patients",
-    "summary": "CareCloud reported that an March 2026 breach of its AWS environment exposed data of 3.76 million individuals, with notifications sent starting July 25. The attack caused an 8-hour network disruption and database access, though no ransomware group has claimed responsibility.",
-    "published_at": "2026-08-19T20:07:12+00:00",
+    "title": "University of Texas San Antonio cyber breach delays fall classes",
+    "summary": "UTSA experienced a cybersecurity breach that delayed the start of fall classes to August 24 and left many students unable to access school accounts. The breach was disclosed on August 20, 2026.",
+    "published_at": "2026-08-20T18:13:00+05:30",
     "category": "Cybersecurity",
-    "popularity_basis": "Large healthcare data breach affecting millions; significant for HIPAA compliance and patient privacy.",
+    "popularity_basis": "Major university cyberattack with operational disruption affecting thousands of students.",
     "sources": [
       {
-        "name": "Bleeping Computer",
-        "url": "https://www.bleepingcomputer.com/news/security/healthtech-firm-carecloud-data-breach-impacts-37-million-patients/",
+        "name": "Spectrum News",
+        "url": "https://www.facebook.com/spectrumnews1tx/videos/the-university-of-texas-at-san-antonio-is-dealing-with-a-cybersecurity-breach-th/1770939787685172/",
         "source_type": "news",
-        "published_at": "2026-08-19T20:07:12+00:00"
+        "published_at": "2026-08-20T18:13:00+05:30"
+      },
+      {
+        "name": "UTSA",
+        "url": "https://www.utsa.edu",
+        "source_type": "official",
+        "published_at": "2026-08-20T18:13:00+05:30"
       }
     ]
   },
   {
     "rank": 17,
-    "title": "Butterfly Learnings raises Rs 65 crore pre-Series B for pediatric behavioral health",
-    "summary": "Mumbai-based Butterfly Learnings secured Rs 65 crore led by Inflexor Ventures to expand its centers and AI-powered autism screening solution. The platform focuses on children with neurodevelopmental conditions and plans to scale hospital partnerships nationwide.",
-    "published_at": "2026-08-19T11:21:58+05:30",
-    "category": "Startups",
-    "popularity_basis": "Significant healthtech funding in India's growing pediatric care segment.",
+    "title": "Hacking group Cl0p claims data theft from Shell, Philips, GE, Fiserv",
+    "summary": "Cl0p ransomware group claims mass data theft from major corporations including Shell, Philips, GE, and Fiserv, exploiting PTC Windchill and FlexPLM vulnerabilities tracked as CVE-2026-12569.",
+    "published_at": "2026-08-20T08:00:00-07:00",
+    "category": "Cybersecurity",
+    "popularity_basis": "Major enterprise ransomware campaign affecting multiple Fortune 500 companies.",
     "sources": [
       {
-        "name": "YourStory",
-        "url": "https://yourstory.com/2026/08/butterfly-learnings-raises-65-crore-funding-led-by-inflexor-ventures",
+        "name": "Crunch Atlas",
+        "url": "https://www.crunchatlas.com/insights/this-week-in-cyber-august-13-19-2026",
         "source_type": "news",
-        "published_at": "2026-08-19T11:21:58+05:30"
+        "published_at": "2026-08-20T08:00:00-07:00"
       },
       {
-        "name": "ET Entrepreneur",
-        "url": "https://entrepreneur.economictimes.indiatimes.com/news/funding/butterfly-learnings-raises-65-cr-pre-series-b-funding-led-by-inflexor-ventures/133348749",
+        "name": "DataBreachToday",
+        "url": "https://www.databreachtoday.com/",
         "source_type": "news",
-        "published_at": "2026-08-19T00:00:00+05:30"
+        "published_at": "2026-08-20T08:00:00-07:00"
       }
     ]
   },
   {
     "rank": 18,
-    "title": "Kyoto Fusioneering relocates US HQ to Tennessee for ORNL fusion breeding blanket project",
-    "summary": "Fusion energy developer Kyoto Fusioneering announced it will move its US headquarters to Oak Ridge, Tennessee, partnering with ORNL on a DOE-funded fusion breeding blanket test facility. The company will create over 50 jobs and invest nearly $47 million.",
-    "published_at": "2026-08-19T00:00:00-04:00",
-    "category": "Enterprise Software",
-    "popularity_basis": "Major fusion energy infrastructure investment with federal backing; significant for clean energy sector.",
+    "title": "Delta flight disrupted by Wi-Fi hacking incident",
+    "summary": "A Delta Air Lines flight experienced disruption due to a Wi-Fi hacking incident on August 20, 2026. Details of the attack method and impact are under investigation by cybersecurity authorities.",
+    "published_at": "2026-08-20T20:13:00-04:00",
+    "category": "Cybersecurity",
+    "popularity_basis": "Aviation cybersecurity incident affecting major airline with passenger safety implications.",
     "sources": [
       {
-        "name": "American Nuclear Society",
-        "url": "https://www.ans.org/news/step-1787087732/",
+        "name": "Dark Reading",
+        "url": "https://www.darkreading.com/cyber-risk/delta-flight-disrupted-wi-fi-hack",
         "source_type": "news",
-        "published_at": "2026-08-19T00:00:00-04:00"
+        "published_at": "2026-08-20T20:13:00-04:00"
+      },
+      {
+        "name": "Delta Air Lines",
+        "url": "https://www.delta.com",
+        "source_type": "company",
+        "published_at": "2026-08-20T20:13:00-04:00"
       }
     ]
   },
   {
     "rank": 19,
-    "title": "AlgoFET raises Rs 15 crore pre-Series A for autonomous drone ground infrastructure",
-    "summary": "Bengaluru-based AlgoFET secured Rs 15 crore from Piper Serica to scale its autonomous docking, charging, and battery management systems for drones. The startup has deployed over 2,000 units and works with drone manufacturers and the Indian Army.",
-    "published_at": "2026-08-19T13:14:46+05:30",
-    "category": "Startups",
-    "popularity_basis": "Deeptech drone infrastructure funding in India's growing defense and enterprise drone market.",
+    "title": "Alibaba profit drops 75% on massive AI infrastructure spending",
+    "summary": "Alibaba reported a 75% drop in net income as quarterly capital expenditure surged to nearly $10 billion for AI infrastructure. The company is significantly increasing AI investments amid competitive pressure.",
+    "published_at": "2026-08-20T10:00:00-07:00",
+    "category": "Big Tech",
+    "popularity_basis": "Major Big Tech earnings impact from AI spending with significant market implications.",
     "sources": [
       {
-        "name": "Deccan Herald",
-        "url": "https://www.deccanherald.com/business/companies/bengaluru-based-algofet-raises-rs-15-crore-from-piper-serica-4116906",
+        "name": "Bloomberg",
+        "url": "https://www.bloomberg.com",
         "source_type": "news",
-        "published_at": "2026-08-19T13:14:46+05:30"
+        "published_at": "2026-08-20T10:00:00-07:00"
       },
       {
-        "name": "Economic Times",
-        "url": "https://economictimes.com/tech/funding/algofet-secures-rs-15-crore-from-piper-serica-to-scale-autonomous-drone-infrastructure/articleshow/133348727.cms",
+        "name": "CNBC",
+        "url": "https://www.cnbc.com",
         "source_type": "news",
-        "published_at": "2026-08-19T12:39:35+05:30"
+        "published_at": "2026-08-20T10:00:00-07:00"
       }
     ]
   },
   {
     "rank": 20,
-    "title": "First Coffee raises $1.3 million pre-Series A to expand specialty coffee chain",
-    "summary": "Grab-and-go specialty coffee brand First Coffee secured $1.3 million led by Japan's DG Daiwa Ventures to expand beyond North India into tier-2 cities. The company operates 25+ outlets and plans national growth in India's rapidly growing specialty coffee market.",
-    "published_at": "2026-08-19T00:00:00+05:30",
-    "category": "Startups",
-    "popularity_basis": "Consumer brand funding in India's emerging specialty coffee segment with international VC backing.",
+    "title": "Bill Ackman sells 25% Amazon stake, adds Microsoft and Meta",
+    "summary": "Billionaire investor Bill Ackman sold 25% of his Amazon position while finishing exit from Alphabet and adding to Microsoft and Meta stakes, citing Microsoft as an AI winner and Meta's improved positioning.",
+    "published_at": "2026-08-20T08:00:00-07:00",
+    "category": "Big Tech",
+    "popularity_basis": "High-profile investor portfolio moves signaling AI investment preferences among hyperscalers.",
     "sources": [
       {
-        "name": "DealStreet Asia",
-        "url": "https://www.dealstreetasia.com/stories/first-coffee-atravelq-492643",
+        "name": "AOL Finance",
+        "url": "https://www.aol.com/articles/billionaire-bill-ackman-just-sold-180700000.html",
         "source_type": "news",
-        "published_at": "2026-08-19T00:00:00+05:30"
+        "published_at": "2026-08-20T08:00:00-07:00"
       },
       {
-        "name": "BW Retail World",
-        "url": "https://bwretailworld.com/companies/first-coffee-raises-1-3-mn-in-pre-series-a-round",
-        "source_type": "news",
-        "published_at": "2026-08-19T00:00:00+05:30"
+        "name": "Pershing Square",
+        "url": "https://www.pershingsquareholdings.com",
+        "source_type": "company",
+        "published_at": "2026-08-20T08:00:00-07:00"
       }
     ]
   },
   {
     "rank": 21,
-    "title": "European telcos push EMEA 5G mobile core revenue to record high in Q2 2026",
-    "summary": "Dell'Oro reported EMEA 5G Mobile Core Network revenue grew over 30% in Q2 2026, contributing more than any other region to the global market. The growth reflects accelerated 5G standalone deployments by European operators.",
-    "published_at": "2026-08-19T12:54:37+00:00",
-    "category": "Telecommunications",
-    "popularity_basis": "Industry analyst report showing regional 5G infrastructure momentum; relevant for telecom equipment vendors.",
+    "title": "Instagram expands TV app to Samsung, adds 30 AI story effects",
+    "summary": "Instagram's TV app launched on Samsung TVs alongside Amazon Fire TV and Google TV. The platform also introduced 30+ AI-powered story effects, audio swapping on published posts, and music-enabled carousels appearing in Reels.",
+    "published_at": "2026-08-20T08:00:00-07:00",
+    "category": "Social Media",
+    "popularity_basis": "Major social media platform update with AI features and TV expansion.",
     "sources": [
       {
-        "name": "Dell'Oro Group",
-        "url": "https://www.delloro.com/news/european-telcos-push-emea-5g-mobile-core-revenue-to-a-new-high-in-2q-2026/",
-        "source_type": "research",
-        "published_at": "2026-08-19T12:54:37+00:00"
+        "name": "Social Media Examiner",
+        "url": "https://www.socialmediaexaminer.com/new-ways-to-expand-reach-and-engagement-on-instagram/",
+        "source_type": "news",
+        "published_at": "2026-08-20T08:00:00-07:00"
+      },
+      {
+        "name": "Instagram",
+        "url": "https://about.instagram.com",
+        "source_type": "company",
+        "published_at": "2026-08-20T08:00:00-07:00"
       }
     ]
   },
   {
     "rank": 22,
-    "title": "Verizon loses Supreme Court bid to recover $46.9 million FCC privacy fine",
-    "summary": "The US Supreme Court rejected Verizon's petition to recover a $46.9 million FCC penalty over sales of customer real-time location data, leaving the privacy enforcement intact. The case underscores ongoing telecom privacy scrutiny.",
-    "published_at": "2026-08-19T00:00:00-04:00",
-    "category": "Regulation",
-    "popularity_basis": "Major telecom privacy enforcement upheld at highest court; sets precedent for location data protection.",
+    "title": "Fusion startup Inertia Enterprises cuts fuel pellet production to minutes",
+    "summary": "Fusion energy startup Inertia Enterprises announced it can now produce fuel pellets in minutes instead of days, potentially accelerating commercial fusion timelines. The breakthrough addresses a key manufacturing bottleneck.",
+    "published_at": "2026-08-20T10:00:00-07:00",
+    "category": "Startups",
+    "popularity_basis": "Significant fusion energy manufacturing breakthrough from well-funded startup.",
     "sources": [
       {
-        "name": "Simply Wall St",
-        "url": "https://simplywall.st/stocks/us/telecom/nyse-vz/verizon-communications/news/verizon-vz-loses-supreme-court-bid-to-recover-fcc-privacy-fi",
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/20/inertia-enterprises-finds-a-way-to-make-its-fusion-fuel-fast/",
         "source_type": "news",
-        "published_at": "2026-08-19T00:00:00-04:00"
+        "published_at": "2026-08-20T10:00:00-07:00"
+      },
+      {
+        "name": "Inertia Enterprises",
+        "url": "https://inertiaenterprises.com",
+        "source_type": "company",
+        "published_at": "2026-08-20T10:00:00-07:00"
       }
     ]
   },
   {
     "rank": 23,
-    "title": "Mass General, Dana-Farber develop AI tool to predict hundreds of diseases from health records",
-    "summary": "Researchers created an AI system that analyzes electronic health records to predict likelihood of developing hundreds of conditions including heart disease and cancers. The tool could enable earlier interventions and personalized preventive care.",
-    "published_at": "2026-08-19T00:00:00-04:00",
-    "category": "AI",
-    "popularity_basis": "Major medical AI research from leading institutions; significant for preventive healthcare applications.",
+    "title": "Enhanced Games company posts $62 million loss after tech steroid event",
+    "summary": "Enhanced Group, organizer of the technology-focused Enhanced Games, reported Q2 net loss of nearly $62 million. The event featuring performance-enhanced athletics failed to achieve financial viability.",
+    "published_at": "2026-08-20T14:08:00-07:00",
+    "category": "Consumer Technology",
+    "popularity_basis": "High-profile tech event financial failure with significant investor losses.",
     "sources": [
       {
-        "name": "WBUR",
-        "url": "https://www.wbur.org/hereandnow/2026/08/19/ai-health-predictor",
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/20/the-enhanced-games-techs-steroid-extravaganza-didnt-pay-off-as-company-posts-60-million-loss/",
         "source_type": "news",
-        "published_at": "2026-08-19T00:00:00-04:00"
+        "published_at": "2026-08-20T14:08:00-07:00"
+      },
+      {
+        "name": "Enhanced Group",
+        "url": "https://enhancedgames.com",
+        "source_type": "company",
+        "published_at": "2026-08-20T14:08:00-07:00"
       }
     ]
   },
   {
     "rank": 24,
-    "title": "Google reportedly developing hybrid TPU v10 with AMD x86 cores for agentic AI",
-    "summary": "Reports indicate Google is working with AMD on a hybrid TPU v10 chip combining TPU matrix engines with on-package x86 cores, targeting reinforcement learning and agentic AI workloads. The design aims to improve flexibility for complex AI tasks.",
-    "published_at": "2026-08-19T00:00:00+00:00",
-    "category": "Semiconductors",
-    "popularity_basis": "Major chip architecture development for AI; significant for hyperscaler custom silicon strategy.",
+    "title": "IFA 2026 ShowStoppers preview: 120+ companies to launch consumer tech",
+    "summary": "Over 120 companies will debut new products at ShowStoppers before IFA 2026 in Berlin, including balcony solar, smartphones, portable chargers, cameras, printers, and security devices launching September 3.",
+    "published_at": "2026-08-20T11:00:00+01:00",
+    "category": "Consumer Technology",
+    "popularity_basis": "Major consumer electronics trade fair preview with numerous product launches.",
     "sources": [
       {
-        "name": "RCR Wireless News",
-        "url": "https://www.linkedin.com/pulse/nebius-holds-capacity-google-hybridizes-tpus-emerging-pgckc",
+        "name": "EIN Presswire",
+        "url": "https://www.einpresswire.com/article/934858232/next-gen-balcony-solar-phones-chargers-cameras-printers-security-devices-will-launch-at-showstoppers-ifa-2026",
         "source_type": "news",
-        "published_at": "2026-08-19T00:00:00+00:00"
+        "published_at": "2026-08-20T11:00:00+01:00"
+      },
+      {
+        "name": "IFA Berlin",
+        "url": "https://www.ifa-berlin.com",
+        "source_type": "official",
+        "published_at": "2026-08-20T11:00:00+01:00"
       }
     ]
   },
   {
     "rank": 25,
-    "title": "AWS opens Builder Loft in Hyderabad to support India developer community",
-    "summary": "Amazon Web Services launched a permanent Builder Loft in Hyderabad offering free workshops, co-working space, and AI/cloud training for developers. The expansion follows San Francisco's first Loft and reflects AWS's focus on India's growing developer ecosystem.",
-    "published_at": "2026-08-19T12:41:53+05:30",
-    "category": "Enterprise Software",
-    "popularity_basis": "Major cloud provider expands developer community infrastructure in India; relevant for local tech ecosystem.",
+    "title": "a16z reports 44% of AI fund investments have international founders",
+    "summary": "Andreessen Horowitz disclosed that 44% of investments in its AI Apps Fund One and Two have international founders, with European academic spinouts among top AI scaleups. Foreign founders gaining advantage in AI sector.",
+    "published_at": "2026-08-20T06:00:00-07:00",
+    "category": "Startups",
+    "popularity_basis": "Major VC firm insights on AI startup founder demographics and international trends.",
     "sources": [
       {
-        "name": "YourStory",
-        "url": "https://yourstory.com/2026/08/startup-news-and-updates-daily-roundup-august-19-2026",
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/20/for-a16z-ai-gives-foreign-founders-an-advantage/",
         "source_type": "news",
-        "published_at": "2026-08-19T12:41:53+05:30"
+        "published_at": "2026-08-20T06:00:00-07:00"
+      },
+      {
+        "name": "Andreessen Horowitz",
+        "url": "https://a16z.com",
+        "source_type": "company",
+        "published_at": "2026-08-20T06:00:00-07:00"
       }
     ]
   }
