@@ -1,551 +1,421 @@
 [
   {
     "rank": 1,
-    "title": "California VC investment hits record $366 billion driven by AI boom",
-    "summary": "California has attracted $366 billion in venture capital in 2026, more than triple the other 49 states combined, fueled by the AI boom in Silicon Valley. This nearly doubles the state's previous 2025 record.",
-    "published_at": "2026-08-20T09:54:00-07:00",
-    "category": "Startups",
-    "popularity_basis": "Major financial milestone covered by WSJ with significant industry implications for AI investment concentration.",
+    "title": "TikTok agrees to $400 million US child-privacy settlement",
+    "summary": "TikTok and ByteDance agreed to settle US allegations that the platform violated children's privacy rules. The resolution is among the largest COPPA recoveries and increases pressure on platforms serving young users.",
+    "published_at": "2026-08-21T20:05:27+00:00",
+    "category": "Regulation",
+    "popularity_basis": "Broad coverage across mainstream, technology, and official sources; a major financial and regulatory outcome for a leading social platform.",
     "sources": [
       {
-        "name": "Wall Street Journal",
-        "url": "https://www.wsj.com/tech/ai/californias-ai-dominance-fuels-366-billion-venture-capital-bonanza-820e9bde",
-        "source_type": "news",
-        "published_at": "2026-08-20T09:54:00-07:00"
+        "name": "US Department of Justice",
+        "url": "https://www.justice.gov/opa/pr/justice-department-secures-400m-settlement-tiktok-and-bytedance-resolve-childrens-privacy",
+        "source_type": "regulatory"
       },
       {
-        "name": "PitchBook",
-        "url": "https://pitchbook.com",
-        "source_type": "research",
-        "published_at": "2026-08-20T09:54:00-07:00"
+        "name": "The Verge",
+        "url": "https://www.theverge.com/tech/983531/tiktok-settle-doj-lawsuit-coppa",
+        "source_type": "news",
+        "published_at": "2026-08-21T22:13:34+00:00"
+      },
+      {
+        "name": "Axios",
+        "url": "https://www.axios.com/2026/08/21/doj-tiktok-biden-lawsuit-settlement",
+        "source_type": "news"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "US agencies warn of AI-enabled hacking campaign targeting water systems",
-    "summary": "CISA, FBI, and NSA warned that hackers are using AI to target Siemens S7 programmable logic controllers in US water facilities across at least 12 states, with suspected Iran-nexus groups involved.",
-    "published_at": "2026-08-20T10:00:00-07:00",
-    "category": "Cybersecurity",
-    "popularity_basis": "Critical infrastructure threat with federal agency warnings and multi-state impact covered by multiple outlets.",
+    "title": "Apple reportedly cuts more than 200 Siri and Vision Pro roles",
+    "summary": "Apple reportedly eliminated more than 200 jobs across Vision Pro, Siri, and related AI software groups. The cuts suggest a reallocation away from parts of its spatial-computing effort toward newer AI and device priorities.",
+    "published_at": "2026-08-21T19:09:14+00:00",
+    "category": "Big Tech",
+    "popularity_basis": "High industry relevance because the reported restructuring affects Apple's AI and Vision Pro strategies.",
     "sources": [
       {
-        "name": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/20/us-says-hackers-are-targeting-vulnerable-water-systems-with-the-help-of-ai/",
+        "name": "AppleInsider",
+        "url": "https://appleinsider.com/articles/26/08/21/apples-latest-layoffs-extend-past-just-vision-pro-development-teams",
         "source_type": "news",
-        "published_at": "2026-08-20T10:00:00-07:00"
+        "published_at": "2026-08-21T19:09:14+00:00"
       },
       {
-        "name": "Cybersecurity Dive",
-        "url": "https://www.cybersecuritydive.com/news/what-we-know-so-far-about-the-hacking-campaign-against-us-water-systems/828374/",
+        "name": "The Verge",
+        "url": "https://www.theverge.com/tech/983451/apple-layoffs-vision-pro-siri",
         "source_type": "news",
-        "published_at": "2026-08-20T10:00:00-07:00"
+        "published_at": "2026-08-21T19:44:55+00:00"
+      },
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/21/apple-is-reportedly-cutting-hundreds-of-jobs-from-siri-vision-pro-teams/",
+        "source_type": "news",
+        "published_at": "2026-08-21T20:58:07+00:00"
       }
     ]
   },
   {
     "rank": 3,
-    "title": "OpenAI Q2 results disappoint with 18% revenue growth, $12.3 billion loss",
-    "summary": "OpenAI reported Q2 revenue of $6.7 billion, up 18% quarter-over-quarter, but posted a $12.3 billion loss. Growth lagged behind rival Anthropic, which doubled revenue to $11.6 billion in the same period.",
-    "published_at": "2026-08-20T08:00:00-07:00",
-    "category": "AI",
-    "popularity_basis": "Major AI company financial results with market-moving implications covered by WSJ, CNBC, and multiple outlets.",
+    "title": "Nvidia takes minority stake in AI data-center developer Cloverleaf",
+    "summary": "Nvidia made a minority investment in Cloverleaf Infrastructure, which develops infrastructure for US AI data-center projects. The deal highlights power and site development as critical constraints on continued AI-compute expansion.",
+    "published_at": "2026-08-21T14:35:15+00:00",
+    "category": "Semiconductors",
+    "popularity_basis": "A significant Nvidia infrastructure investment with implications for AI data-center capacity and energy supply.",
     "sources": [
       {
-        "name": "MarketWise",
-        "url": "https://marketwise.com/investing/openai-cash-burn-token-prices-plunge/",
+        "name": "Reuters",
+        "url": "https://www.reuters.com/technology/nvidia-invests-data-center-developer-cloverleaf-infrastructure-2026-08-21/",
         "source_type": "news",
-        "published_at": "2026-08-20T08:00:00-07:00"
+        "published_at": "2026-08-21T14:35:15+00:00"
       },
       {
-        "name": "CNBC",
-        "url": "https://www.cnbc.com/2026/08/18/stock-market-today-live-updates.html",
-        "source_type": "news",
-        "published_at": "2026-08-20T08:00:00-07:00"
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
+        "source_type": "news"
       }
     ]
   },
   {
     "rank": 4,
-    "title": "S&P 500 Q2 earnings surge 52% driven by AI company stake gains",
-    "summary": "S&P 500 companies posted 52% Q2 earnings growth, with Amazon and Alphabet recognizing $53.4 billion and $77.1 billion in unrealized gains from AI investments including Anthropic stakes.",
-    "published_at": "2026-08-20T10:04:00+00:00",
-    "category": "Big Tech",
-    "popularity_basis": "Major market-wide earnings data from Reuters with significant AI investment implications.",
+    "title": "OpenAI lowers GPT-5.6 Sol developer pricing by over 20%",
+    "summary": "OpenAI cut promotional API and credit pricing for GPT-5.6 Sol for three months, lowering standard short-context rates to $4 per million input tokens and $20 per million output tokens. The move intensifies competition for AI developers.",
+    "published_at": "2026-08-21T19:41:58+00:00",
+    "category": "AI",
+    "popularity_basis": "Direct impact on AI application economics, model selection, and competitive pricing among frontier-model providers.",
     "sources": [
       {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/business/gains-ai-company-stakes-juice-second-quarter-earnings-sp-500-2026-08-20/",
-        "source_type": "news",
-        "published_at": "2026-08-20T10:04:00+00:00"
+        "name": "OpenAI Community",
+        "url": "https://community.openai.com/t/20-price-reduction-for-gpt-5-6-sol-api-codex-credits-and-chatgpt-work/1391726",
+        "source_type": "company",
+        "published_at": "2026-08-21T19:41:58+00:00"
       },
       {
-        "name": "LSEG",
-        "url": "https://www.lseg.com",
-        "source_type": "research",
-        "published_at": "2026-08-20T10:04:00+00:00"
+        "name": "Reuters",
+        "url": "https://www.reuters.com/technology/openai-cuts-developer-pricing-frontier-gpt-56-sol-model-by-more-than-20-2026-08-21/",
+        "source_type": "news",
+        "published_at": "2026-08-21T21:29:38+00:00"
       }
     ]
   },
   {
     "rank": 5,
-    "title": "Meta child safety trial testimony reveals growth prioritized over safety",
-    "summary": "A former Meta engineering director testified that Mark Zuckerberg encouraged growth over child safety measures. The trial involves 29 state attorneys general suing Meta over allegedly addictive platforms harming children.",
-    "published_at": "2026-08-20T14:00:00-07:00",
-    "category": "Social Media",
-    "popularity_basis": "High-profile federal trial with major Big Tech implications and multi-state attorney general involvement.",
+    "title": "Anthropic reportedly discusses IPO exceeding $100 billion",
+    "summary": "People familiar with discussions told CNBC and The New York Times that Anthropic's bankers have discussed an IPO raising more than $100 billion at about a $2 trillion valuation. The plans and valuation remain unconfirmed.",
+    "published_at": "2026-08-21T21:44:30+00:00",
+    "category": "Startups",
+    "popularity_basis": "Potentially the largest AI-company public offering ever, with major consequences for AI financing and public markets.",
     "sources": [
       {
-        "name": "Claims Journal",
-        "url": "https://www.claimsjournal.com/date/2026-08-20/",
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html",
         "source_type": "news",
-        "published_at": "2026-08-20T14:00:00-07:00"
+        "published_at": "2026-08-21T21:44:30+00:00"
       },
       {
-        "name": "WCBE",
-        "url": "https://www.wcbe.org/2026-08-20/the-first-week-of-testimony-wraps-in-the-federal-child-safety-case-against-meta",
+        "name": "The New York Times",
+        "url": "https://www.nytimes.com/2026/08/21/technology/anthropic-ipo-100-billion.html",
         "source_type": "news",
-        "published_at": "2026-08-20T17:13:00-04:00"
+        "published_at": "2026-08-22T00:24:20+00:00"
       }
     ]
   },
   {
     "rank": 6,
-    "title": "AI startup valuations doubling in weeks as funding pace accelerates",
-    "summary": "Late-stage AI rounds are compressing from years to weeks, with Etched doubling to $21B valuation in under a month, Higgsfield reaching $5.4B, and Rillet hitting $1B unicorn status in 48 hours.",
-    "published_at": "2026-08-20T08:00:00-07:00",
-    "category": "Startups",
-    "popularity_basis": "Significant trend in AI funding with multiple high-profile examples covered by TechCrunch and VC analysis.",
+    "title": "China's YMTC targets $4.9 billion Shanghai listing",
+    "summary": "YMTC parent CCSH's Shanghai STAR Market listing application was accepted, setting up a planned 33 billion yuan share sale. It would rank among the exchange's largest offerings and fund a strategically important Chinese memory-chip maker.",
+    "published_at": "2026-08-21T12:22:23+00:00",
+    "category": "Semiconductors",
+    "popularity_basis": "Large semiconductor financing event with geopolitical relevance for China's domestic memory-chip industry.",
     "sources": [
       {
-        "name": "ValueAdd VC",
-        "url": "https://valueaddvc.com/pulse/pulse-analysis-ai-valuation-doubling-pace-2026",
-        "source_type": "research",
-        "published_at": "2026-08-20T08:00:00-07:00"
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/asia-pacific/chinese-flash-memory-chipmaker-ymtc-plans-raise-49-billion-shanghai-ipo-2026-08-21/",
+        "source_type": "news",
+        "published_at": "2026-08-21T12:22:23+00:00"
       },
       {
-        "name": "TechCrunch",
-        "url": "https://techcrunch.com",
+        "name": "Bloomberg",
+        "url": "https://finance.yahoo.com/technology/articles/china-chipmaker-ymtc-seeks-raise-144427520.html",
         "source_type": "news",
-        "published_at": "2026-08-20T08:00:00-07:00"
+        "published_at": "2026-08-21T14:44:27+00:00"
       }
     ]
   },
   {
     "rank": 7,
-    "title": "OpenAI gaining on Anthropic with US business users, Ramp data shows",
-    "summary": "Ramp data covering 70,000+ US businesses shows OpenAI growing faster than Anthropic in Q3, with GPT-5.6 Sol becoming preferred for developers. Anthropic holds 44% share versus OpenAI's 40% as of July.",
-    "published_at": "2026-08-20T11:00:00-07:00",
-    "category": "AI",
-    "popularity_basis": "Competitive AI market dynamics with fresh data from major corporate spend platform.",
+    "title": "Walmart begins rollout of Apple Pay and Google Pay",
+    "summary": "Walmart said select Walmart and Sam's Club locations will begin accepting tap-to-pay on August 24, with a broader US rollout planned through 2026. The change ends a longstanding gap at one of America's largest retailers.",
+    "published_at": "2026-08-21T17:01:59+00:00",
+    "category": "Consumer Technology",
+    "popularity_basis": "High consumer reach and direct implications for mobile-wallet adoption at a major US retailer.",
     "sources": [
       {
-        "name": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
+        "name": "The Verge",
+        "url": "https://www.theverge.com/tech/983336/walmart-apple-google-pay-launch",
         "source_type": "news",
-        "published_at": "2026-08-20T11:00:00-07:00"
+        "published_at": "2026-08-21T17:01:59+00:00"
       },
       {
-        "name": "Ramp",
-        "url": "https://ramp.com",
-        "source_type": "company",
-        "published_at": "2026-08-20T11:00:00-07:00"
+        "name": "Engadget",
+        "url": "https://www.engadget.com/2241608/walmart-will-finally-accept-tap-to-pay-in-stores-by-end-of-2026/",
+        "source_type": "news"
       }
     ]
   },
   {
     "rank": 8,
-    "title": "Google launches Preferred Sources button to help publishers combat AI traffic loss",
-    "summary": "Google introduced an embeddable 'Preferred Sources' button letting readers mark favorite publishers for prioritization in Search, Discover, and News. Studies show users are 2x more likely to click preferred sources.",
-    "published_at": "2026-08-20T11:00:00-07:00",
-    "category": "Big Tech",
-    "popularity_basis": "Major Google product change addressing publisher concerns about AI-driven traffic decline.",
+    "title": "LinkedIn says over one million users flagged suspected AI slop",
+    "summary": "LinkedIn said more than one million people used its “Seems like AI slop” reporting control. It is adding notifications to alert posters when members flag their content as apparently AI-generated.",
+    "published_at": "2026-08-21T19:11:07+00:00",
+    "category": "Social Media",
+    "popularity_basis": "Strong apparent engagement metric and broad relevance to AI-content moderation on professional social networks.",
     "sources": [
       {
-        "name": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
+        "name": "Engadget",
+        "url": "https://www.engadget.com/2241857/linkedin-says-its-ai-slop-button-is-working/",
         "source_type": "news",
-        "published_at": "2026-08-20T11:00:00-07:00"
+        "published_at": "2026-08-21T19:11:07+00:00"
       },
       {
-        "name": "Google",
-        "url": "https://blog.google",
-        "source_type": "company",
-        "published_at": "2026-08-20T11:00:00-07:00"
+        "name": "The Verge",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
+        "source_type": "news",
+        "published_at": "2026-08-21T21:25:50+00:00"
       }
     ]
   },
   {
     "rank": 9,
-    "title": "Ramp launches Router AI model routing service to compete with OpenRouter",
-    "summary": "Corporate expense platform Ramp launched Router, an AI model routing API supporting OpenAI, Anthropic, DeepSeek, and others. Free through 2026, it offers routing strategies and usage dashboards for token spend management.",
-    "published_at": "2026-08-20T18:00:00-07:00",
-    "category": "Enterprise Software",
-    "popularity_basis": "New AI infrastructure product from well-funded fintech entering competitive model routing market.",
+    "title": "YouTube plans 24-hour creator streaming stations",
+    "summary": "YouTube is preparing a feature that lets creators operate always-on streaming stations using their catalogues. The move expands the platform's push into continuous, lean-back viewing formats spanning creator content, podcasts, and music.",
+    "published_at": "2026-08-21T22:26:13+00:00",
+    "category": "Social Media",
+    "popularity_basis": "Material product change for creators and a major video platform's competition with television-like streaming.",
     "sources": [
       {
-        "name": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
+        "name": "The Verge",
+        "url": "https://www.theverge.com/streaming/983539/youtube-is-going-to-let-creators-make-24-7-streaming-stations",
         "source_type": "news",
-        "published_at": "2026-08-20T18:00:00-07:00"
-      },
-      {
-        "name": "Ramp",
-        "url": "https://ramp.com",
-        "source_type": "company",
-        "published_at": "2026-08-20T18:00:00-07:00"
+        "published_at": "2026-08-21T22:26:13+00:00"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "Patreon unveils 30 creator features including Clips and Niches communities",
-    "summary": "Patreon launched 30 new features including short-form Clips, topic-based Niches communities, improved discovery algorithms favoring smaller creators, and enhanced analytics. Native video and Quips now support adult content creators.",
-    "published_at": "2026-08-20T09:00:00-07:00",
-    "category": "Social Media",
-    "popularity_basis": "Major platform update from leading creator economy company with 30 new features.",
+    "title": "Anthropic brings Mythos 5 to Claude Security beta",
+    "summary": "Anthropic made Claude Security scans powered by Mythos 5 available in public beta to Claude Enterprise customers. The service scans codebases for vulnerabilities and proposes fixes for human review.",
+    "published_at": "2026-08-21T18:59:07+00:00",
+    "category": "Cybersecurity",
+    "popularity_basis": "Important enterprise AI-security deployment from a frontier-model company, with practical implications for secure software development.",
     "sources": [
       {
-        "name": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/20/patreon-launches-30-new-creator-features-including-short-form-clips-and-revamped-discovery/",
+        "name": "The New Stack",
+        "url": "https://thenewstack.io/anthropic-mythos-claude-security/",
         "source_type": "news",
-        "published_at": "2026-08-20T09:00:00-07:00"
+        "published_at": "2026-08-21T18:59:07+00:00"
       },
       {
-        "name": "Patreon",
-        "url": "https://www.patreon.com",
-        "source_type": "company",
-        "published_at": "2026-08-20T09:00:00-07:00"
+        "name": "The Decoder",
+        "url": "https://the-decoder.com/anthropic-puts-its-most-powerful-model-claude-mythos-5-to-work-for-cyber-defense/",
+        "source_type": "news",
+        "published_at": "2026-08-21T19:35:37+00:00"
       }
     ]
   },
   {
     "rank": 11,
-    "title": "3GPP to decide 6G core architecture in September with AI-native design",
-    "summary": "3GPP will make critical 6G decisions in September 2026. Early deployments around 2030 will likely use evolved 5G core infrastructure with new AI domain, balancing ambitious AI-native goals with practical implementation constraints.",
-    "published_at": "2026-08-20T08:00:00-07:00",
-    "category": "Telecommunications",
-    "popularity_basis": "Major telecommunications standardization milestone with AI-native 6G implications.",
+    "title": "South Korea proposes semiconductor-windfall fund supporting AI",
+    "summary": "South Korea said it plans a Future Response Fund using tax revenue above a benchmark, with spending aimed at youth programs and growth sectors including AI. The government did not provide an official fund-size estimate.",
+    "published_at": "2026-08-21T00:00:00+00:00",
+    "category": "Regulation",
+    "popularity_basis": "National industrial-policy move linking semiconductor gains to future AI investment and social spending.",
     "sources": [
       {
-        "name": "Light Reading",
-        "url": "https://www.lightreading.com/6g/why-the-first-ai-native-6g-cores-will-run-on-5g-foundations",
+        "name": "Reuters",
+        "url": "https://insidetelecom.com/south-korea-plans-chip-windfall-fund-to-back-youth-ai-investment/",
         "source_type": "news",
-        "published_at": "2026-08-20T08:00:00-07:00"
-      },
-      {
-        "name": "Omdia",
-        "url": "https://omdia.com",
-        "source_type": "research",
-        "published_at": "2026-08-20T08:00:00-07:00"
+        "published_at": "2026-08-21T00:00:00+00:00"
       }
     ]
   },
   {
     "rank": 12,
-    "title": "EMEA 5G mobile core revenue jumps 30% as Europe leads 5G SA adoption",
-    "summary": "EMEA 5G Mobile Core Network revenue reached new highs in Q2 2026, up 30% year-over-year. Europe leads with 80% of operators launching 5G Standalone networks for consumer services in 2026.",
-    "published_at": "2026-08-20T08:00:00-07:00",
-    "category": "Telecommunications",
-    "popularity_basis": "Significant regional telecom infrastructure growth data from Dell'Oro Group.",
+    "title": "Starcloud adds $250 million for orbital AI data centers",
+    "summary": "Starcloud added a $250 million extension to its Series A, valuing the satellite-computing startup at $2.3 billion. The company plans to use the funding for manufacturing and a larger spacecraft intended for orbital AI inference.",
+    "published_at": "2026-08-21T00:00:00+00:00",
+    "category": "Startups",
+    "popularity_basis": "Large AI-infrastructure financing round involving an unconventional orbital-computing strategy and major strategic investors.",
     "sources": [
       {
-        "name": "RCR Wireless News",
-        "url": "https://rcrtech.com/rcrwirelessnews/ran-stabilizes-as-5g-core-shifts/",
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
         "source_type": "news",
-        "published_at": "2026-08-20T08:00:00-07:00"
-      },
-      {
-        "name": "Dell'Oro Group",
-        "url": "https://dellorogroup.com",
-        "source_type": "research",
-        "published_at": "2026-08-20T08:00:00-07:00"
+        "published_at": "2026-08-21T00:00:00+00:00"
       }
     ]
   },
   {
     "rank": 13,
-    "title": "Google backs Marvell with custom AI chip partnership and potential $12.2B stake",
-    "summary": "Marvell will develop Google's custom AI chips while offering Google an option to buy a potential $12.2 billion stake, deepening their strategic relationship and reshaping AI supply chains.",
-    "published_at": "2026-08-20T08:00:00-07:00",
-    "category": "Semiconductors",
-    "popularity_basis": "Major Big Tech-semiconductor partnership with significant financial commitment.",
+    "title": "Kakao approves split separating AI platform and investment operations",
+    "summary": "Kakao's board approved a restructuring that will create Kakao AI for its chat-platform, advertising, commerce, and AI businesses, while Kakao X retains investment operations. The company expects the split to complete in January 2027.",
+    "published_at": "2026-08-21T00:00:00+00:00",
+    "category": "Big Tech",
+    "popularity_basis": "Major governance overhaul at South Korea's dominant chat-app operator, with AI placed at the center of the operating business.",
     "sources": [
       {
-        "name": "RCR Wireless News",
-        "url": "https://rcrtech.com/rcrwirelessnews/ran-stabilizes-as-5g-core-shifts/",
+        "name": "Seoul Economic Daily",
+        "url": "https://en.sedaily.com/technology/2026/08/21/kakao-to-split-into-ai-and-investment-arms-in-biggest",
         "source_type": "news",
-        "published_at": "2026-08-20T08:00:00-07:00"
+        "published_at": "2026-08-21T00:00:00+00:00"
       },
       {
-        "name": "Marvell",
-        "url": "https://www.marvell.com",
-        "source_type": "company",
-        "published_at": "2026-08-20T08:00:00-07:00"
+        "name": "Reuters",
+        "url": "https://927thevan.com/2026/08/20/kakao-to-spin-off-chat-app-based-platform-business-into-kakaoai-relist-in-2027/",
+        "source_type": "news",
+        "published_at": "2026-08-20T22:07:00+00:00"
       }
     ]
   },
   {
     "rank": 14,
-    "title": "Nvidia designing Feynman GPUs on TSMC A16 1.6nm node",
-    "summary": "Nvidia is reportedly designing next-generation Feynman GPUs on TSMC's A16 1.6nm-class process rather than standard 2nm, potentially making Nvidia the first major customer for the advanced node.",
-    "published_at": "2026-08-20T08:00:00-07:00",
-    "category": "Semiconductors",
-    "popularity_basis": "Major semiconductor development from world's most valuable company with advanced process node implications.",
+    "title": "US lab examines security risks in Chinese lidar",
+    "summary": "Idaho National Laboratory is reportedly investigating whether Chinese lidar sensors could create security risks if widely deployed in US vehicles. The review underscores expanding scrutiny of connected automotive components from China.",
+    "published_at": "2026-08-21T00:00:00+00:00",
+    "category": "Cybersecurity",
+    "popularity_basis": "Government scrutiny of Chinese automotive technology has national-security and supply-chain implications.",
     "sources": [
       {
-        "name": "RCR Wireless News",
-        "url": "https://rcrtech.com/rcrwirelessnews/ran-stabilizes-as-5g-core-shifts/",
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/21/us-government-lab-is-probing-chinese-lidar-for-security-vulnerabilities/",
         "source_type": "news",
-        "published_at": "2026-08-20T08:00:00-07:00"
-      },
-      {
-        "name": "TSMC",
-        "url": "https://www.tsmc.com",
-        "source_type": "company",
-        "published_at": "2026-08-20T08:00:00-07:00"
+        "published_at": "2026-08-21T00:00:00+00:00"
       }
     ]
   },
   {
     "rank": 15,
-    "title": "CareCloud data breach exposes 3.75 million patients' medical records",
-    "summary": "Healthcare technology provider CareCloud suffered a data breach affecting 3.75 million patients, with sensitive medical data stolen. The breach was disclosed on August 20, 2026.",
-    "published_at": "2026-08-20T09:13:00+05:30",
-    "category": "Cybersecurity",
-    "popularity_basis": "Major healthcare data breach affecting millions with significant privacy implications.",
+    "title": "Waymo submits documents in federal child-collision investigation",
+    "summary": "Waymo provided documents to the US National Highway Traffic Safety Administration in its probe of a January low-speed crash involving a robotaxi and a child. The case adds scrutiny to autonomous-vehicle safety oversight.",
+    "published_at": "2026-08-21T00:00:00+00:00",
+    "category": "Regulation",
+    "popularity_basis": "Federal scrutiny of Waymo is significant for the commercial expansion and safety governance of robotaxis.",
     "sources": [
       {
-        "name": "WION News",
-        "url": "https://www.facebook.com/WIONews/videos/carecloud-data-breach-hits-375-million/1199585579048978/",
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/21/waymo-hands-over-documents-in-nhtsas-child-collision-probe/",
         "source_type": "news",
-        "published_at": "2026-08-20T09:13:00+05:30"
-      },
-      {
-        "name": "CareCloud",
-        "url": "https://www.carecloud.com",
-        "source_type": "company",
-        "published_at": "2026-08-20T09:13:00+05:30"
+        "published_at": "2026-08-21T00:00:00+00:00"
       }
     ]
   },
   {
     "rank": 16,
-    "title": "University of Texas San Antonio cyber breach delays fall classes",
-    "summary": "UTSA experienced a cybersecurity breach that delayed the start of fall classes to August 24 and left many students unable to access school accounts. The breach was disclosed on August 20, 2026.",
-    "published_at": "2026-08-20T18:13:00+05:30",
-    "category": "Cybersecurity",
-    "popularity_basis": "Major university cyberattack with operational disruption affecting thousands of students.",
+    "title": "Rillet raises $100 million at $1 billion valuation",
+    "summary": "AI-native accounting startup Rillet announced a $100 million financing round at a $1 billion valuation. The funding signals investor appetite for software designed around AI agents rather than conventional human-only workflows.",
+    "published_at": "2026-08-21T00:00:00+00:00",
+    "category": "Startups",
+    "popularity_basis": "Large financing and unicorn valuation in the fast-growing market for AI-native enterprise applications.",
     "sources": [
       {
-        "name": "Spectrum News",
-        "url": "https://www.facebook.com/spectrumnews1tx/videos/the-university-of-texas-at-san-antonio-is-dealing-with-a-cybersecurity-breach-th/1770939787685172/",
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/08/21/how-ai-accounting-startup-rillet-raised-100m-and-became-a-unicorn-in-48-hours/",
         "source_type": "news",
-        "published_at": "2026-08-20T18:13:00+05:30"
-      },
-      {
-        "name": "UTSA",
-        "url": "https://www.utsa.edu",
-        "source_type": "official",
-        "published_at": "2026-08-20T18:13:00+05:30"
+        "published_at": "2026-08-21T00:00:00+00:00"
       }
     ]
   },
   {
     "rank": 17,
-    "title": "Hacking group Cl0p claims data theft from Shell, Philips, GE, Fiserv",
-    "summary": "Cl0p ransomware group claims mass data theft from major corporations including Shell, Philips, GE, and Fiserv, exploiting PTC Windchill and FlexPLM vulnerabilities tracked as CVE-2026-12569.",
-    "published_at": "2026-08-20T08:00:00-07:00",
-    "category": "Cybersecurity",
-    "popularity_basis": "Major enterprise ransomware campaign affecting multiple Fortune 500 companies.",
+    "title": "Tesla reportedly discontinues Solar Roof tile sales",
+    "summary": "Tesla has reportedly stopped taking orders for Solar Roof tiles and will provide conventional solar panels instead. The reported decision would end a high-profile effort to make rooftop solar resemble standard roofing materials.",
+    "published_at": "2026-08-21T12:01:07+00:00",
+    "category": "Consumer Technology",
+    "popularity_basis": "A notable retreat from a prominent Tesla consumer-energy product with broad brand recognition.",
     "sources": [
       {
-        "name": "Crunch Atlas",
-        "url": "https://www.crunchatlas.com/insights/this-week-in-cyber-august-13-19-2026",
+        "name": "The Verge",
+        "url": "https://www.theverge.com/tech/983167/tesla-solar-roof-tiles-discontinued",
         "source_type": "news",
-        "published_at": "2026-08-20T08:00:00-07:00"
-      },
-      {
-        "name": "DataBreachToday",
-        "url": "https://www.databreachtoday.com/",
-        "source_type": "news",
-        "published_at": "2026-08-20T08:00:00-07:00"
+        "published_at": "2026-08-21T12:01:07+00:00"
       }
     ]
   },
   {
     "rank": 18,
-    "title": "Delta flight disrupted by Wi-Fi hacking incident",
-    "summary": "A Delta Air Lines flight experienced disruption due to a Wi-Fi hacking incident on August 20, 2026. Details of the attack method and impact are under investigation by cybersecurity authorities.",
-    "published_at": "2026-08-20T20:13:00-04:00",
-    "category": "Cybersecurity",
-    "popularity_basis": "Aviation cybersecurity incident affecting major airline with passenger safety implications.",
+    "title": "HoverAir halts US orders for Versa modular drone",
+    "summary": "HoverAir stopped accepting US orders for its Versa modular drone days after launch, citing the impact of US drone restrictions. The episode illustrates how regulation is shaping consumer-drone availability.",
+    "published_at": "2026-08-21T22:14:11+00:00",
+    "category": "Consumer Technology",
+    "popularity_basis": "Timely example of US drone-policy effects on a newly launched consumer product.",
     "sources": [
       {
-        "name": "Dark Reading",
-        "url": "https://www.darkreading.com/cyber-risk/delta-flight-disrupted-wi-fi-hack",
+        "name": "The Verge",
+        "url": "https://www.theverge.com/tech/983500/hoverair-versa-halted-us-fcc-drone-ban-indiegogo",
         "source_type": "news",
-        "published_at": "2026-08-20T20:13:00-04:00"
-      },
-      {
-        "name": "Delta Air Lines",
-        "url": "https://www.delta.com",
-        "source_type": "company",
-        "published_at": "2026-08-20T20:13:00-04:00"
+        "published_at": "2026-08-21T22:14:11+00:00"
       }
     ]
   },
   {
     "rank": 19,
-    "title": "Alibaba profit drops 75% on massive AI infrastructure spending",
-    "summary": "Alibaba reported a 75% drop in net income as quarterly capital expenditure surged to nearly $10 billion for AI infrastructure. The company is significantly increasing AI investments amid competitive pressure.",
-    "published_at": "2026-08-20T10:00:00-07:00",
-    "category": "Big Tech",
-    "popularity_basis": "Major Big Tech earnings impact from AI spending with significant market implications.",
+    "title": "Patreon outlines discovery algorithm and platform-security changes",
+    "summary": "Patreon announced a roadmap that includes discovery-algorithm updates intended to help smaller creators, alongside platform and security improvements. The changes affect creator visibility and audience acquisition on a major membership platform.",
+    "published_at": "2026-08-21T11:08:09+00:00",
+    "category": "Social Media",
+    "popularity_basis": "Platform-policy changes can materially affect distribution and revenue for Patreon creators.",
     "sources": [
       {
-        "name": "Bloomberg",
-        "url": "https://www.bloomberg.com",
+        "name": "The Verge",
+        "url": "https://www.theverge.com/tech/983156/patreon-update-roadmap-algorithm-changes",
         "source_type": "news",
-        "published_at": "2026-08-20T10:00:00-07:00"
-      },
-      {
-        "name": "CNBC",
-        "url": "https://www.cnbc.com",
-        "source_type": "news",
-        "published_at": "2026-08-20T10:00:00-07:00"
+        "published_at": "2026-08-21T11:08:09+00:00"
       }
     ]
   },
   {
     "rank": 20,
-    "title": "Bill Ackman sells 25% Amazon stake, adds Microsoft and Meta",
-    "summary": "Billionaire investor Bill Ackman sold 25% of his Amazon position while finishing exit from Alphabet and adding to Microsoft and Meta stakes, citing Microsoft as an AI winner and Meta's improved positioning.",
-    "published_at": "2026-08-20T08:00:00-07:00",
-    "category": "Big Tech",
-    "popularity_basis": "High-profile investor portfolio moves signaling AI investment preferences among hyperscalers.",
+    "title": "Take-Two seeks Microsoft and Discord data over GTA leak",
+    "summary": "Take-Two filed petitions seeking subpoenas for information from Microsoft and Discord as it investigates the source of leaked Grand Theft Auto VI footage. The action highlights escalating legal responses to major game-development leaks.",
+    "published_at": "2026-08-21T00:00:00+00:00",
+    "category": "Regulation",
+    "popularity_basis": "High-interest legal action involving a major game publisher, Discord, Microsoft, and one of gaming's biggest releases.",
     "sources": [
       {
-        "name": "AOL Finance",
-        "url": "https://www.aol.com/articles/billionaire-bill-ackman-just-sold-180700000.html",
+        "name": "Engadget",
+        "url": "https://www.engadget.com/2241941/take-two-subpoenas-discord-and-microsoft-in-hunt-for-gta-vi-leaker/",
         "source_type": "news",
-        "published_at": "2026-08-20T08:00:00-07:00"
-      },
-      {
-        "name": "Pershing Square",
-        "url": "https://www.pershingsquareholdings.com",
-        "source_type": "company",
-        "published_at": "2026-08-20T08:00:00-07:00"
+        "published_at": "2026-08-21T00:00:00+00:00"
       }
     ]
   },
   {
     "rank": 21,
-    "title": "Instagram expands TV app to Samsung, adds 30 AI story effects",
-    "summary": "Instagram's TV app launched on Samsung TVs alongside Amazon Fire TV and Google TV. The platform also introduced 30+ AI-powered story effects, audio swapping on published posts, and music-enabled carousels appearing in Reels.",
-    "published_at": "2026-08-20T08:00:00-07:00",
-    "category": "Social Media",
-    "popularity_basis": "Major social media platform update with AI features and TV expansion.",
+    "title": "RayNeo introduces AI smart-glasses range with real-time translation",
+    "summary": "RayNeo unveiled minimalist iO smart glasses and a higher-spec GT line. The company says the iO model supports real-time translation across 55 languages and 109 accents using Timekettle's BabelOS 3.0.",
+    "published_at": "2026-08-21T00:00:00+00:00",
+    "category": "Consumer Technology",
+    "popularity_basis": "Part of the active competition to establish AI-enabled smart glasses as a mainstream hardware category.",
     "sources": [
       {
-        "name": "Social Media Examiner",
-        "url": "https://www.socialmediaexaminer.com/new-ways-to-expand-reach-and-engagement-on-instagram/",
+        "name": "Engadget",
+        "url": "https://www.engadget.com/2241335/rayneo-ar-smart-glasses-io-gt-series/",
         "source_type": "news",
-        "published_at": "2026-08-20T08:00:00-07:00"
-      },
-      {
-        "name": "Instagram",
-        "url": "https://about.instagram.com",
-        "source_type": "company",
-        "published_at": "2026-08-20T08:00:00-07:00"
+        "published_at": "2026-08-21T00:00:00+00:00"
       }
     ]
   },
   {
     "rank": 22,
-    "title": "Fusion startup Inertia Enterprises cuts fuel pellet production to minutes",
-    "summary": "Fusion energy startup Inertia Enterprises announced it can now produce fuel pellets in minutes instead of days, potentially accelerating commercial fusion timelines. The breakthrough addresses a key manufacturing bottleneck.",
-    "published_at": "2026-08-20T10:00:00-07:00",
+    "title": "Japanese space startup Letara raises $16 million for expansion",
+    "summary": "Letara, a Sapporo spacecraft-propulsion startup, raised ¥2.6 billion, about $16 million, to expand beyond satellite thrusters. The funding supports its effort to commercialize research and scale its hybrid-propulsion technology.",
+    "published_at": "2026-08-21T00:00:00+00:00",
     "category": "Startups",
-    "popularity_basis": "Significant fusion energy manufacturing breakthrough from well-funded startup.",
+    "popularity_basis": "Notable space-technology financing as commercial spacecraft suppliers expand in Japan.",
     "sources": [
       {
         "name": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/20/inertia-enterprises-finds-a-way-to-make-its-fusion-fuel-fast/",
+        "url": "https://techcrunch.com/2026/08/21/japanese-space-tech-startup-letara-expands-beyond-satellite-thrusters-with-16m/",
         "source_type": "news",
-        "published_at": "2026-08-20T10:00:00-07:00"
-      },
-      {
-        "name": "Inertia Enterprises",
-        "url": "https://inertiaenterprises.com",
-        "source_type": "company",
-        "published_at": "2026-08-20T10:00:00-07:00"
-      }
-    ]
-  },
-  {
-    "rank": 23,
-    "title": "Enhanced Games company posts $62 million loss after tech steroid event",
-    "summary": "Enhanced Group, organizer of the technology-focused Enhanced Games, reported Q2 net loss of nearly $62 million. The event featuring performance-enhanced athletics failed to achieve financial viability.",
-    "published_at": "2026-08-20T14:08:00-07:00",
-    "category": "Consumer Technology",
-    "popularity_basis": "High-profile tech event financial failure with significant investor losses.",
-    "sources": [
-      {
-        "name": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/20/the-enhanced-games-techs-steroid-extravaganza-didnt-pay-off-as-company-posts-60-million-loss/",
-        "source_type": "news",
-        "published_at": "2026-08-20T14:08:00-07:00"
-      },
-      {
-        "name": "Enhanced Group",
-        "url": "https://enhancedgames.com",
-        "source_type": "company",
-        "published_at": "2026-08-20T14:08:00-07:00"
-      }
-    ]
-  },
-  {
-    "rank": 24,
-    "title": "IFA 2026 ShowStoppers preview: 120+ companies to launch consumer tech",
-    "summary": "Over 120 companies will debut new products at ShowStoppers before IFA 2026 in Berlin, including balcony solar, smartphones, portable chargers, cameras, printers, and security devices launching September 3.",
-    "published_at": "2026-08-20T11:00:00+01:00",
-    "category": "Consumer Technology",
-    "popularity_basis": "Major consumer electronics trade fair preview with numerous product launches.",
-    "sources": [
-      {
-        "name": "EIN Presswire",
-        "url": "https://www.einpresswire.com/article/934858232/next-gen-balcony-solar-phones-chargers-cameras-printers-security-devices-will-launch-at-showstoppers-ifa-2026",
-        "source_type": "news",
-        "published_at": "2026-08-20T11:00:00+01:00"
-      },
-      {
-        "name": "IFA Berlin",
-        "url": "https://www.ifa-berlin.com",
-        "source_type": "official",
-        "published_at": "2026-08-20T11:00:00+01:00"
-      }
-    ]
-  },
-  {
-    "rank": 25,
-    "title": "a16z reports 44% of AI fund investments have international founders",
-    "summary": "Andreessen Horowitz disclosed that 44% of investments in its AI Apps Fund One and Two have international founders, with European academic spinouts among top AI scaleups. Foreign founders gaining advantage in AI sector.",
-    "published_at": "2026-08-20T06:00:00-07:00",
-    "category": "Startups",
-    "popularity_basis": "Major VC firm insights on AI startup founder demographics and international trends.",
-    "sources": [
-      {
-        "name": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/20/for-a16z-ai-gives-foreign-founders-an-advantage/",
-        "source_type": "news",
-        "published_at": "2026-08-20T06:00:00-07:00"
-      },
-      {
-        "name": "Andreessen Horowitz",
-        "url": "https://a16z.com",
-        "source_type": "company",
-        "published_at": "2026-08-20T06:00:00-07:00"
+        "published_at": "2026-08-21T00:00:00+00:00"
       }
     ]
   }
