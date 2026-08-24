@@ -1,421 +1,365 @@
 [
   {
     "rank": 1,
-    "title": "TikTok agrees to $400 million US child-privacy settlement",
-    "summary": "TikTok and ByteDance agreed to settle US allegations that the platform violated children's privacy rules. The resolution is among the largest COPPA recoveries and increases pressure on platforms serving young users.",
-    "published_at": "2026-08-21T20:05:27+00:00",
-    "category": "Regulation",
-    "popularity_basis": "Broad coverage across mainstream, technology, and official sources; a major financial and regulatory outcome for a leading social platform.",
+    "title": "Alibaba raises $10.2 billion for AI expansion",
+    "summary": "Alibaba priced a Hong Kong share placement worth about $10.2 billion and said proceeds would fund full-stack AI capabilities and infrastructure. The scale makes it one of the largest recent capital raises for an AI strategy.",
+    "published_at": "2026-08-23T14:46:14+05:30",
+    "category": "Big Tech",
+    "popularity_basis": "Broad coverage from major financial and technology outlets, unusually large financing, and direct implications for Chinese AI competition.",
     "sources": [
       {
-        "name": "US Department of Justice",
-        "url": "https://www.justice.gov/opa/pr/justice-department-secures-400m-settlement-tiktok-and-bytedance-resolve-childrens-privacy",
-        "source_type": "regulatory"
-      },
-      {
-        "name": "The Verge",
-        "url": "https://www.theverge.com/tech/983531/tiktok-settle-doj-lawsuit-coppa",
+        "name": "Bloomberg",
+        "url": "https://www.bloomberg.com/news/articles/2026-08-23/alibaba-to-raise-10-billion-by-selling-shares-for-ai-expansion",
         "source_type": "news",
-        "published_at": "2026-08-21T22:13:34+00:00"
+        "published_at": "2026-08-23T14:46:14+05:30"
       },
       {
-        "name": "Axios",
-        "url": "https://www.axios.com/2026/08/21/doj-tiktok-biden-lawsuit-settlement",
-        "source_type": "news"
+        "name": "Reuters",
+        "url": "https://www.reuters.com/business/retail-consumer/alibaba-shares-fall-8-after-10-billion-hong-kong-share-sale-2026-08-24/",
+        "source_type": "news",
+        "published_at": "2026-08-24T07:21:50+05:30"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "Apple reportedly cuts more than 200 Siri and Vision Pro roles",
-    "summary": "Apple reportedly eliminated more than 200 jobs across Vision Pro, Siri, and related AI software groups. The cuts suggest a reallocation away from parts of its spatial-computing effort toward newer AI and device priorities.",
-    "published_at": "2026-08-21T19:09:14+00:00",
-    "category": "Big Tech",
-    "popularity_basis": "High industry relevance because the reported restructuring affects Apple's AI and Vision Pro strategies.",
+    "title": "Nvidia reportedly considers Perplexity investment",
+    "summary": "Nvidia is reportedly discussing an investment in Perplexity in a round that could value the AI-search company above $30 billion. The discussions are unconfirmed and reportedly based on people familiar with the matter.",
+    "published_at": "2026-08-24T08:27:57+05:30",
+    "category": "AI",
+    "popularity_basis": "Potential investment by the leading AI-chip supplier in a prominent AI-search company drew broad financial and technology coverage.",
     "sources": [
       {
-        "name": "AppleInsider",
-        "url": "https://appleinsider.com/articles/26/08/21/apples-latest-layoffs-extend-past-just-vision-pro-development-teams",
+        "name": "Reuters",
+        "url": "https://www.reuters.com/technology/nvidia-discusses-perplexity-investment-30-billion-plus-valuation-information-2026-08-24/",
         "source_type": "news",
-        "published_at": "2026-08-21T19:09:14+00:00"
+        "published_at": "2026-08-24T08:27:57+05:30"
       },
       {
-        "name": "The Verge",
-        "url": "https://www.theverge.com/tech/983451/apple-layoffs-vision-pro-siri",
+        "name": "The Business Times",
+        "url": "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/nvidia-discusses-perplexity-investment-more-us30-billion-valuation-report",
         "source_type": "news",
-        "published_at": "2026-08-21T19:44:55+00:00"
-      },
-      {
-        "name": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/21/apple-is-reportedly-cutting-hundreds-of-jobs-from-siri-vision-pro-teams/",
-        "source_type": "news",
-        "published_at": "2026-08-21T20:58:07+00:00"
+        "published_at": "2026-08-24T10:12:56+05:30"
       }
     ]
   },
   {
     "rank": 3,
-    "title": "Nvidia takes minority stake in AI data-center developer Cloverleaf",
-    "summary": "Nvidia made a minority investment in Cloverleaf Infrastructure, which develops infrastructure for US AI data-center projects. The deal highlights power and site development as critical constraints on continued AI-compute expansion.",
-    "published_at": "2026-08-21T14:35:15+00:00",
-    "category": "Semiconductors",
-    "popularity_basis": "A significant Nvidia infrastructure investment with implications for AI data-center capacity and energy supply.",
+    "title": "SoftBank plans record retail bond sale",
+    "summary": "SoftBank Group filed for a planned ¥1 trillion, seven-year unsecured bond offering aimed mainly at Japanese retail investors. The financing follows its growing AI-related investment commitments, including investments connected with OpenAI.",
+    "published_at": "2026-08-24T05:46:25+05:30",
+    "category": "AI",
+    "popularity_basis": "A record-scale financing action by a major AI investor has material implications for AI capital markets and infrastructure funding.",
     "sources": [
       {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/technology/nvidia-invests-data-center-developer-cloverleaf-infrastructure-2026-08-21/",
-        "source_type": "news",
-        "published_at": "2026-08-21T14:35:15+00:00"
+        "name": "SoftBank Group",
+        "url": "https://group.softbank/en/news/press/20260824",
+        "source_type": "company"
       },
       {
-        "name": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
-        "source_type": "news"
+        "name": "Bloomberg",
+        "url": "https://www.bloomberg.com/news/articles/2026-08-24/softbank-plans-record-1-trillion-retail-bond-offering-in-japan",
+        "source_type": "news",
+        "published_at": "2026-08-24T05:46:25+05:30"
       }
     ]
   },
   {
     "rank": 4,
-    "title": "OpenAI lowers GPT-5.6 Sol developer pricing by over 20%",
-    "summary": "OpenAI cut promotional API and credit pricing for GPT-5.6 Sol for three months, lowering standard short-context rates to $4 per million input tokens and $20 per million output tokens. The move intensifies competition for AI developers.",
-    "published_at": "2026-08-21T19:41:58+00:00",
-    "category": "AI",
-    "popularity_basis": "Direct impact on AI application economics, model selection, and competitive pricing among frontier-model providers.",
+    "title": "New Zealand introduces under-16 social-media bill",
+    "summary": "New Zealand introduced legislation requiring high-risk social platforms to take reasonable age-verification steps for users. Platforms that fail to comply could face penalties of up to 10% of global revenue.",
+    "published_at": "2026-08-24T08:51:02+05:30",
+    "category": "Regulation",
+    "popularity_basis": "A major proposed platform-age rule with global-revenue penalties is likely to influence wider debates over online child safety and identity verification.",
     "sources": [
       {
-        "name": "OpenAI Community",
-        "url": "https://community.openai.com/t/20-price-reduction-for-gpt-5-6-sol-api-codex-credits-and-chatgpt-work/1391726",
-        "source_type": "company",
-        "published_at": "2026-08-21T19:41:58+00:00"
+        "name": "1News",
+        "url": "https://www.1news.co.nz/2026/08/24/luxon-moves-to-ban-under-16s-from-social-media-but-act-nz-first-say-no/",
+        "source_type": "news",
+        "published_at": "2026-08-24T08:51:02+05:30"
       },
       {
         "name": "Reuters",
-        "url": "https://www.reuters.com/technology/openai-cuts-developer-pricing-frontier-gpt-56-sol-model-by-more-than-20-2026-08-21/",
+        "url": "https://www.reuters.com/world/asia-pacific/new-zealand-introduce-bill-banning-social-media-children-under-16-2026-08-24/",
         "source_type": "news",
-        "published_at": "2026-08-21T21:29:38+00:00"
+        "published_at": "2026-08-24T09:09:48+05:30"
       }
     ]
   },
   {
     "rank": 5,
-    "title": "Anthropic reportedly discusses IPO exceeding $100 billion",
-    "summary": "People familiar with discussions told CNBC and The New York Times that Anthropic's bankers have discussed an IPO raising more than $100 billion at about a $2 trillion valuation. The plans and valuation remain unconfirmed.",
-    "published_at": "2026-08-21T21:44:30+00:00",
-    "category": "Startups",
-    "popularity_basis": "Potentially the largest AI-company public offering ever, with major consequences for AI financing and public markets.",
+    "title": "Nvidia customers reportedly face AI-server price increases",
+    "summary": "Bloomberg reported that Nvidia told some large customers AI-server prices will rise by more than 15% in many cases, with memory costs cited as a factor. The reported increases would affect systems shipping early next year.",
+    "published_at": "2026-08-24T06:45:45+05:30",
+    "category": "Semiconductors",
+    "popularity_basis": "Potential pricing changes from the dominant AI-compute supplier affect hyperscaler capital spending and the wider AI infrastructure supply chain.",
     "sources": [
       {
-        "name": "CNBC",
-        "url": "https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html",
+        "name": "Bloomberg",
+        "url": "https://www.bloomberg.com/news/videos/2026-08-24/nvidia-notifies-customers-about-ai-related-price-hikes-video",
         "source_type": "news",
-        "published_at": "2026-08-21T21:44:30+00:00"
+        "published_at": "2026-08-24T06:45:45+05:30"
       },
       {
-        "name": "The New York Times",
-        "url": "https://www.nytimes.com/2026/08/21/technology/anthropic-ipo-100-billion.html",
+        "name": "Tom's Hardware",
+        "url": "https://www.tomshardware.com/pc-components/dram/nvidia-reportedly-warns-biggest-customers-of-15-percent-price-hikes-on-ai-servers",
         "source_type": "news",
-        "published_at": "2026-08-22T00:24:20+00:00"
+        "published_at": "2026-08-23T18:45:00+05:30"
       }
     ]
   },
   {
     "rank": 6,
-    "title": "China's YMTC targets $4.9 billion Shanghai listing",
-    "summary": "YMTC parent CCSH's Shanghai STAR Market listing application was accepted, setting up a planned 33 billion yuan share sale. It would rank among the exchange's largest offerings and fund a strategically important Chinese memory-chip maker.",
-    "published_at": "2026-08-21T12:22:23+00:00",
-    "category": "Semiconductors",
-    "popularity_basis": "Large semiconductor financing event with geopolitical relevance for China's domestic memory-chip industry.",
+    "title": "Nvidia reportedly secures Poolside technology deal",
+    "summary": "Reports said Nvidia will spend about $6 billion to license Poolside technology, bring more than 100 employees into its Nemotron group, and separately invest in the startup. Nvidia has not publicly confirmed the reported transaction details.",
+    "published_at": "2026-08-24T04:30:52+05:30",
+    "category": "AI",
+    "popularity_basis": "The reported multibillion-dollar deal would signal Nvidia expanding from AI infrastructure into foundation-model development.",
     "sources": [
       {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/world/asia-pacific/chinese-flash-memory-chipmaker-ymtc-plans-raise-49-billion-shanghai-ipo-2026-08-21/",
+        "name": "India Today",
+        "url": "https://www.indiatoday.in/technology/news/story/nvidia-is-going-after-openai-and-deepseek-with-its-6-billion-poolside-deal-2978335-2026-08-24",
         "source_type": "news",
-        "published_at": "2026-08-21T12:22:23+00:00"
+        "published_at": "2026-08-24T04:30:52+05:30"
       },
       {
-        "name": "Bloomberg",
-        "url": "https://finance.yahoo.com/technology/articles/china-chipmaker-ymtc-seeks-raise-144427520.html",
-        "source_type": "news",
-        "published_at": "2026-08-21T14:44:27+00:00"
+        "name": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-says-raising-prices-more-224321093.html",
+        "source_type": "news"
       }
     ]
   },
   {
     "rank": 7,
-    "title": "Walmart begins rollout of Apple Pay and Google Pay",
-    "summary": "Walmart said select Walmart and Sam's Club locations will begin accepting tap-to-pay on August 24, with a broader US rollout planned through 2026. The change ends a longstanding gap at one of America's largest retailers.",
-    "published_at": "2026-08-21T17:01:59+00:00",
-    "category": "Consumer Technology",
-    "popularity_basis": "High consumer reach and direct implications for mobile-wallet adoption at a major US retailer.",
+    "title": "Hugging Face reportedly explores $13 billion sale",
+    "summary": "Hugging Face has reportedly been gauging buyer interest for a possible sale valued at $13 billion or more. The company had not confirmed a deal, and the exploration may not result in a transaction.",
+    "published_at": "2026-08-24T01:30:24+05:30",
+    "category": "Startups",
+    "popularity_basis": "A potential sale of a central open-model and AI-developer platform would be a consequential consolidation event in the AI ecosystem.",
     "sources": [
       {
-        "name": "The Verge",
-        "url": "https://www.theverge.com/tech/983336/walmart-apple-google-pay-launch",
+        "name": "Reuters",
+        "url": "https://www.reuters.com/business/hugging-face-exploring-sale-valuing-it-13-billion-business-insider-says-2026-08-23/",
         "source_type": "news",
-        "published_at": "2026-08-21T17:01:59+00:00"
+        "published_at": "2026-08-24T01:30:24+05:30"
       },
       {
-        "name": "Engadget",
-        "url": "https://www.engadget.com/2241608/walmart-will-finally-accept-tap-to-pay-in-stores-by-end-of-2026/",
+        "name": "Business Insider",
+        "url": "https://www.businessinsider.com/hugging-face-could-be-acquired-13-billion-2026-8",
         "source_type": "news"
       }
     ]
   },
   {
     "rank": 8,
-    "title": "LinkedIn says over one million users flagged suspected AI slop",
-    "summary": "LinkedIn said more than one million people used its “Seems like AI slop” reporting control. It is adding notifications to alert posters when members flag their content as apparently AI-generated.",
-    "published_at": "2026-08-21T19:11:07+00:00",
-    "category": "Social Media",
-    "popularity_basis": "Strong apparent engagement metric and broad relevance to AI-content moderation on professional social networks.",
+    "title": "Shein launches Hong Kong IPO process",
+    "summary": "Shein began bookbuilding for a Hong Kong IPO seeking up to HK$13.86 billion, or about $1.77 billion, at a valuation near $27 billion. The listing would be one of the year’s largest consumer-internet offerings.",
+    "published_at": "2026-08-24T03:54:57+05:30",
+    "category": "Consumer Technology",
+    "popularity_basis": "A large IPO by a globally prominent e-commerce platform attracted broad business coverage and could reset technology-market appetite for listings.",
     "sources": [
       {
-        "name": "Engadget",
-        "url": "https://www.engadget.com/2241857/linkedin-says-its-ai-slop-button-is-working/",
+        "name": "Reuters",
+        "url": "https://www.reuters.com/business/retail-consumer/shein-launches-up-18-billion-hong-kong-ipo-2026-08-23/",
         "source_type": "news",
-        "published_at": "2026-08-21T19:11:07+00:00"
+        "published_at": "2026-08-24T03:54:57+05:30"
       },
       {
-        "name": "The Verge",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
-        "source_type": "news",
-        "published_at": "2026-08-21T21:25:50+00:00"
+        "name": "Euronext",
+        "url": "https://live.euronext.com/en/financial-news/sheins-pursuit-ipo-new-york-london-hong-kong",
+        "source_type": "news"
       }
     ]
   },
   {
     "rank": 9,
-    "title": "YouTube plans 24-hour creator streaming stations",
-    "summary": "YouTube is preparing a feature that lets creators operate always-on streaming stations using their catalogues. The move expands the platform's push into continuous, lean-back viewing formats spanning creator content, podcasts, and music.",
-    "published_at": "2026-08-21T22:26:13+00:00",
-    "category": "Social Media",
-    "popularity_basis": "Material product change for creators and a major video platform's competition with television-like streaming.",
+    "title": "OpenAI seeks tougher California AI safeguards",
+    "summary": "OpenAI called for California to strengthen its frontier-AI law, including more monitoring of models during training or evaluation and stronger cybersecurity protections. The company’s recommendation is a policy position, not a new enacted requirement.",
+    "published_at": "2026-08-23T21:09:16+05:30",
+    "category": "Regulation",
+    "popularity_basis": "The intervention by a major frontier-model developer is notable amid intensifying US state and federal AI-safety policy debates.",
     "sources": [
       {
-        "name": "The Verge",
-        "url": "https://www.theverge.com/streaming/983539/youtube-is-going-to-let-creators-make-24-7-streaming-stations",
+        "name": "Mashable",
+        "url": "https://mashable.com/tech/openai-urges-stregthening-of-california-ai-safety-bill",
         "source_type": "news",
-        "published_at": "2026-08-21T22:26:13+00:00"
+        "published_at": "2026-08-23T21:09:16+05:30"
+      },
+      {
+        "name": "Yahoo News",
+        "url": "https://www.yahoo.com/news/politics/articles/openai-wants-california-strengthen-newly-153916488.html",
+        "source_type": "news"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "Anthropic brings Mythos 5 to Claude Security beta",
-    "summary": "Anthropic made Claude Security scans powered by Mythos 5 available in public beta to Claude Enterprise customers. The service scans codebases for vulnerabilities and proposes fixes for human review.",
-    "published_at": "2026-08-21T18:59:07+00:00",
-    "category": "Cybersecurity",
-    "popularity_basis": "Important enterprise AI-security deployment from a frontier-model company, with practical implications for secure software development.",
+    "title": "China postpones Chang'e-7 lunar mission",
+    "summary": "China postponed the Chang'e-7 robotic lunar south-pole mission, saying it could not launch in this year’s planned window. The delay may push a strategically important water-ice exploration mission into 2027.",
+    "published_at": "2026-08-23T20:00:16+05:30",
+    "category": "Consumer Technology",
+    "popularity_basis": "The delayed mission is a high-profile lunar exploration program with international scientific participation and strategic space-race significance.",
     "sources": [
       {
-        "name": "The New Stack",
-        "url": "https://thenewstack.io/anthropic-mythos-claude-security/",
+        "name": "Ars Technica",
+        "url": "https://arstechnica.com/space/2026/08/due-to-need-for-absolute-success-china-delays-critical-moon-launch-to-2027/",
         "source_type": "news",
-        "published_at": "2026-08-21T18:59:07+00:00"
+        "published_at": "2026-08-23T20:00:16+05:30"
       },
       {
-        "name": "The Decoder",
-        "url": "https://the-decoder.com/anthropic-puts-its-most-powerful-model-claude-mythos-5-to-work-for-cyber-defense/",
+        "name": "SpaceNews",
+        "url": "https://spacenews.com/china-delays-change-7-lunar-south-pole-landing-mission-launch/",
         "source_type": "news",
-        "published_at": "2026-08-21T19:35:37+00:00"
+        "published_at": "2026-08-23T21:51:07+05:30"
       }
     ]
   },
   {
     "rank": 11,
-    "title": "South Korea proposes semiconductor-windfall fund supporting AI",
-    "summary": "South Korea said it plans a Future Response Fund using tax revenue above a benchmark, with spending aimed at youth programs and growth sectors including AI. The government did not provide an official fund-size estimate.",
-    "published_at": "2026-08-21T00:00:00+00:00",
-    "category": "Regulation",
-    "popularity_basis": "National industrial-policy move linking semiconductor gains to future AI investment and social spending.",
+    "title": "Iran-linked cyberattack shuts UK power generator",
+    "summary": "A small UK power generator was reportedly shut down for four days in July after a cyberattack attributed to hackers linked to Iran. Officials said the event did not threaten the wider UK energy system.",
+    "published_at": "2026-08-23T17:05:52+05:30",
+    "category": "Cybersecurity",
+    "popularity_basis": "The incident raises concern over cyberattacks on energy infrastructure during heightened geopolitical tensions.",
     "sources": [
       {
-        "name": "Reuters",
-        "url": "https://insidetelecom.com/south-korea-plans-chip-windfall-fund-to-back-youth-ai-investment/",
+        "name": "CNBC",
+        "url": "https://www.cnbc.com/2026/08/23/small-uk-power-plant-shut-down-after-iran-linked-cyberattack-report.html",
         "source_type": "news",
-        "published_at": "2026-08-21T00:00:00+00:00"
+        "published_at": "2026-08-23T17:05:52+05:30"
+      },
+      {
+        "name": "Moneycontrol",
+        "url": "https://www.moneycontrol.com/world/iran-linked-hackers-shut-down-uk-power-plant-for-four-days-report-article-14013227.html",
+        "source_type": "news"
       }
     ]
   },
   {
     "rank": 12,
-    "title": "Starcloud adds $250 million for orbital AI data centers",
-    "summary": "Starcloud added a $250 million extension to its Series A, valuing the satellite-computing startup at $2.3 billion. The company plans to use the funding for manufacturing and a larger spacecraft intended for orbital AI inference.",
-    "published_at": "2026-08-21T00:00:00+00:00",
-    "category": "Startups",
-    "popularity_basis": "Large AI-infrastructure financing round involving an unconventional orbital-computing strategy and major strategic investors.",
+    "title": "Samsung shares fall after shareholder-return plan",
+    "summary": "Samsung Electronics shares fell sharply after investors reacted negatively to its record $79 billion shareholder-return plan. The move is notable for one of the world’s most important memory, mobile, and semiconductor manufacturers.",
+    "published_at": "2026-08-24T05:27:26+05:30",
+    "category": "Semiconductors",
+    "popularity_basis": "Samsung’s capital-allocation decisions affect a major global supplier of memory chips and consumer electronics.",
     "sources": [
       {
-        "name": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+        "name": "Reuters",
+        "url": "https://www.reuters.com/world/asia-pacific/samsung-electronics-shares-fall-after-shareholder-return-announcement-2026-08-24/",
         "source_type": "news",
-        "published_at": "2026-08-21T00:00:00+00:00"
+        "published_at": "2026-08-24T05:27:26+05:30"
       }
     ]
   },
   {
     "rank": 13,
-    "title": "Kakao approves split separating AI platform and investment operations",
-    "summary": "Kakao's board approved a restructuring that will create Kakao AI for its chat-platform, advertising, commerce, and AI businesses, while Kakao X retains investment operations. The company expects the split to complete in January 2027.",
-    "published_at": "2026-08-21T00:00:00+00:00",
-    "category": "Big Tech",
-    "popularity_basis": "Major governance overhaul at South Korea's dominant chat-app operator, with AI placed at the center of the operating business.",
+    "title": "Europe's electric-vehicle share exceeds one quarter",
+    "summary": "Battery-electric vehicles accounted for 25.7% of new registrations across 16 key European markets in July, according to industry data reported by Reuters. Registrations rose 13.6% year over year, led by growth in France and Germany.",
+    "published_at": "2026-08-24T03:35:44+05:30",
+    "category": "Consumer Technology",
+    "popularity_basis": "The data offers a significant indicator of EV adoption in a major global automotive technology market.",
     "sources": [
       {
-        "name": "Seoul Economic Daily",
-        "url": "https://en.sedaily.com/technology/2026/08/21/kakao-to-split-into-ai-and-investment-arms-in-biggest",
-        "source_type": "news",
-        "published_at": "2026-08-21T00:00:00+00:00"
-      },
-      {
         "name": "Reuters",
-        "url": "https://927thevan.com/2026/08/20/kakao-to-spin-off-chat-app-based-platform-business-into-kakaoai-relist-in-2027/",
+        "url": "https://www.reuters.com/business/autos-transportation/europe-ev-market-share-tops-25-july-france-germany-drive-growth-2026-08-23/",
         "source_type": "news",
-        "published_at": "2026-08-20T22:07:00+00:00"
+        "published_at": "2026-08-24T03:35:44+05:30"
       }
     ]
   },
   {
     "rank": 14,
-    "title": "US lab examines security risks in Chinese lidar",
-    "summary": "Idaho National Laboratory is reportedly investigating whether Chinese lidar sensors could create security risks if widely deployed in US vehicles. The review underscores expanding scrutiny of connected automotive components from China.",
-    "published_at": "2026-08-21T00:00:00+00:00",
-    "category": "Cybersecurity",
-    "popularity_basis": "Government scrutiny of Chinese automotive technology has national-security and supply-chain implications.",
+    "title": "Eni targets European fusion plant by 2040s",
+    "summary": "Eni said it aims to help develop a commercial fusion power plant in Europe by the early 2040s or sooner, according to a Financial Times report. The project would involve Commonwealth Fusion Systems, in which Eni is an investor.",
+    "published_at": "2026-08-23T16:21:51+05:30",
+    "category": "Enterprise Software",
+    "popularity_basis": "A stated commercial-fusion timeline from a major energy company has long-term significance for deep technology and energy infrastructure.",
     "sources": [
       {
-        "name": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/21/us-government-lab-is-probing-chinese-lidar-for-security-vulnerabilities/",
+        "name": "Reuters",
+        "url": "https://www.reuters.com/business/energy/eni-eyes-europe-fusion-plant-by-early-2040s-ft-reports-2026-08-23/",
         "source_type": "news",
-        "published_at": "2026-08-21T00:00:00+00:00"
+        "published_at": "2026-08-23T16:21:51+05:30"
       }
     ]
   },
   {
     "rank": 15,
-    "title": "Waymo submits documents in federal child-collision investigation",
-    "summary": "Waymo provided documents to the US National Highway Traffic Safety Administration in its probe of a January low-speed crash involving a robotaxi and a child. The case adds scrutiny to autonomous-vehicle safety oversight.",
-    "published_at": "2026-08-21T00:00:00+00:00",
-    "category": "Regulation",
-    "popularity_basis": "Federal scrutiny of Waymo is significant for the commercial expansion and safety governance of robotaxis.",
+    "title": "Oura faces lawsuit over sleep-tracking claims",
+    "summary": "A lawsuit alleges that Oura's smart ring does not accurately track sleep, challenging a core health feature of the wearable. Oura said it disputes the allegations and will defend itself in the appropriate forum.",
+    "published_at": "2026-08-23T19:48:05+05:30",
+    "category": "Consumer Technology",
+    "popularity_basis": "The case concerns accuracy claims for a high-profile consumer-health wearable and could affect trust in biometric-device marketing.",
     "sources": [
       {
-        "name": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/21/waymo-hands-over-documents-in-nhtsas-child-collision-probe/",
+        "name": "Mashable",
+        "url": "https://mashable.com/tech/oura-ring-lawsuit-alleges-it-doesnt-accurately-track-sleep",
         "source_type": "news",
-        "published_at": "2026-08-21T00:00:00+00:00"
+        "published_at": "2026-08-23T19:48:05+05:30"
       }
     ]
   },
   {
     "rank": 16,
-    "title": "Rillet raises $100 million at $1 billion valuation",
-    "summary": "AI-native accounting startup Rillet announced a $100 million financing round at a $1 billion valuation. The funding signals investor appetite for software designed around AI agents rather than conventional human-only workflows.",
-    "published_at": "2026-08-21T00:00:00+00:00",
-    "category": "Startups",
-    "popularity_basis": "Large financing and unicorn valuation in the fast-growing market for AI-native enterprise applications.",
+    "title": "Report says Apple may raise iPhone prices",
+    "summary": "A report said Apple may raise future iPhone prices as memory costs increase, with no confirmation from Apple. The claimed pricing outlook remains unverified and should be treated as a report rather than an announced change.",
+    "published_at": "2026-08-23T21:30:00+05:30",
+    "category": "Consumer Technology",
+    "popularity_basis": "Possible iPhone pricing changes are closely watched across consumer electronics and global component supply chains.",
     "sources": [
       {
-        "name": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/21/how-ai-accounting-startup-rillet-raised-100m-and-became-a-unicorn-in-48-hours/",
+        "name": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/apple-may-raise-iphone-prices-as-memory-costs-rise-report/articleshow/133442498.cms",
         "source_type": "news",
-        "published_at": "2026-08-21T00:00:00+00:00"
+        "published_at": "2026-08-23T21:30:00+05:30"
       }
     ]
   },
   {
     "rank": 17,
-    "title": "Tesla reportedly discontinues Solar Roof tile sales",
-    "summary": "Tesla has reportedly stopped taking orders for Solar Roof tiles and will provide conventional solar panels instead. The reported decision would end a high-profile effort to make rooftop solar resemble standard roofing materials.",
-    "published_at": "2026-08-21T12:01:07+00:00",
-    "category": "Consumer Technology",
-    "popularity_basis": "A notable retreat from a prominent Tesla consumer-energy product with broad brand recognition.",
+    "title": "Ransomware increasingly targets mid-market companies",
+    "summary": "Black Kite research reported that mid-sized companies represented 73% of publicly disclosed ransomware and data-extortion incidents with known revenue in North America and Europe from January 2023 through June 2026.",
+    "published_at": "2026-08-24T10:00:08+05:30",
+    "category": "Cybersecurity",
+    "popularity_basis": "The research identifies a material shift in ransomware exposure relevant to mid-market buyers, insurers, and security providers.",
     "sources": [
       {
-        "name": "The Verge",
-        "url": "https://www.theverge.com/tech/983167/tesla-solar-roof-tiles-discontinued",
+        "name": "Help Net Security",
+        "url": "https://www.helpnetsecurity.com/2026/08/24/black-kite-mid-market-ransomware-risk-report/",
         "source_type": "news",
-        "published_at": "2026-08-21T12:01:07+00:00"
+        "published_at": "2026-08-24T10:00:08+05:30"
       }
     ]
   },
   {
     "rank": 18,
-    "title": "HoverAir halts US orders for Versa modular drone",
-    "summary": "HoverAir stopped accepting US orders for its Versa modular drone days after launch, citing the impact of US drone restrictions. The episode illustrates how regulation is shaping consumer-drone availability.",
-    "published_at": "2026-08-21T22:14:11+00:00",
-    "category": "Consumer Technology",
-    "popularity_basis": "Timely example of US drone-policy effects on a newly launched consumer product.",
+    "title": "Hong Kong flags AI risks to employment",
+    "summary": "Hong Kong Financial Secretary Paul Chan said the city must respond quickly to AI-related challenges for the job market and ensure younger people are prepared. The remarks signal rising government attention to workforce disruption from AI.",
+    "published_at": "2026-08-23T14:59:24+05:30",
+    "category": "Regulation",
+    "popularity_basis": "The comments come from a senior policymaker in a major Asian financial and technology hub.",
     "sources": [
       {
-        "name": "The Verge",
-        "url": "https://www.theverge.com/tech/983500/hoverair-versa-halted-us-fcc-drone-ban-indiegogo",
+        "name": "Bloomberg",
+        "url": "https://www.bloomberg.com/news/articles/2026-08-23/hong-kong-s-chan-says-city-must-respond-to-ai-s-risks-for-jobs",
         "source_type": "news",
-        "published_at": "2026-08-21T22:14:11+00:00"
+        "published_at": "2026-08-23T14:59:24+05:30"
       }
     ]
   },
   {
     "rank": 19,
-    "title": "Patreon outlines discovery algorithm and platform-security changes",
-    "summary": "Patreon announced a roadmap that includes discovery-algorithm updates intended to help smaller creators, alongside platform and security improvements. The changes affect creator visibility and audience acquisition on a major membership platform.",
-    "published_at": "2026-08-21T11:08:09+00:00",
-    "category": "Social Media",
-    "popularity_basis": "Platform-policy changes can materially affect distribution and revenue for Patreon creators.",
+    "title": "California reportedly seeks Paramount-Warner channel sales",
+    "summary": "California was expected to seek sales of television channels from Paramount and Warner, according to a Wall Street Journal report cited by Reuters. The reported action concerns regulatory scrutiny of a major media-industry transaction.",
+    "published_at": "2026-08-24T05:28:00+05:30",
+    "category": "Telecommunications",
+    "popularity_basis": "Potential regulatory intervention involving large US media companies could reshape broadcast, streaming, and television-asset markets.",
     "sources": [
       {
-        "name": "The Verge",
-        "url": "https://www.theverge.com/tech/983156/patreon-update-roadmap-algorithm-changes",
+        "name": "Reuters",
+        "url": "https://uk.mobile.reuters.com/business/media-telecom/california-expected-seek-tv-channel-sales-paramount-warner-wsj-reports-2026-08-23/",
         "source_type": "news",
-        "published_at": "2026-08-21T11:08:09+00:00"
-      }
-    ]
-  },
-  {
-    "rank": 20,
-    "title": "Take-Two seeks Microsoft and Discord data over GTA leak",
-    "summary": "Take-Two filed petitions seeking subpoenas for information from Microsoft and Discord as it investigates the source of leaked Grand Theft Auto VI footage. The action highlights escalating legal responses to major game-development leaks.",
-    "published_at": "2026-08-21T00:00:00+00:00",
-    "category": "Regulation",
-    "popularity_basis": "High-interest legal action involving a major game publisher, Discord, Microsoft, and one of gaming's biggest releases.",
-    "sources": [
-      {
-        "name": "Engadget",
-        "url": "https://www.engadget.com/2241941/take-two-subpoenas-discord-and-microsoft-in-hunt-for-gta-vi-leaker/",
-        "source_type": "news",
-        "published_at": "2026-08-21T00:00:00+00:00"
-      }
-    ]
-  },
-  {
-    "rank": 21,
-    "title": "RayNeo introduces AI smart-glasses range with real-time translation",
-    "summary": "RayNeo unveiled minimalist iO smart glasses and a higher-spec GT line. The company says the iO model supports real-time translation across 55 languages and 109 accents using Timekettle's BabelOS 3.0.",
-    "published_at": "2026-08-21T00:00:00+00:00",
-    "category": "Consumer Technology",
-    "popularity_basis": "Part of the active competition to establish AI-enabled smart glasses as a mainstream hardware category.",
-    "sources": [
-      {
-        "name": "Engadget",
-        "url": "https://www.engadget.com/2241335/rayneo-ar-smart-glasses-io-gt-series/",
-        "source_type": "news",
-        "published_at": "2026-08-21T00:00:00+00:00"
-      }
-    ]
-  },
-  {
-    "rank": 22,
-    "title": "Japanese space startup Letara raises $16 million for expansion",
-    "summary": "Letara, a Sapporo spacecraft-propulsion startup, raised ¥2.6 billion, about $16 million, to expand beyond satellite thrusters. The funding supports its effort to commercialize research and scale its hybrid-propulsion technology.",
-    "published_at": "2026-08-21T00:00:00+00:00",
-    "category": "Startups",
-    "popularity_basis": "Notable space-technology financing as commercial spacecraft suppliers expand in Japan.",
-    "sources": [
-      {
-        "name": "TechCrunch",
-        "url": "https://techcrunch.com/2026/08/21/japanese-space-tech-startup-letara-expands-beyond-satellite-thrusters-with-16m/",
-        "source_type": "news",
-        "published_at": "2026-08-21T00:00:00+00:00"
+        "published_at": "2026-08-24T05:28:00+05:30"
       }
     ]
   }
