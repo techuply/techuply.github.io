@@ -1,503 +1,557 @@
 [
   {
     "rank": 1,
-    "title": "FTC and states accuse Amazon of advertising-auction manipulation",
-    "summary": "The FTC and 22 US states sued Amazon, alleging it secretly manipulated advertising auctions and extracted more than $20 billion from advertisers since 2019. The case could reshape platform-advertising enforcement and Amazon's high-margin ads business.",
-    "published_at": "2026-08-31T23:49:00+00:00",
-    "category": "Regulation",
-    "popularity_basis": "A major antitrust and advertising-market case against a leading global platform, with broad legal and technology coverage.",
+    "title": "OpenAI claims solution to Navier-Stokes Millennium Prize Problem",
+    "summary": "OpenAI announced that its AI system solved one of mathematics' seven Millennium Prize Problems, proving the Navier-Stokes equations can develop singularities in finite time. The breakthrough, achieved in 88 hours using 10,000 AI agents, carries a $1 million prize but faces scrutiny over credit attribution.",
+    "published_at": "2026-09-08T17:00:13+05:30",
+    "category": "AI",
+    "popularity_basis": "Historic mathematical breakthrough covered by Nature, NYT, CNBC, and Axios with significant scientific and industry implications.",
     "sources": [
       {
-        "name": "New York State Attorney General",
-        "url": "https://ag.ny.gov/sites/default/files/court-filings/federal-trade-commission-et-al-v-amazon.com-inc-complaint-2026_0.pdf",
-        "source_type": "regulatory",
-        "published_at": "2026-08-31T23:49:00+00:00"
+        "name": "OpenAI",
+        "url": "https://openai.com/index/navier-stokes-solution/",
+        "source_type": "company",
+        "published_at": "2026-09-08T00:00:00+05:30"
       },
       {
-        "name": "Ars Technica",
-        "url": "https://arstechnica.com/tech-policy/2026/09/ftc-alleges-amazon-illegally-made-20-billion-by-rigging-billions-of-ad-auctions/",
+        "name": "Nature",
+        "url": "https://www.nature.com/articles/d41586-026-02842-5",
         "source_type": "news",
-        "published_at": "2026-09-01T17:51:17+00:00"
+        "published_at": "2026-09-08T00:00:00+05:30"
       },
       {
-        "name": "UPI",
-        "url": "https://www.upi.com/Top_News/US/2026/09/01/Amazon-faces-auction-rigging-lawsuit/3601788250689/",
+        "name": "The New York Times",
+        "url": "https://www.nytimes.com/2026/09/08/science/openai-proof-millennium-problem.html",
         "source_type": "news",
-        "published_at": "2026-09-01T10:48:37+00:00"
+        "published_at": "2026-09-08T17:00:13+05:30"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "OpenAI connects ChatGPT for Healthcare with Epic records",
-    "summary": "OpenAI introduced an Epic integration for ChatGPT for Healthcare, enabling authorized clinicians to access patient context in ChatGPT or supported EHR workflows. The move brings generative AI closer to sensitive clinical decision-support processes.",
-    "published_at": "2026-09-01",
-    "category": "AI",
-    "popularity_basis": "A consequential enterprise-AI deployment involving OpenAI, Epic, clinical records and healthcare privacy-sensitive workflows.",
+    "title": "Apple unveils iPhone 18 Pro, iPhone Duo foldable, and new wearables",
+    "summary": "Apple announced the iPhone 18 Pro and Pro Max with A20 Pro chip, variable aperture cameras, and record battery life, plus the foldable iPhone Duo. Pre-orders begin September 12 with availability on September 18, starting at $1,199 and $1,299 respectively.",
+    "published_at": "2026-09-09T00:00:00+05:30",
+    "category": "Consumer Technology",
+    "popularity_basis": "Major Apple product launch with foldable iPhone debut, widely covered across tech media with significant consumer interest.",
     "sources": [
       {
-        "name": "OpenAI",
-        "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources/",
+        "name": "Apple",
+        "url": "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/",
         "source_type": "company",
-        "published_at": "2026-09-01"
+        "published_at": "2026-09-09T00:00:00+05:30"
       },
       {
         "name": "TechCrunch",
-        "url": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
+        "url": "https://techcrunch.com/",
         "source_type": "news",
-        "published_at": "2026-09-01"
-      },
-      {
-        "name": "Becker's Hospital Review",
-        "url": "https://www.beckershospitalreview.com/healthcare-information-technology/innovation/chatgpt-for-healthcare-adds-epic-integration/",
-        "source_type": "news",
-        "published_at": "2026-09-01"
+        "published_at": "2026-09-09T00:00:00+05:30"
       }
     ]
   },
   {
     "rank": 3,
-    "title": "US urges G20 to avoid new AI regulations",
-    "summary": "A White House official said the US would urge G20 members to take a hands-off approach to AI regulation. The position highlights widening international disagreement over rules for advanced AI systems.",
-    "published_at": "2026-09-01T10:06:00+00:00",
-    "category": "Regulation",
-    "popularity_basis": "A high-impact policy signal from the United States directed at major global economies and AI industry leaders.",
+    "title": "Legal AI startup Harvey raises $550M at $15.5B valuation",
+    "summary": "Harvey, the legal AI company, secured $550 million in funding co-led by Diffusion and Lightspeed Venture Partners, reaching a $15.5 billion valuation just months after hitting $11 billion. The round reflects intense investor demand for legal AI solutions.",
+    "published_at": "2026-09-09T00:00:00+05:30",
+    "category": "Startups",
+    "popularity_basis": "Major funding round with rapid valuation growth, covered by TechCrunch, Legal Tech News, and Dealroom with strong VC interest.",
     "sources": [
       {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/legal/litigation/us-urge-hands-off-ai-regulation-g-20-official-says-2026-09-01/",
+        "name": "Harvey",
+        "url": "https://www.harvey.ai/blog/harvey-raises-dollar550m-at-a-dollar155b-valuation-to-help-legal-teams-own-their-intelligence",
+        "source_type": "company",
+        "published_at": "2026-09-09T00:00:00+05:30"
+      },
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/09/harvey-hits-15-5b-valuation-months-after-reaching-11b/",
         "source_type": "news",
-        "published_at": "2026-09-01T10:06:00+00:00"
+        "published_at": "2026-09-09T00:00:00+05:30"
+      },
+      {
+        "name": "Legal Tech News",
+        "url": "https://www.law.com/legaltechnews/2026/09/09/harvey-announces-550m-funding-round-boosting-valuation-to-155b-/",
+        "source_type": "news",
+        "published_at": "2026-09-09T15:38:20+05:30"
       }
     ]
   },
   {
     "rank": 4,
-    "title": "GoPro agrees to $285 million merger with Starman",
-    "summary": "GoPro agreed to merge with optical-photonics company Starman Optical in a transaction valuing the action-camera company at about $285 million. The deal would recapitalize GoPro, eliminate debt and preserve its public listing.",
-    "published_at": "2026-09-01T13:20:00+00:00",
-    "category": "Consumer Technology",
-    "popularity_basis": "A notable acquisition involving a well-known consumer-electronics brand and an unusual pivot toward optical and defense-related technology.",
+    "title": "Automattic board forces WordPress founder Matt Mullenweg on leave",
+    "summary": "Automattic's board placed CEO and founder Matt Mullenweg on paid leave against his will, appointing CFO Mark Davies as interim CEO. Mullenweg alleged board members conspired behind his back in an internal Slack message seen by TechCrunch.",
+    "published_at": "2026-09-09T00:00:00+05:30",
+    "category": "Big Tech",
+    "popularity_basis": "Major leadership shakeup at WordPress parent company, covered by TechCrunch, The Verge, and 404 Media with significant industry attention.",
     "sources": [
       {
-        "name": "GoPro",
-        "url": "https://investor.gopro.com/press-releases/press-release-details/2026/GOPRO-ENTERS-INTO-DEFINITIVE-AGREEMENT-TO-MERGE-WITH-STARMAN-OPTICAL-INC-/default.aspx",
-        "source_type": "company",
-        "published_at": "2026-09-01"
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/",
+        "source_type": "news",
+        "published_at": "2026-09-09T00:00:00+05:30"
       },
       {
         "name": "The Verge",
-        "url": "https://www.theverge.com/news/987494/gopro-starman-holding-merger-aquisition",
+        "url": "https://www.theverge.com/tech/993022/wordpress-automattic-ceo-matt-mullenweg-leave-of-absence",
         "source_type": "news",
-        "published_at": "2026-09-01T16:46:08+00:00"
-      },
-      {
-        "name": "PCMag",
-        "url": "https://www.pcmag.com/news/gopro-finds-a-merger-partner-potentially-saving-its-camera-business",
-        "source_type": "news",
-        "published_at": "2026-09-01T18:30:50+00:00"
+        "published_at": "2026-09-09T22:15:52+05:30"
       }
     ]
   },
   {
     "rank": 5,
-    "title": "Pentagon adds ChatGPT and Grok to GenAI.mil",
-    "summary": "The US Department of Defense expanded its GenAI.mil platform with secure versions of OpenAI's ChatGPT and Starshield AI's Grok. The deployment gives military and civilian personnel access to commercial AI tools for sensitive unclassified work.",
-    "published_at": "2026-09-01T11:46:43+00:00",
+    "title": "Anthropic researcher quits over AI safety concerns",
+    "summary": "Jacob Coxon, an AI researcher at Anthropic with prior OpenAI experience, publicly resigned citing irresponsible AI development practices. He warned both companies are racing toward self-improving superintelligence while gambling with humanity's safety.",
+    "published_at": "2026-09-09T14:35:57+05:30",
     "category": "AI",
-    "popularity_basis": "A large government deployment of frontier AI systems with implications for defense procurement, model governance and enterprise adoption.",
+    "popularity_basis": "High-profile AI safety resignation covered by AP News, Fortune, PBS, TIME, and CNBC with significant social media engagement.",
     "sources": [
       {
-        "name": "Quartz",
-        "url": "https://qz.com/pentagon-grok-chatgpt-genai-mil-military-090126",
+        "name": "AP News",
+        "url": "https://apnews.com/article/anthropic-ai-safety-jacob-coxon-2ed549e07f2f941600a135070487d83d",
         "source_type": "news",
-        "published_at": "2026-09-01T11:46:43+00:00"
+        "published_at": "2026-09-10T02:38:00+05:30"
       },
       {
-        "name": "Gizmodo",
-        "url": "https://gizmodo.com/us-military-rolls-out-custom-versions-of-chatgpt-and-grok-for-warfighters-2000805580",
+        "name": "Fortune",
+        "url": "https://fortune.com/2026/09/09/anthropic-researcher-resigns-warn-ai-companies-gambling-with-lives/",
         "source_type": "news",
-        "published_at": "2026-09-01T15:15:29+00:00"
+        "published_at": "2026-09-09T14:35:57+05:30"
+      },
+      {
+        "name": "TIME",
+        "url": "https://time.com/article/2026/09/09/ai-anthropic-openai-jacob-coxon/",
+        "source_type": "news",
+        "published_at": "2026-09-09T20:21:30+05:30"
       }
     ]
   },
   {
     "rank": 6,
-    "title": "Microsoft 365 outage disrupts Outlook and cloud services",
-    "summary": "A multi-day Microsoft 365 disruption continued to affect Outlook, Exchange Online, Teams, SharePoint, OneDrive and related services. Microsoft attributed the incident to a core authentication configuration and said remediation was progressing.",
-    "published_at": "2026-09-01T13:54:42+00:00",
+    "title": "Google commits $15B to AI infrastructure and nuclear power in Finland",
+    "summary": "Google announced a €13 billion ($15B) investment in Finnish digital infrastructure through 2028, including data centers and a 22-year nuclear power purchase agreement with Fortum to extend the Loviisa plant's life to 2050.",
+    "published_at": "2026-09-09T07:14:00+05:30",
     "category": "Enterprise Software",
-    "popularity_basis": "A widespread outage at a core enterprise productivity platform affects organizations globally and generated broad operational coverage.",
+    "popularity_basis": "Major infrastructure investment with first European nuclear PPA, covered by WSJ, Bloomberg, Google Cloud Press Corner, and DW.",
     "sources": [
       {
-        "name": "IT Pro",
-        "url": "https://www.itpro.com/software/microsoft/the-microsoft-365-outage-explained-what-happened-what-apps-are-affected-and-is-a-fix-available",
-        "source_type": "news",
-        "published_at": "2026-09-01T13:54:42+00:00"
+        "name": "Google Cloud Press Corner",
+        "url": "https://www.googlecloudpresscorner.com/2026-09-09-Google-Deepens-Commitment-to-Finland-with-Two-Year-EUR13-Billion-investment-in-AI-Infrastructure",
+        "source_type": "company",
+        "published_at": "2026-09-09T00:00:00+05:30"
       },
       {
-        "name": "TechCrunch",
-        "url": "https://techcrunch.com/2026/09/01/microsoft-365-outage-drags-on-but-things-are-improving/",
+        "name": "The Wall Street Journal",
+        "url": "https://www.wsj.com/business/google-to-invest-15-billion-in-data-centers-and-infrastructure-in-finland-335c5ee2",
         "source_type": "news",
-        "published_at": "2026-09-01T15:23:15+00:00"
+        "published_at": "2026-09-09T07:14:00+05:30"
       },
       {
-        "name": "Computerworld",
-        "url": "https://www.computerworld.com/article/4216867/microsoft-365-outage-enters-second-day-as-search-disruptions-persist.html",
+        "name": "Bloomberg",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-09/google-gives-a-20-year-lifeline-to-nordic-nuclear-power-plant",
         "source_type": "news",
-        "published_at": "2026-09-01"
+        "published_at": "2026-09-09T13:32:20+05:30"
       }
     ]
   },
   {
     "rank": 7,
-    "title": "China's CXMT starts small-scale HBM3E production",
-    "summary": "Chinese memory maker CXMT reportedly began small-scale HBM3E production and is supplying samples to domestic AI-chip developers. The development could reduce China's dependence on foreign high-bandwidth-memory suppliers under export restrictions.",
-    "published_at": "2026-09-01T06:10:26+00:00",
+    "title": "Qualcomm and Amazon strike $60B AI chip partnership",
+    "summary": "Qualcomm announced a multi-generation deal with Amazon to develop custom AI inference chips and 1.6T optical connectivity for AWS data centers. Amazon received warrants to purchase up to $4 billion in Qualcomm stock tied to the partnership.",
+    "published_at": "2026-09-09T00:00:00+05:30",
     "category": "Semiconductors",
-    "popularity_basis": "Advanced HBM supply is strategically important to AI accelerators, while China's domestic chip supply chain remains a major geopolitical issue.",
+    "popularity_basis": "Major semiconductor-AI deal with $60B potential value, covered by Manufacturing Dive, Yahoo Finance, Channel Insider, and TechZine.",
     "sources": [
       {
-        "name": "Korea Herald",
-        "url": "https://www.koreaherald.com/article/10858978",
+        "name": "Manufacturing Dive",
+        "url": "https://www.manufacturingdive.com/news/qualcomm-custom-chips-amazon-4b-partnership/829914/",
         "source_type": "news",
-        "published_at": "2026-09-01T06:10:26+00:00"
+        "published_at": "2026-09-09T00:00:00+05:30"
       },
       {
-        "name": "Seoul Economic Daily",
-        "url": "https://en.sedaily.com/international/2026/09/01/chinas-cxmt-begins-trial-production-of-hbm3e-chips",
+        "name": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-60-billion-deal-reveals-013700748.html",
         "source_type": "news",
-        "published_at": "2026-09-01"
+        "published_at": "2026-09-10T02:05:31+05:30"
       },
       {
-        "name": "Korea JoongAng Daily",
-        "url": "https://www.koreajoongangdaily.com/business/chinas-cxmt-begins-hbm3e-production-as-chip-battle-with-korean-powerhouses-widens/12854260",
+        "name": "Channel Insider",
+        "url": "https://www.channelinsider.com/ai/news-amazon-qualcomm-aws-ai-deal/",
         "source_type": "news",
-        "published_at": "2026-09-01"
+        "published_at": "2026-09-09T00:00:00+05:30"
       }
     ]
   },
   {
     "rank": 8,
-    "title": "Anthropic resumes external AI cyber testing with safeguards",
-    "summary": "Anthropic resumed external cybersecurity evaluations of its AI models after pausing them following incidents in which testing escaped intended environments. The company reportedly tightened sandboxing, monitoring and evaluator procedures.",
-    "published_at": "2026-08-31T22:48:07+00:00",
-    "category": "AI",
-    "popularity_basis": "The story concerns safety controls for frontier-model cyber capabilities, a central risk area for AI labs and regulators.",
+    "title": "Defense startup Covenant emerges with $250M and missile factory",
+    "summary": "Covenant exited stealth with over $250 million in funding led by Andreessen Horowitz and Founders Fund, unveiling the Anthem long-range cruise missile and opening a 105,000-square-foot Texas factory with plans for mass production in Q1 2027.",
+    "published_at": "2026-09-09T00:00:00+05:30",
+    "category": "Startups",
+    "popularity_basis": "Major defense tech emergence with production facility, covered by Dallas Innovates, The Next Web, Seeking Alpha, and Ground News.",
     "sources": [
       {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/technology/anthropic-resume-external-testing-ai-models-following-security-incidents-2026-08-31/",
+        "name": "Dallas Innovates",
+        "url": "https://dallasinnovates.com/defense-startup-covenant-exits-stealth-with-grand-prairie-missile-factory-and-250m-raise/",
         "source_type": "news",
-        "published_at": "2026-08-31T22:48:07+00:00"
+        "published_at": "2026-09-09T00:00:00+05:30"
       },
       {
         "name": "The Next Web",
-        "url": "https://thenextweb.com/news/anthropic-resumes-external-cyber-testing",
+        "url": "https://thenextweb.com/news/covenant-anthem-stealth-exit-250m-texas-factory",
         "source_type": "news",
-        "published_at": "2026-09-01"
+        "published_at": "2026-09-09T16:50:36+05:30"
       },
       {
-        "name": "Business Today",
-        "url": "https://www.businesstoday.in/technology/artificial-intelligence/story/anthropic-resumes-claude-testing-after-real-world-hacks-adds-stronger-ai-safety-safeguards-552554-2026-09-01",
+        "name": "Seeking Alpha",
+        "url": "https://seekingalpha.com/news/4641238-startup-covenant-unveils-long-range-missile-raises-more-than-250m",
         "source_type": "news",
-        "published_at": "2026-09-01T10:10:02+00:00"
+        "published_at": "2026-09-09T00:00:00+05:30"
       }
     ]
   },
   {
     "rank": 9,
-    "title": "Brazil tightens AI rules before national election",
-    "summary": "Brazil's electoral authorities are moving to clarify and enforce restrictions on AI-generated election content, including labeling requirements, deepfake limits and a prohibition on AI systems recommending candidates. The rules could become a major election-integrity precedent.",
-    "published_at": "2026-09-01T10:05:10+00:00",
-    "category": "Regulation",
-    "popularity_basis": "The measures address AI-generated political content in a major democracy ahead of voting, giving the story international regulatory relevance.",
+    "title": "OpenAI adds AI safety researcher Paul Christiano to board",
+    "summary": "OpenAI appointed Paul Christiano, an influential AI alignment researcher, to its Foundation board of directors. The move signals increased focus on AI safety governance amid industry concerns about uncontrollable AI systems.",
+    "published_at": "2026-09-09T00:00:00+05:30",
+    "category": "AI",
+    "popularity_basis": "Notable AI governance appointment covered by TechCrunch, Yahoo News, and Financial Times with safety community attention.",
     "sources": [
       {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/world/americas/brazil-races-rein-ai-weeks-before-election-2026-09-01/",
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
         "source_type": "news",
-        "published_at": "2026-09-01T10:05:10+00:00"
+        "published_at": "2026-09-09T00:00:00+05:30"
       },
       {
-        "name": "The Next Web",
-        "url": "https://thenextweb.com/news/brazil-ai-election-rules-tse-deepfake",
+        "name": "Yahoo News",
+        "url": "https://tech.yahoo.com/ai/chatgpt/articles/openai-adds-prominent-ai-doomer-222522305.html",
         "source_type": "news",
-        "published_at": "2026-09-01"
+        "published_at": "2026-09-09T22:05:17+05:30"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "Waymo challenges camera-only autonomy before Tesla launch",
-    "summary": "Waymo publicly argued that fully autonomous driving requires multiple sensor types and that pure end-to-end AI systems are not sufficiently safe. The comments were widely seen as a challenge to Tesla's camera-centric autonomy strategy.",
-    "published_at": "2026-09-01",
-    "category": "Consumer Technology",
-    "popularity_basis": "A direct strategic clash between the leading commercial robotaxi operator and Tesla ahead of Cybercab-related developments.",
+    "title": "Uber invests $10M in Indian fleet operator Carrum at $168M valuation",
+    "summary": "Uber invested $10 million in Carrum Mobility's Series B round, valuing the Indian fleet management startup at ₹16 billion ($168 million). Uber now holds a mid-teens stake as it expands reliance on fleet operators in India.",
+    "published_at": "2026-09-09T00:00:00+05:30",
+    "category": "Startups",
+    "popularity_basis": "Significant India-focused mobility investment covered by TechCrunch, Yahoo Finance, and LinkedIn with regional relevance.",
     "sources": [
       {
         "name": "TechCrunch",
-        "url": "https://techcrunch.com/2026/09/01/waymo-goes-on-offense-ahead-of-teslas-cybercab-launch/",
+        "url": "https://techcrunch.com/2026/09/09/uber-invests-10m-in-indian-fleet-operator-carrum-at-168m-valuation/",
         "source_type": "news",
-        "published_at": "2026-09-01"
+        "published_at": "2026-09-09T00:00:00+05:30"
+      },
+      {
+        "name": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/small-business/articles/uber-invests-10m-indian-fleet-143841047.html",
+        "source_type": "news",
+        "published_at": "2026-09-09T15:05:22+05:30"
       }
     ]
   },
   {
     "rank": 11,
-    "title": "Aesto Health breach affects more than 9.5 million people",
-    "summary": "Healthcare technology company Aesto Health reported that attackers stole personal and health information from AWS-hosted infrastructure, affecting more than 9.5 million individuals. It is one of the day's largest disclosed health-data breach reports.",
-    "published_at": "2026-09-01",
+    "title": "Cymphony exits stealth with $30M for AI agent security",
+    "summary": "Enterprise AI security startup Cymphony raised $30 million in a Series A co-led by Sequoia Capital and SMBC Fin Atlas Beyond Fund, valuing the company above $100 million. The startup helps enterprises track and control AI agents accessing their systems.",
+    "published_at": "2026-09-09T13:30:00+05:30",
     "category": "Cybersecurity",
-    "popularity_basis": "The scale of affected health records makes this a significant privacy and healthcare-security incident.",
+    "popularity_basis": "Notable AI security funding from top-tier VC, covered by TechCrunch, Yahoo Finance, and AI Weekly with enterprise security relevance.",
     "sources": [
       {
-        "name": "SecurityWeek",
-        "url": "https://www.securityweek.com/9-5-million-impacted-by-aesto-health-data-breach/",
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks/",
         "source_type": "news",
-        "published_at": "2026-09-01"
+        "published_at": "2026-09-09T00:00:00+05:30"
+      },
+      {
+        "name": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/technology/ai/articles/cymphony-launches-30-million-secure-133000121.html",
+        "source_type": "news",
+        "published_at": "2026-09-09T13:30:00+05:30"
+      },
+      {
+        "name": "AI Weekly",
+        "url": "https://aiweekly.co/alerts/enterprise-ai-agent-security-startup-cymphony-exits-stealth-with-30m-sequoia",
+        "source_type": "news",
+        "published_at": "2026-09-09T00:00:00+05:30"
       }
     ]
   },
   {
     "rank": 12,
-    "title": "Active exploitation targets critical Langflow remote-code-execution flaw",
-    "summary": "Threat actors are exploiting a critical Langflow vulnerability, CVE-2026-0768, that can allow unauthenticated remote Python execution. Because Langflow is used to build AI workflows, exposed deployments face particularly direct risk.",
-    "published_at": "2026-09-01",
-    "category": "Cybersecurity",
-    "popularity_basis": "An actively exploited critical vulnerability in an AI-development platform has immediate relevance for enterprise security teams.",
+    "title": "Tesla Cybercab faces federal safety probe over certification",
+    "summary": "NHTSA opened a formal investigation into how Tesla certified its Cybercab robotaxis to Federal Motor Vehicle Safety Standards. The probe examines Tesla's determination that certain standards are inapplicable to vehicles lacking conventional manual controls.",
+    "published_at": "2026-09-09T00:00:00+05:30",
+    "category": "Regulation",
+    "popularity_basis": "Federal regulatory action on autonomous vehicles, covered by WardsAuto and multiple EV outlets with safety implications.",
     "sources": [
       {
-        "name": "SecurityWeek",
-        "url": "https://www.securityweek.com/hackers-start-exploiting-critical-langflow-vulnerability/",
+        "name": "WardsAuto",
+        "url": "https://www.wardsauto.com/news/tesla-faces-federal-probe-over-cybercab-rollout/829735/",
         "source_type": "news",
-        "published_at": "2026-09-01"
+        "published_at": "2026-09-09T00:00:00+05:30"
+      },
+      {
+        "name": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-cybercab-strength-comes-weakness-182213666.html",
+        "source_type": "news",
+        "published_at": "2026-09-09T00:00:00+05:30"
       }
     ]
   },
   {
     "rank": 13,
-    "title": "CISA flags exploited PaperCut flaws enabling remote execution",
-    "summary": "CISA added two PaperCut NG/MF vulnerabilities to its Known Exploited Vulnerabilities catalog after reports of active exploitation. The flaws can be chained by unauthenticated attackers to alter configuration and execute code on affected servers.",
-    "published_at": "2026-09-01T01:27:00-04:00",
-    "category": "Cybersecurity",
-    "popularity_basis": "CISA's exploited-vulnerability designation and a federal remediation deadline make the issue operationally urgent for organizations using PaperCut.",
+    "title": "FTC opens antitrust probe into Epic Systems",
+    "summary": "The Federal Trade Commission reportedly launched an antitrust investigation into Epic Systems, the dominant electronic health records vendor. The probe focuses on whether Epic restricts competitor access to patient data, though Epic denies anticompetitive conduct.",
+    "published_at": "2026-09-09T18:54:48+05:30",
+    "category": "Regulation",
+    "popularity_basis": "Major healthcare IT antitrust action reported by Reuters and JD Supra with significant industry implications.",
     "sources": [
       {
-        "name": "SecurityWeek",
-        "url": "https://www.securityweek.com/papercut-exploitation-escalates-to-active-intrusions/",
+        "name": "JD Supra",
+        "url": "https://www.jdsupra.com/legalnews/the-ftc-opens-an-antitrust-probe-into-1840855/",
         "source_type": "news",
-        "published_at": "2026-09-01T01:27:00-04:00"
+        "published_at": "2026-09-09T18:54:48+05:30"
       },
       {
-        "name": "Security Affairs",
-        "url": "https://securityaffairs.com/198200/security/u-s-cisa-adds-papercut-ng-mf-flaws-to-its-known-exploited-vulnerabilities-catalog.html",
+        "name": "MLex",
+        "url": "https://www.mlex.com/mlex/data-privacy-security/articles/2523155/us-ftc-withdraws-health-breach-notification-rule-policy-statement",
         "source_type": "news",
-        "published_at": "2026-09-01"
+        "published_at": "2026-09-09T15:05:43+05:30"
       }
     ]
   },
   {
     "rank": 14,
-    "title": "JFrog Artifactory authentication flaw reportedly exploited",
-    "summary": "Security researchers reported in-the-wild exploitation of CVE-2026-82329, a critical JFrog Artifactory authentication-bypass flaw that can grant administrative access. Organizations running vulnerable internet-accessible repositories are urged to patch and review access tokens.",
-    "published_at": "2026-09-01",
-    "category": "Cybersecurity",
-    "popularity_basis": "Artifactory is widely used in software supply chains, and reported active exploitation raises the impact of a critical admin-access flaw.",
+    "title": "System raises $20M for vertically integrated peptide platform",
+    "summary": "Health startup System secured $20 million to expand its peptide telehealth platform connecting patients with licensed clinicians and pharmacy-grade compound treatments. Investors include Patron Fund, Will Ventures, and SV Angel.",
+    "published_at": "2026-09-09T13:00:00+05:30",
+    "category": "Startups",
+    "popularity_basis": "Notable health tech funding covered by PR Newswire, Dealroom, and Athletech News amid growing peptide therapy market.",
     "sources": [
       {
-        "name": "SecurityWeek",
-        "url": "https://www.securityweek.com/critical-jfrog-artifactory-vulnerability-reportedly-exploited-in-the-wild/",
+        "name": "PR Newswire",
+        "url": "https://www.prnewswire.com/news-releases/system-raises-20m-in-funding-to-become-the-trusted-peptide-native-platform-for-a-new-era-302873360.html",
+        "source_type": "company",
+        "published_at": "2026-09-09T13:00:00+05:30"
+      },
+      {
+        "name": "Dealroom",
+        "url": "https://dealroom.co/news/149748-system-raises-20m-to-build-vertically-integrated-peptide-platform/",
         "source_type": "news",
-        "published_at": "2026-09-01"
+        "published_at": "2026-09-09T17:05:35+05:30"
       }
     ]
   },
   {
     "rank": 15,
-    "title": "Energy firms warned about AI-enhanced cyberattacks",
-    "summary": "A Reuters Events Industry and Energy Intelligence report warned that AI is increasing the speed and efficiency of cyberattacks against increasingly connected energy systems. Smaller operators may be especially exposed without standardized defensive practices.",
-    "published_at": "2026-09-01T15:39:51+00:00",
-    "category": "Cybersecurity",
-    "popularity_basis": "AI-driven threats to critical energy infrastructure carry high potential public and economic impact.",
+    "title": "Bulwark Dynamics raises $6.8M for autonomous landing craft",
+    "summary": "Defense startup Bulwark Dynamics secured $6.8 million in seed funding to produce its Caravel autonomous landing craft, partnering with Japan's Onomichi Dockyard for manufacturing. The unmanned vessels resupply forces across shorelines without port infrastructure.",
+    "published_at": "2026-09-09T00:00:00+05:30",
+    "category": "Startups",
+    "popularity_basis": "Defense tech funding with international manufacturing partnership, covered by Business Wire, Dealroom, and Tectonic Defense.",
     "sources": [
       {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/business/energy/energy-firms-face-ai-enhanced-cyber-attacks-connectivity-push--reeii-2026-09-01/",
+        "name": "Business Wire",
+        "url": "https://www.businesswire.com/news/home/20260909279889/en/Bulwark-Dynamics-Raises-$6-8M-to-Build-Autonomous-Landing-Craft-for-Contested-Logistics-Partners-with-Japans-Onomichi-Dockyard",
+        "source_type": "company",
+        "published_at": "2026-09-09T00:00:00+05:30"
+      },
+      {
+        "name": "Dealroom",
+        "url": "https://dealroom.co/news/149769-bulwark-dynamics-raises-6-8m-seed-to-build-autonomous-landing-craft-for/",
         "source_type": "news",
-        "published_at": "2026-09-01T15:39:51+00:00"
+        "published_at": "2026-09-09T17:05:34+05:30"
       }
     ]
   },
   {
     "rank": 16,
-    "title": "OVHcloud gains France's SecNumCloud public-cloud qualification",
-    "summary": "OVHcloud received France's SecNumCloud qualification for its SNC Cloud Platform, permitting it to offer a trusted public-cloud service for sensitive workloads. The certification strengthens European cloud-sovereignty competition with US hyperscalers.",
-    "published_at": "2026-09-01T09:01:29+00:00",
-    "category": "Enterprise Software",
-    "popularity_basis": "A nationally significant cloud-security certification with direct implications for European public-sector and regulated-workload cloud adoption.",
+    "title": "Overroute raises $5.5M for AI freight execution platform",
+    "summary": "AI-native freight execution startup Overroute secured $5.5 million led by UP.Partners to expand its platform used by J.B. Hunt. The funding will accelerate AI agents that automate load monitoring and exception handling for large carriers.",
+    "published_at": "2026-09-09T00:00:00+05:30",
+    "category": "Startups",
+    "popularity_basis": "Logistics AI funding covered by FreightWaves, Business Wire, and StockTitan with enterprise deployment traction.",
     "sources": [
       {
-        "name": "OVHcloud",
-        "url": "https://corporate.ovhcloud.com/fr/newsroom/news/ovhcloud-obtains-secnumcloud-qualification-snc-cloud-platform/",
-        "source_type": "company",
-        "published_at": "2026-09-01"
+        "name": "FreightWaves",
+        "url": "https://www.freightwaves.com/news/overroute-raises-5-5m-to-expand-ai-freight-execution-platform",
+        "source_type": "news",
+        "published_at": "2026-09-09T13:54:39+05:30"
       },
       {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/technology/ovhcloud-gets-french-security-certification-public-cloud-plans-european-roll-out-2026-09-01/",
-        "source_type": "news",
-        "published_at": "2026-09-01T09:01:43+00:00"
+        "name": "Business Wire",
+        "url": "https://www.stocktitan.net/news/JBHT/overroute-raises-5-5-million-to-scale-in-complex-freight-ddxvmshgak76.html",
+        "source_type": "company",
+        "published_at": "2026-09-09T00:00:00+05:30"
       }
     ]
   },
   {
     "rank": 17,
-    "title": "Micron Taiwan unions threaten strike over bonus dispute",
-    "summary": "Micron's Taiwan unions said they were moving toward possible strike action unless the company overhauled its employee-bonus system and shared more profits. Labor disruption would matter because Taiwan is central to global memory-chip production.",
-    "published_at": "2026-09-01T08:10:27+00:00",
-    "category": "Semiconductors",
-    "popularity_basis": "Micron is a major memory supplier, and potential labor disruption in Taiwan could affect an AI-driven memory market already under pressure.",
+    "title": "FTC withdraws 2021 health app breach policy statement",
+    "summary": "The Federal Trade Commission rescinded its 2021 Policy Statement on Breaches by Health Apps, calling it obsolete after 2024 rule updates expanded the Health Breach Notification Rule to cover health apps and connected devices directly.",
+    "published_at": "2026-09-09T00:00:00+05:30",
+    "category": "Regulation",
+    "popularity_basis": "Regulatory policy change covered by FTC.gov and MLex with privacy and health tech implications.",
     "sources": [
       {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/business/world-at-work/microns-taiwan-unions-threaten-strike-over-bonus-dispute-2026-09-01/",
+        "name": "FTC",
+        "url": "https://www.ftc.gov/news-events/news/press-releases/2026/09/ftc-withdraws-obsolete-policy-statement",
+        "source_type": "regulatory",
+        "published_at": "2026-09-09T00:00:00+05:30"
+      },
+      {
+        "name": "MLex",
+        "url": "https://www.mlex.com/mlex/data-privacy-security/articles/2523155/us-ftc-withdraws-health-breach-notification-rule-policy-statement",
         "source_type": "news",
-        "published_at": "2026-09-01T08:10:27+00:00"
+        "published_at": "2026-09-09T15:05:43+05:30"
       }
     ]
   },
   {
     "rank": 18,
-    "title": "VMware introduces private AI cloud and AI factory offerings",
-    "summary": "VMware introduced private AI cloud and AI factory offerings aimed at enterprises moving production AI workloads onto on-premises infrastructure. The strategy targets cost, data sovereignty and security concerns around public-cloud AI deployments.",
-    "published_at": "2026-09-01",
-    "category": "Enterprise Software",
-    "popularity_basis": "VMware remains influential in enterprise infrastructure, and private AI deployment is a major emerging architecture trend.",
+    "title": "SpaceX launches classified Space Force payload",
+    "summary": "SpaceX successfully launched its 80th Starlink mission of 2026 and prepared to fly a classified national security payload for the U.S. Space Force from Cape Canaveral. The company also plans to launch the final three O3b mPOWER satellites for SES.",
+    "published_at": "2026-09-09T09:07:16+05:30",
+    "category": "Telecommunications",
+    "popularity_basis": "Ongoing space launch activity covered by Florida Today, MyNews13, and Spaceflight Now with defense and satellite relevance.",
     "sources": [
       {
-        "name": "The Register",
-        "url": "https://www.theregister.com/cloud/2026/09/01/vmware-intros-private-ai-cloud-ai-factory-as-workloads-shift-to-on-prem/5293559",
+        "name": "Florida Today",
+        "url": "https://www.floridatoday.com/story/tech/science/space/2026/09/09/spacex-rocket-launch-from-cape-canaveral-possible-this-weekend-after-slowdown/91657683007/",
         "source_type": "news",
-        "published_at": "2026-09-01"
+        "published_at": "2026-09-09T09:07:16+05:30"
+      },
+      {
+        "name": "Spaceflight Now",
+        "url": "https://spaceflightnow.com/2026/09/09/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force/",
+        "source_type": "news",
+        "published_at": "2026-09-09T00:00:00+05:30"
       }
     ]
   },
   {
     "rank": 19,
-    "title": "Empirik launches with $21 million for outage prediction",
-    "summary": "Sequoia-incubated Empirik launched with $21 million to build software that tracks infrastructure changes and predicts their operational ripple effects. The company targets costly outages in increasingly complex cloud and AI-era systems.",
-    "published_at": "2026-09-01",
+    "title": "Latitude raises $35M Series A for cross-border payments",
+    "summary": "Global payments infrastructure startup Latitude secured $35 million in Series A funding to simplify cross-border money movement. The round supports expansion of the Houston-based company's international payment rails.",
+    "published_at": "2026-09-09T00:00:00+05:30",
     "category": "Startups",
-    "popularity_basis": "A sizable venture-backed launch in enterprise reliability software with backing connected to Sequoia attracted startup and infrastructure interest.",
+    "popularity_basis": "Fintech funding covered by VC News Daily with cross-border payments market relevance.",
     "sources": [
       {
-        "name": "TechCrunch",
-        "url": "https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/",
+        "name": "VC News Daily",
+        "url": "https://vcnewsdaily.com/",
         "source_type": "news",
-        "published_at": "2026-09-01"
+        "published_at": "2026-09-09T00:00:00+05:30"
       }
     ]
   },
   {
     "rank": 20,
-    "title": "WatchGuard patches critical remote-execution and takeover vulnerabilities",
-    "summary": "WatchGuard released patches for more than two dozen vulnerabilities, including five critical issues that could enable remote code execution or account takeover. Organizations using affected networking and security products need to prioritize updates.",
-    "published_at": "2026-09-01T08:50:04+00:00",
-    "category": "Cybersecurity",
-    "popularity_basis": "Critical flaws in security and network appliances can provide attackers high-value entry points into enterprise environments.",
+    "title": "Savvy Wealth closes $100M Series C for AI-native RIA",
+    "summary": "AI-native registered investment advisor Savvy Wealth completed a $100 million Series C funding round. The New York-based company provides AI-powered wealth management tools for independent financial advisors.",
+    "published_at": "2026-09-09T00:00:00+05:30",
+    "category": "Startups",
+    "popularity_basis": "Major fintech funding covered by VC News Daily with AI and wealth management intersection.",
     "sources": [
       {
-        "name": "SecurityWeek",
-        "url": "https://www.securityweek.com/watchguard-patches-critical-vulnerabilities/",
+        "name": "VC News Daily",
+        "url": "https://vcnewsdaily.com/",
         "source_type": "news",
-        "published_at": "2026-09-01T08:50:04+00:00"
+        "published_at": "2026-09-09T00:00:00+05:30"
       }
     ]
   },
   {
     "rank": 21,
-    "title": "Nutex Health confirms theft of sensitive company data",
-    "summary": "Nutex Health disclosed that hackers accessed and stole patient, employee, provider, business and financial information. The confirmation followed a ransomware group's claim and adds another healthcare-sector data-security incident.",
-    "published_at": "2026-09-01",
-    "category": "Cybersecurity",
-    "popularity_basis": "Confirmed theft of patient and financial data at a healthcare operator is significant, though reported impact details remain limited.",
+    "title": "Encoded Therapeutics raises $275M in Series F",
+    "summary": "Clinical-stage biotechnology company Encoded Therapeutics closed a $275 million Series F financing round. The South San Francisco-based company develops genetic medicines for severe neurological disorders.",
+    "published_at": "2026-09-09T00:00:00+05:30",
+    "category": "Startups",
+    "popularity_basis": "Large biotech funding covered by VC News Daily with significant capital raise in gene therapy sector.",
     "sources": [
       {
-        "name": "SecurityWeek",
-        "url": "https://www.securityweek.com/ransomware-gang-claims-nutex-health-data-breach/",
+        "name": "VC News Daily",
+        "url": "https://vcnewsdaily.com/",
         "source_type": "news",
-        "published_at": "2026-09-01"
+        "published_at": "2026-09-09T00:00:00+05:30"
       }
     ]
   },
   {
     "rank": 22,
-    "title": "Researchers use Claude to port industrial-control exploit",
-    "summary": "Forescout researchers demonstrated using Anthropic's Claude to adapt a remote-code-execution exploit between WAGO programmable logic controller models. The experiment illustrates how AI can lower the effort needed to modify operational-technology exploits.",
-    "published_at": "2026-09-01T08:37:00-04:00",
-    "category": "Cybersecurity",
-    "popularity_basis": "The research connects frontier AI capabilities with critical-infrastructure security risks, an area of growing regulator and industry concern.",
+    "title": "Xiaomi expands Mijia smart home brand across Europe at IFA 2026",
+    "summary": "Xiaomi announced large-scale expansion of its Mijia smart home brand across Europe at IFA 2026, showcasing its Human × Car × Home ecosystem. The company also unveiled three new in-house AI chips at the Berlin trade show.",
+    "published_at": "2026-09-09T15:05:37+05:30",
+    "category": "Consumer Technology",
+    "popularity_basis": "Major consumer electronics showcase covered by Variety and Xiaomi's official channels at IFA 2026.",
     "sources": [
       {
-        "name": "SecurityWeek",
-        "url": "https://www.securityweek.com/experiment-porting-a-plc-exploit-with-ai-takes-hours-and-hundreds-of-dollars/",
+        "name": "Variety",
+        "url": "https://variety.com/2026/shopping/news/ifa-september-2026-best-new-tech-releases-products-shop-now-1236849068/",
         "source_type": "news",
-        "published_at": "2026-09-01T08:37:00-04:00"
+        "published_at": "2026-09-09T19:00:00+05:30"
+      },
+      {
+        "name": "Xiaomi",
+        "url": "https://www.mi.com/global/discover/article?id=6348",
+        "source_type": "company",
+        "published_at": "2026-09-09T15:05:37+05:30"
       }
     ]
   },
   {
     "rank": 23,
-    "title": "AI hardware demand supports Asian factory activity",
-    "summary": "Manufacturing surveys showed strong demand for chips, computers and other AI-related hardware helping support factory activity in China, Japan and South Korea. The data underline AI infrastructure's growing macroeconomic influence on electronics supply chains.",
-    "published_at": "2026-09-01",
+    "title": "Marvell to showcase AI data center connectivity portfolio",
+    "summary": "Marvell announced it will display its end-to-end AI data center connectivity and memory solutions at AI Infra Summit 2026 in Santa Clara, September 15-17. The semiconductor company highlights scale-up and scale-out infrastructure advances.",
+    "published_at": "2026-09-09T00:00:00+05:30",
     "category": "Semiconductors",
-    "popularity_basis": "The story provides broad evidence that AI hardware demand is affecting production across major Asian technology manufacturing centers.",
+    "popularity_basis": "Semiconductor product showcase covered by Marvell investor relations with AI infrastructure relevance.",
     "sources": [
       {
-        "name": "Reuters",
-        "url": "https://www.reuters.com/world/china/global-economy-global-ai-boom-fuels-asia-factory-expansion-august-2026-09-01/",
-        "source_type": "news",
-        "published_at": "2026-09-01"
+        "name": "Marvell",
+        "url": "https://investor.marvell.com/news-events/press-releases/detail/1032/marvell-to-showcase-end-to-end-ai-data-center-connectivity-portfolio-at-ai-infra-summit-2026",
+        "source_type": "company",
+        "published_at": "2026-09-09T00:00:00+05:30"
       }
     ]
   },
   {
     "rank": 24,
-    "title": "Five defendants plead guilty in ATM malware case",
-    "summary": "Five Venezuelan nationals pleaded guilty in a US case involving attempted deployment of malware intended to force ATMs to dispense cash. The case reflects continued physical and malware-based attacks against financial technology infrastructure.",
-    "published_at": "2026-09-01T07:24:25-04:00",
-    "category": "Cybersecurity",
-    "popularity_basis": "A confirmed criminal case involving ATM malware is a notable financial-services security development, though narrower in industry impact than major enterprise incidents.",
+    "title": "GCs and Wilson Sonsini launch legal tech VC fund",
+    "summary": "A group of general counsels partnered with Wilson Sonsini Goodrich & Rosati to launch GCVC, a venture capital fund for legal technology startups. The fund already has over 50 general counsels invested and backed AI-native legal software companies.",
+    "published_at": "2026-09-09T17:16:00+05:30",
+    "category": "Startups",
+    "popularity_basis": "Legal tech funding vehicle covered by ABA Journal and Reuters with institutional investor participation.",
     "sources": [
       {
-        "name": "SecurityWeek",
-        "url": "https://www.securityweek.com/five-venezuelans-plead-guilty-in-us-court-to-atm-jackpotting/",
+        "name": "ABA Journal",
+        "url": "https://www.abajournal.com/news/article/new-legal-tech-vc-fund-consisting-of-general-counsels-and-wilson-sonsini-launches",
         "source_type": "news",
-        "published_at": "2026-09-01T07:24:25-04:00"
-      },
-      {
-        "name": "GBHackers",
-        "url": "https://gbhackers.com/five-plead-guilty-to-using-atm-jackpotting-malware/",
-        "source_type": "news",
-        "published_at": "2026-09-01"
+        "published_at": "2026-09-09T17:16:00+05:30"
       }
     ]
   },
   {
     "rank": 25,
-    "title": "Aeron Systems raises ₹45 crore pre-Series B funding",
-    "summary": "Pune-based deep-tech company Aeron Systems raised ₹45 crore in a pre-Series B round led by Riverwalk Holdings and MGF-Kavachh. The funding adds to Indian investment activity in aerospace and industrial deep technology.",
-    "published_at": "2026-09-01T13:47:57+00:00",
-    "category": "Startups",
-    "popularity_basis": "A meaningful Indian deep-tech financing round with relevance to aerospace technology and domestic startup investment.",
+    "title": "Autonomous AI agents compromise thousands of credentials in hours",
+    "summary": "Security researchers documented a financially motivated hacking group using an autonomous multi-agent AI framework to harvest thousands of credentials within six hours. The attack demonstrates how threat actors leverage AI to accelerate operations.",
+    "published_at": "2026-09-08T00:00:00+05:30",
+    "category": "Cybersecurity",
+    "popularity_basis": "AI-powered cyberattack documentation covered by The Hacker News with security industry implications.",
     "sources": [
       {
-        "name": "YourStory",
-        "url": "https://yourstory.com/2026/09/startup-news-and-updates-daily-roundup-september-1-2026",
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/09/autonomous-ai-agents-compromise.html",
         "source_type": "news",
-        "published_at": "2026-09-01T13:47:57+00:00"
+        "published_at": "2026-09-08T00:00:00+05:30"
       }
     ]
   }
