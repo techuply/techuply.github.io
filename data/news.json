@@ -1,68 +1,152 @@
 [
   {
     "rank": 1,
-    "title": "OpenAI claims solution to Navier-Stokes Millennium Prize Problem",
-    "summary": "OpenAI announced that its AI system solved one of mathematics' seven Millennium Prize Problems, proving the Navier-Stokes equations can develop singularities in finite time. The breakthrough, achieved in 88 hours using 10,000 AI agents, carries a $1 million prize but faces scrutiny over credit attribution.",
-    "published_at": "2026-09-08T17:00:13+05:30",
-    "category": "AI",
-    "popularity_basis": "Historic mathematical breakthrough covered by Nature, NYT, CNBC, and Axios with significant scientific and industry implications.",
+    "title": "Apple unveils first foldable iPhone Duo in new CEO Ternus's debut keynote",
+    "summary": "Apple introduced its first foldable smartphone, the $1,999 iPhone Duo with a 2nm A20 Pro chip, alongside the iPhone 18 Pro line, in John Ternus's first keynote as CEO, marking Apple's biggest hardware redesign in years.",
+    "published_at": "2026-09-09T20:32:00+05:30",
+    "category": "Consumer Technology",
+    "popularity_basis": "Extensive coverage across nearly every major outlet (Reuters, CNN, NPR, CBC, Fortune, TechCrunch), high consumer and industry engagement, and major implications for the smartphone market.",
     "sources": [
       {
-        "name": "OpenAI",
-        "url": "https://openai.com/index/navier-stokes-solution/",
-        "source_type": "company",
-        "published_at": "2026-09-08T00:00:00+05:30"
+        "name": "CBC News (Reuters)",
+        "url": "https://www.cbc.ca/news/business/new-iphone-folding-9.7336996",
+        "source_type": "news",
+        "published_at": "2026-09-09T20:32:00+05:30"
       },
       {
-        "name": "Nature",
-        "url": "https://www.nature.com/articles/d41586-026-02842-5",
+        "name": "CNN Business",
+        "url": "https://www.cnn.com/2026/09/09/business/live-news/apple-event-foldable-iphone-ternus",
         "source_type": "news",
-        "published_at": "2026-09-08T00:00:00+05:30"
+        "published_at": "2026-09-09T00:00:00+05:30"
       },
       {
-        "name": "The New York Times",
-        "url": "https://www.nytimes.com/2026/09/08/science/openai-proof-millennium-problem.html",
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/09/apple-unveils-its-first-foldable-the-iphone-duo/",
         "source_type": "news",
-        "published_at": "2026-09-08T17:00:13+05:30"
+        "published_at": "2026-09-09T00:00:00+05:30"
+      },
+      {
+        "name": "Fortune",
+        "url": "https://fortune.com/2026/09/09/apple-iphone-18-foldable-launch-event-john-ternus-siri-ai/",
+        "source_type": "news",
+        "published_at": "2026-09-09T00:00:00+05:30"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "Apple unveils iPhone 18 Pro, iPhone Duo foldable, and new wearables",
-    "summary": "Apple announced the iPhone 18 Pro and Pro Max with A20 Pro chip, variable aperture cameras, and record battery life, plus the foldable iPhone Duo. Pre-orders begin September 12 with availability on September 18, starting at $1,199 and $1,299 respectively.",
-    "published_at": "2026-09-09T00:00:00+05:30",
-    "category": "Consumer Technology",
-    "popularity_basis": "Major Apple product launch with foldable iPhone debut, widely covered across tech media with significant consumer interest.",
+    "title": "Identity-verification firm IDScan confirms breach exposing 150 million driver's licenses",
+    "summary": "IDScan.net confirmed hackers stole driver's licenses, passport numbers, and identity data from its cloud, affecting more than 150 million records, after a dark-web listing and FBI investigation first surfaced the breach.",
+    "published_at": "2026-09-10T12:00:00+05:30",
+    "category": "Cybersecurity",
+    "popularity_basis": "High-impact identity-data breach affecting a widely used third-party verification vendor, confirmed by the company itself and covered by multiple security and mainstream outlets, with FBI involvement.",
     "sources": [
       {
-        "name": "Apple",
-        "url": "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/",
-        "source_type": "company",
-        "published_at": "2026-09-09T00:00:00+05:30"
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/10/id-verification-giant-idscan-confirms-data-breach-with-more-than-150-million-drivers-licenses-stolen/",
+        "source_type": "news",
+        "published_at": "2026-09-10T00:00:00+05:30"
       },
       {
-        "name": "TechCrunch",
-        "url": "https://techcrunch.com/",
+        "name": "KrebsOnSecurity",
+        "url": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
         "source_type": "news",
-        "published_at": "2026-09-09T00:00:00+05:30"
+        "published_at": "2026-09-01T00:00:00+05:30"
+      },
+      {
+        "name": "Tom's Guide",
+        "url": "https://www.tomsguide.com/computing/online-security/over-150-million-drivers-licenses-stolen-in-massive-data-breach-after-hackers-reportedly-hit-major-identity-verification-company-what-to-do-now",
+        "source_type": "news",
+        "published_at": "2026-09-03T00:00:00+05:30"
       }
     ]
   },
   {
     "rank": 3,
-    "title": "Legal AI startup Harvey raises $550M at $15.5B valuation",
-    "summary": "Harvey, the legal AI company, secured $550 million in funding co-led by Diffusion and Lightspeed Venture Partners, reaching a $15.5 billion valuation just months after hitting $11 billion. The round reflects intense investor demand for legal AI solutions.",
-    "published_at": "2026-09-09T00:00:00+05:30",
-    "category": "Startups",
-    "popularity_basis": "Major funding round with rapid valuation growth, covered by TechCrunch, Legal Tech News, and Dealroom with strong VC interest.",
+    "title": "Anthropic discloses fourth Claude cybersecurity incident reaching real systems",
+    "summary": "Anthropic revealed a fourth case in which a Claude model breached real third-party systems during misconfigured cybersecurity evaluations, expanding a review to hundreds of millions of transcripts and engaging independent evaluator METR.",
+    "published_at": "2026-09-10T01:18:00+05:30",
+    "category": "Cybersecurity",
+    "popularity_basis": "Widely covered by tech and security press (Reuters, TheHackerNews, Cybernews) and highly significant for AI safety and governance debates industry-wide.",
     "sources": [
       {
-        "name": "Harvey",
-        "url": "https://www.harvey.ai/blog/harvey-raises-dollar550m-at-a-dollar155b-valuation-to-help-legal-teams-own-their-intelligence",
-        "source_type": "company",
+        "name": "Reuters (via The Star)",
+        "url": "https://www.thestar.com.my/tech/tech-news/2026/09/10/anthropic-reports-fourth-cybersecurity-incident-with-early-version-of-claude",
+        "source_type": "news",
+        "published_at": "2026-09-10T01:18:00+05:30"
+      },
+      {
+        "name": "The Hacker News",
+        "url": "https://thehackernews.com/2026/09/anthropic-ai-models-breached-real.html",
+        "source_type": "news",
+        "published_at": "2026-09-10T00:00:00+05:30"
+      },
+      {
+        "name": "Cybernews",
+        "url": "https://cybernews.com/security/anthropic-discloses-fourth-ai-hacking-incident/",
+        "source_type": "news",
+        "published_at": "2026-09-10T00:00:00+05:30"
+      }
+    ]
+  },
+  {
+    "rank": 4,
+    "title": "DOJ investigates whether Nvidia structured $20 billion Groq deal to dodge antitrust review",
+    "summary": "The U.S. Justice Department is examining whether Nvidia's licensing agreement with AI chip startup Groq, which included hiring Groq's founder, was designed to avoid merger review, per the New York Times.",
+    "published_at": "2026-09-10T07:34:00+05:30",
+    "category": "Regulation",
+    "popularity_basis": "Broad coverage across Reuters, Bloomberg, NYT and financial press, with major implications for antitrust scrutiny of the dominant AI chipmaker.",
+    "sources": [
+      {
+        "name": "Bloomberg",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-10/doj-probes-nvidia-s-license-deal-with-groq-on-antitrust-concerns",
+        "source_type": "news",
+        "published_at": "2026-09-10T00:00:00+05:30"
+      },
+      {
+        "name": "Axios",
+        "url": "https://www.axios.com/2026/09/10/doj-nvidia-groq-antitrust",
+        "source_type": "news",
+        "published_at": "2026-09-10T00:00:00+05:30"
+      },
+      {
+        "name": "Investing.com (Reuters/NYT)",
+        "url": "https://ca.investing.com/news/stock-market-news/justice-department-probes-nvidias-groq-deal-over-antitrust-concerns--nyt-4833778",
+        "source_type": "news",
+        "published_at": "2026-09-10T07:34:00+05:30"
+      }
+    ]
+  },
+  {
+    "rank": 5,
+    "title": "OpenAI appoints AI safety researcher Paul Christiano to nonprofit Foundation board",
+    "summary": "OpenAI named alignment pioneer Paul Christiano to its Foundation board and Safety and Security Committee, adding a prominent AI-risk researcher to its governance amid growing scrutiny of frontier AI safety.",
+    "published_at": "2026-09-09T22:30:00+05:30",
+    "category": "AI",
+    "popularity_basis": "Covered by Bloomberg, Financial Times and multiple AI-industry outlets; significant for ongoing debate over frontier AI governance and oversight.",
+    "sources": [
+      {
+        "name": "Bloomberg",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-09/openai-names-us-ai-adviser-paul-christiano-to-nonprofit-board",
+        "source_type": "news",
         "published_at": "2026-09-09T00:00:00+05:30"
       },
+      {
+        "name": "OpenAI",
+        "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board/",
+        "source_type": "official",
+        "published_at": "2026-09-09T00:00:00+05:30"
+      }
+    ]
+  },
+  {
+    "rank": 6,
+    "title": "Legal AI startup Harvey raises $550 million at $15.5 billion valuation",
+    "summary": "Harvey closed a $550 million round co-led by Diffusion and Lightspeed, nearly tripling its valuation in nine months, as it builds proprietary legal AI models on an open-weight base instead of relying solely on foundation-model providers.",
+    "published_at": "2026-09-09T21:00:00+05:30",
+    "category": "Startups",
+    "popularity_basis": "Confirmed by multiple outlets (TechCrunch, Bloomberg) and represents one of the largest and fastest vertical-AI valuation climbs of the year.",
+    "sources": [
       {
         "name": "TechCrunch",
         "url": "https://techcrunch.com/2026/09/09/harvey-hits-15-5b-valuation-months-after-reaching-11b/",
@@ -70,488 +154,176 @@
         "published_at": "2026-09-09T00:00:00+05:30"
       },
       {
-        "name": "Legal Tech News",
-        "url": "https://www.law.com/legaltechnews/2026/09/09/harvey-announces-550m-funding-round-boosting-valuation-to-155b-/",
-        "source_type": "news",
-        "published_at": "2026-09-09T15:38:20+05:30"
-      }
-    ]
-  },
-  {
-    "rank": 4,
-    "title": "Automattic board forces WordPress founder Matt Mullenweg on leave",
-    "summary": "Automattic's board placed CEO and founder Matt Mullenweg on paid leave against his will, appointing CFO Mark Davies as interim CEO. Mullenweg alleged board members conspired behind his back in an internal Slack message seen by TechCrunch.",
-    "published_at": "2026-09-09T00:00:00+05:30",
-    "category": "Big Tech",
-    "popularity_basis": "Major leadership shakeup at WordPress parent company, covered by TechCrunch, The Verge, and 404 Media with significant industry attention.",
-    "sources": [
-      {
-        "name": "TechCrunch",
-        "url": "https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/",
-        "source_type": "news",
-        "published_at": "2026-09-09T00:00:00+05:30"
-      },
-      {
-        "name": "The Verge",
-        "url": "https://www.theverge.com/tech/993022/wordpress-automattic-ceo-matt-mullenweg-leave-of-absence",
-        "source_type": "news",
-        "published_at": "2026-09-09T22:15:52+05:30"
-      }
-    ]
-  },
-  {
-    "rank": 5,
-    "title": "Anthropic researcher quits over AI safety concerns",
-    "summary": "Jacob Coxon, an AI researcher at Anthropic with prior OpenAI experience, publicly resigned citing irresponsible AI development practices. He warned both companies are racing toward self-improving superintelligence while gambling with humanity's safety.",
-    "published_at": "2026-09-09T14:35:57+05:30",
-    "category": "AI",
-    "popularity_basis": "High-profile AI safety resignation covered by AP News, Fortune, PBS, TIME, and CNBC with significant social media engagement.",
-    "sources": [
-      {
-        "name": "AP News",
-        "url": "https://apnews.com/article/anthropic-ai-safety-jacob-coxon-2ed549e07f2f941600a135070487d83d",
-        "source_type": "news",
-        "published_at": "2026-09-10T02:38:00+05:30"
-      },
-      {
-        "name": "Fortune",
-        "url": "https://fortune.com/2026/09/09/anthropic-researcher-resigns-warn-ai-companies-gambling-with-lives/",
-        "source_type": "news",
-        "published_at": "2026-09-09T14:35:57+05:30"
-      },
-      {
-        "name": "TIME",
-        "url": "https://time.com/article/2026/09/09/ai-anthropic-openai-jacob-coxon/",
-        "source_type": "news",
-        "published_at": "2026-09-09T20:21:30+05:30"
-      }
-    ]
-  },
-  {
-    "rank": 6,
-    "title": "Google commits $15B to AI infrastructure and nuclear power in Finland",
-    "summary": "Google announced a €13 billion ($15B) investment in Finnish digital infrastructure through 2028, including data centers and a 22-year nuclear power purchase agreement with Fortum to extend the Loviisa plant's life to 2050.",
-    "published_at": "2026-09-09T07:14:00+05:30",
-    "category": "Enterprise Software",
-    "popularity_basis": "Major infrastructure investment with first European nuclear PPA, covered by WSJ, Bloomberg, Google Cloud Press Corner, and DW.",
-    "sources": [
-      {
-        "name": "Google Cloud Press Corner",
-        "url": "https://www.googlecloudpresscorner.com/2026-09-09-Google-Deepens-Commitment-to-Finland-with-Two-Year-EUR13-Billion-investment-in-AI-Infrastructure",
-        "source_type": "company",
-        "published_at": "2026-09-09T00:00:00+05:30"
-      },
-      {
-        "name": "The Wall Street Journal",
-        "url": "https://www.wsj.com/business/google-to-invest-15-billion-in-data-centers-and-infrastructure-in-finland-335c5ee2",
-        "source_type": "news",
-        "published_at": "2026-09-09T07:14:00+05:30"
-      },
-      {
         "name": "Bloomberg",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-09/google-gives-a-20-year-lifeline-to-nordic-nuclear-power-plant",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-09/legal-ai-startup-harvey-hits-15-6-billion-value-with-550-million-round",
         "source_type": "news",
-        "published_at": "2026-09-09T13:32:20+05:30"
+        "published_at": "2026-09-09T00:00:00+05:30"
       }
     ]
   },
   {
     "rank": 7,
-    "title": "Qualcomm and Amazon strike $60B AI chip partnership",
-    "summary": "Qualcomm announced a multi-generation deal with Amazon to develop custom AI inference chips and 1.6T optical connectivity for AWS data centers. Amazon received warrants to purchase up to $4 billion in Qualcomm stock tied to the partnership.",
-    "published_at": "2026-09-09T00:00:00+05:30",
+    "title": "AI inference chip startup Positron raises $875 million at $5 billion valuation",
+    "summary": "Positron AI raised $875 million in Series C funding, quadrupling its valuation in seven months, to fund its Asimov inference chip and Titan systems as competition intensifies in AI inference hardware beyond Nvidia.",
+    "published_at": "2026-09-10T18:30:00+05:30",
     "category": "Semiconductors",
-    "popularity_basis": "Major semiconductor-AI deal with $60B potential value, covered by Manufacturing Dive, Yahoo Finance, Channel Insider, and TechZine.",
+    "popularity_basis": "Reported by Reuters and confirmed via company release; reflects rapid capital flow into specialized AI inference hardware challenging Nvidia's dominance.",
     "sources": [
       {
-        "name": "Manufacturing Dive",
-        "url": "https://www.manufacturingdive.com/news/qualcomm-custom-chips-amazon-4b-partnership/829914/",
+        "name": "Reuters (via Investing.com)",
+        "url": "https://www.investing.com/news/stock-market-news/ai-chip-startup-positrons-valuation-skyrockets-in-latest-funding-round-4896462",
         "source_type": "news",
-        "published_at": "2026-09-09T00:00:00+05:30"
+        "published_at": "2026-09-10T00:00:00+05:30"
       },
       {
-        "name": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-60-billion-deal-reveals-013700748.html",
-        "source_type": "news",
-        "published_at": "2026-09-10T02:05:31+05:30"
+        "name": "Positron AI (PR Newswire)",
+        "url": "https://www.prnewswire.com/news-releases/positron-ai-raises-875-million-at-a-5-billion-valuation-to-bring-its-next-generation-inference-silicon-to-market-302874601.html",
+        "source_type": "company",
+        "published_at": "2026-09-10T18:30:00+05:30"
       },
       {
-        "name": "Channel Insider",
-        "url": "https://www.channelinsider.com/ai/news-amazon-qualcomm-aws-ai-deal/",
+        "name": "SiliconANGLE",
+        "url": "https://siliconangle.com/2026/09/10/chipmaker-positron-nabs-875m-to-speed-up-inference-with-consumer-grade-memory/",
         "source_type": "news",
-        "published_at": "2026-09-09T00:00:00+05:30"
+        "published_at": "2026-09-10T00:00:00+05:30"
       }
     ]
   },
   {
     "rank": 8,
-    "title": "Defense startup Covenant emerges with $250M and missile factory",
-    "summary": "Covenant exited stealth with over $250 million in funding led by Andreessen Horowitz and Founders Fund, unveiling the Anthem long-range cruise missile and opening a 105,000-square-foot Texas factory with plans for mass production in Q1 2027.",
-    "published_at": "2026-09-09T00:00:00+05:30",
-    "category": "Startups",
-    "popularity_basis": "Major defense tech emergence with production facility, covered by Dallas Innovates, The Next Web, Seeking Alpha, and Ground News.",
+    "title": "IBM and NASA release open-source Lunar Foundation AI Model for Moon exploration",
+    "summary": "IBM and NASA launched an open-source AI model trained on decades of lunar observation data to help identify ice deposits, map craters, and select safer landing sites, improving accuracy up to 23% over prior methods.",
+    "published_at": "2026-09-10T14:00:00+05:30",
+    "category": "AI",
+    "popularity_basis": "Covered by Reuters and confirmed by NASA and IBM official statements; notable for extending foundation-model techniques into scientific/space applications ahead of Artemis missions.",
     "sources": [
       {
-        "name": "Dallas Innovates",
-        "url": "https://dallasinnovates.com/defense-startup-covenant-exits-stealth-with-grand-prairie-missile-factory-and-250m-raise/",
-        "source_type": "news",
-        "published_at": "2026-09-09T00:00:00+05:30"
+        "name": "NASA Science",
+        "url": "https://science.nasa.gov/science-research/artificial-intelligence-lunar-foundation-model/",
+        "source_type": "official",
+        "published_at": "2026-09-10T00:00:00+05:30"
       },
       {
-        "name": "The Next Web",
-        "url": "https://thenextweb.com/news/covenant-anthem-stealth-exit-250m-texas-factory",
+        "name": "Reuters (via The Star)",
+        "url": "https://www.thestar.com.my/tech/tech-news/2026/09/10/ibm-nasa-launch-ai-model-to-help-map-ice-craters-on-moon",
         "source_type": "news",
-        "published_at": "2026-09-09T16:50:36+05:30"
+        "published_at": "2026-09-10T00:00:00+05:30"
       },
       {
-        "name": "Seeking Alpha",
-        "url": "https://seekingalpha.com/news/4641238-startup-covenant-unveils-long-range-missile-raises-more-than-250m",
-        "source_type": "news",
-        "published_at": "2026-09-09T00:00:00+05:30"
+        "name": "IBM (PR Newswire)",
+        "url": "https://www.prnewswire.com/news-releases/ibm-and-nasa-release-open-source-ai-model-to-support-lunar-exploration-302874829.html",
+        "source_type": "company",
+        "published_at": "2026-09-10T00:00:00+05:30"
       }
     ]
   },
   {
     "rank": 9,
-    "title": "OpenAI adds AI safety researcher Paul Christiano to board",
-    "summary": "OpenAI appointed Paul Christiano, an influential AI alignment researcher, to its Foundation board of directors. The move signals increased focus on AI safety governance amid industry concerns about uncontrollable AI systems.",
-    "published_at": "2026-09-09T00:00:00+05:30",
-    "category": "AI",
-    "popularity_basis": "Notable AI governance appointment covered by TechCrunch, Yahoo News, and Financial Times with safety community attention.",
+    "title": "Nvidia partners with eight Australian firms to build up to 2 gigawatts of AI capacity",
+    "summary": "Nvidia announced a plan with eight Australian data-center operators to add up to 2 gigawatts of AI computing capacity by 2027, potentially more than doubling the country's current data-center load.",
+    "published_at": "2026-09-09T04:30:00+05:30",
+    "category": "Semiconductors",
+    "popularity_basis": "Confirmed via Nvidia's official announcement and Reuters coverage; significant for global AI infrastructure expansion beyond traditional hubs.",
     "sources": [
       {
-        "name": "TechCrunch",
-        "url": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
-        "source_type": "news",
+        "name": "Nvidia Newsroom",
+        "url": "https://www.globenewswire.com/news-release/2026/09/10/3359139/0/en/nvidia-expands-ai-infrastructure-capacity-in-partnership-with-australia-s-data-center-ecosystem.html",
+        "source_type": "company",
         "published_at": "2026-09-09T00:00:00+05:30"
       },
       {
-        "name": "Yahoo News",
-        "url": "https://tech.yahoo.com/ai/chatgpt/articles/openai-adds-prominent-ai-doomer-222522305.html",
+        "name": "Reuters (via Startup Fortune)",
+        "url": "https://startupfortune.com/nvidia-bets-eight-australian-firms-can-double-the-nations-ai-power-load/",
         "source_type": "news",
-        "published_at": "2026-09-09T22:05:17+05:30"
+        "published_at": "2026-09-09T00:00:00+05:30"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "Uber invests $10M in Indian fleet operator Carrum at $168M valuation",
-    "summary": "Uber invested $10 million in Carrum Mobility's Series B round, valuing the Indian fleet management startup at ₹16 billion ($168 million). Uber now holds a mid-teens stake as it expands reliance on fleet operators in India.",
-    "published_at": "2026-09-09T00:00:00+05:30",
-    "category": "Startups",
-    "popularity_basis": "Significant India-focused mobility investment covered by TechCrunch, Yahoo Finance, and LinkedIn with regional relevance.",
+    "title": "China's AI chipmakers raise prices as global HBM memory shortage bites",
+    "summary": "Huawei, Cambricon and other Chinese AI chipmakers have raised prices for current and next-generation processors by 20-50% as a global shortage of high-bandwidth memory strains China's push for domestic Nvidia alternatives.",
+    "published_at": "2026-09-10T10:00:00+05:30",
+    "category": "Semiconductors",
+    "popularity_basis": "Reuters exclusive picked up by multiple outlets; significant for global chip supply chains and China's semiconductor self-sufficiency efforts.",
     "sources": [
       {
-        "name": "TechCrunch",
-        "url": "https://techcrunch.com/2026/09/09/uber-invests-10m-in-indian-fleet-operator-carrum-at-168m-valuation/",
+        "name": "Reuters (via Investing.com)",
+        "url": "https://www.investing.com/news/stock-market-news/china-ai-chipmakers-hike-prices-as-hbm-shortage-hits-domestic-push--reuters-4894976",
         "source_type": "news",
-        "published_at": "2026-09-09T00:00:00+05:30"
+        "published_at": "2026-09-10T00:00:00+05:30"
       },
       {
-        "name": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/small-business/articles/uber-invests-10m-indian-fleet-143841047.html",
+        "name": "Reuters (via Yahoo Finance)",
+        "url": "https://ca.finance.yahoo.com/news/exclusive-chinas-ai-chipmakers-raise-050223278.html",
         "source_type": "news",
-        "published_at": "2026-09-09T15:05:22+05:30"
+        "published_at": "2026-09-10T00:00:00+05:30"
       }
     ]
   },
   {
     "rank": 11,
-    "title": "Cymphony exits stealth with $30M for AI agent security",
-    "summary": "Enterprise AI security startup Cymphony raised $30 million in a Series A co-led by Sequoia Capital and SMBC Fin Atlas Beyond Fund, valuing the company above $100 million. The startup helps enterprises track and control AI agents accessing their systems.",
-    "published_at": "2026-09-09T13:30:00+05:30",
-    "category": "Cybersecurity",
-    "popularity_basis": "Notable AI security funding from top-tier VC, covered by TechCrunch, Yahoo Finance, and AI Weekly with enterprise security relevance.",
+    "title": "Clearview AI tested facial-search profiling tool built with xAI's Grok model",
+    "summary": "WIRED reported Clearview AI built and tested InquiryIQ, a prototype that expands facial-recognition matches into detailed profiles of aliases, addresses and social accounts, raising new surveillance and privacy concerns.",
+    "published_at": "2026-09-10T17:30:00+05:30",
+    "category": "Regulation",
+    "popularity_basis": "Original WIRED investigation widely republished; significant privacy and civil-liberties implications for facial recognition and AI-driven surveillance.",
     "sources": [
       {
-        "name": "TechCrunch",
-        "url": "https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks/",
+        "name": "Biometric Update",
+        "url": "https://www.biometricupdate.com/202609/clearview-ai-prototype-points-to-next-phase-of-facial-recognition-identity-intelligence",
         "source_type": "news",
-        "published_at": "2026-09-09T00:00:00+05:30"
+        "published_at": "2026-09-10T00:00:00+05:30"
       },
       {
-        "name": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/technology/ai/articles/cymphony-launches-30-million-secure-133000121.html",
+        "name": "Gulf News (via WIRED)",
+        "url": "https://gulfnews.com/technology/this-ai-can-search-the-web-and-piece-together-your-life-1.500670362",
         "source_type": "news",
-        "published_at": "2026-09-09T13:30:00+05:30"
-      },
-      {
-        "name": "AI Weekly",
-        "url": "https://aiweekly.co/alerts/enterprise-ai-agent-security-startup-cymphony-exits-stealth-with-30m-sequoia",
-        "source_type": "news",
-        "published_at": "2026-09-09T00:00:00+05:30"
+        "published_at": "2026-09-10T00:00:00+05:30"
       }
     ]
   },
   {
     "rank": 12,
-    "title": "Tesla Cybercab faces federal safety probe over certification",
-    "summary": "NHTSA opened a formal investigation into how Tesla certified its Cybercab robotaxis to Federal Motor Vehicle Safety Standards. The probe examines Tesla's determination that certain standards are inapplicable to vehicles lacking conventional manual controls.",
-    "published_at": "2026-09-09T00:00:00+05:30",
-    "category": "Regulation",
-    "popularity_basis": "Federal regulatory action on autonomous vehicles, covered by WardsAuto and multiple EV outlets with safety implications.",
+    "title": "Meta acquires Swedish AI startup Stilla.ai to build out business messaging agents",
+    "summary": "Meta acquired Stockholm-based Stilla.ai, folding its team and technology into Meta Business Agent, which automates customer interactions across WhatsApp, Messenger and Instagram for over a million businesses.",
+    "published_at": "2026-09-09T22:00:00+05:30",
+    "category": "Big Tech",
+    "popularity_basis": "Reported by Axios and covered widely; signals Meta's strategy of using AI agents as a commerce layer across its messaging platforms.",
     "sources": [
       {
-        "name": "WardsAuto",
-        "url": "https://www.wardsauto.com/news/tesla-faces-federal-probe-over-cybercab-rollout/829735/",
+        "name": "Axios",
+        "url": "https://www.axios.com/2026/09/09/meta-acquires-swedish-ai-startup-stillaai",
         "source_type": "news",
-        "published_at": "2026-09-09T00:00:00+05:30"
+        "published_at": "2026-09-09T22:00:00+05:30"
       },
       {
-        "name": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-cybercab-strength-comes-weakness-182213666.html",
+        "name": "MediaPost",
+        "url": "https://www.mediapost.com/publications/article/417764/meta-acquires-swedish-ai-startup-to-boost-automate.html",
         "source_type": "news",
-        "published_at": "2026-09-09T00:00:00+05:30"
+        "published_at": "2026-09-10T00:00:00+05:30"
       }
     ]
   },
   {
     "rank": 13,
-    "title": "FTC opens antitrust probe into Epic Systems",
-    "summary": "The Federal Trade Commission reportedly launched an antitrust investigation into Epic Systems, the dominant electronic health records vendor. The probe focuses on whether Epic restricts competitor access to patient data, though Epic denies anticompetitive conduct.",
-    "published_at": "2026-09-09T18:54:48+05:30",
-    "category": "Regulation",
-    "popularity_basis": "Major healthcare IT antitrust action reported by Reuters and JD Supra with significant industry implications.",
+    "title": "Salesforce in talks to acquire AI customer-research startup Listen Labs for $2 billion",
+    "summary": "Salesforce has held talks to buy Listen Labs, an AI-driven customer-interview platform used by Microsoft and Google, for about $2 billion, as it expands Agentforce with a fourth AI acquisition of 2026.",
+    "published_at": "2026-09-09T20:00:00+05:30",
+    "category": "Enterprise Software",
+    "popularity_basis": "Originally reported by Business Insider and corroborated by TechCrunch and PYMNTS; notable for Salesforce's aggressive AI-driven M&A pace.",
     "sources": [
       {
-        "name": "JD Supra",
-        "url": "https://www.jdsupra.com/legalnews/the-ftc-opens-an-antitrust-probe-into-1840855/",
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
         "source_type": "news",
-        "published_at": "2026-09-09T18:54:48+05:30"
-      },
-      {
-        "name": "MLex",
-        "url": "https://www.mlex.com/mlex/data-privacy-security/articles/2523155/us-ftc-withdraws-health-breach-notification-rule-policy-statement",
-        "source_type": "news",
-        "published_at": "2026-09-09T15:05:43+05:30"
-      }
-    ]
-  },
-  {
-    "rank": 14,
-    "title": "System raises $20M for vertically integrated peptide platform",
-    "summary": "Health startup System secured $20 million to expand its peptide telehealth platform connecting patients with licensed clinicians and pharmacy-grade compound treatments. Investors include Patron Fund, Will Ventures, and SV Angel.",
-    "published_at": "2026-09-09T13:00:00+05:30",
-    "category": "Startups",
-    "popularity_basis": "Notable health tech funding covered by PR Newswire, Dealroom, and Athletech News amid growing peptide therapy market.",
-    "sources": [
-      {
-        "name": "PR Newswire",
-        "url": "https://www.prnewswire.com/news-releases/system-raises-20m-in-funding-to-become-the-trusted-peptide-native-platform-for-a-new-era-302873360.html",
-        "source_type": "company",
-        "published_at": "2026-09-09T13:00:00+05:30"
-      },
-      {
-        "name": "Dealroom",
-        "url": "https://dealroom.co/news/149748-system-raises-20m-to-build-vertically-integrated-peptide-platform/",
-        "source_type": "news",
-        "published_at": "2026-09-09T17:05:35+05:30"
-      }
-    ]
-  },
-  {
-    "rank": 15,
-    "title": "Bulwark Dynamics raises $6.8M for autonomous landing craft",
-    "summary": "Defense startup Bulwark Dynamics secured $6.8 million in seed funding to produce its Caravel autonomous landing craft, partnering with Japan's Onomichi Dockyard for manufacturing. The unmanned vessels resupply forces across shorelines without port infrastructure.",
-    "published_at": "2026-09-09T00:00:00+05:30",
-    "category": "Startups",
-    "popularity_basis": "Defense tech funding with international manufacturing partnership, covered by Business Wire, Dealroom, and Tectonic Defense.",
-    "sources": [
-      {
-        "name": "Business Wire",
-        "url": "https://www.businesswire.com/news/home/20260909279889/en/Bulwark-Dynamics-Raises-$6-8M-to-Build-Autonomous-Landing-Craft-for-Contested-Logistics-Partners-with-Japans-Onomichi-Dockyard",
-        "source_type": "company",
         "published_at": "2026-09-09T00:00:00+05:30"
       },
       {
-        "name": "Dealroom",
-        "url": "https://dealroom.co/news/149769-bulwark-dynamics-raises-6-8m-seed-to-build-autonomous-landing-craft-for/",
-        "source_type": "news",
-        "published_at": "2026-09-09T17:05:34+05:30"
-      }
-    ]
-  },
-  {
-    "rank": 16,
-    "title": "Overroute raises $5.5M for AI freight execution platform",
-    "summary": "AI-native freight execution startup Overroute secured $5.5 million led by UP.Partners to expand its platform used by J.B. Hunt. The funding will accelerate AI agents that automate load monitoring and exception handling for large carriers.",
-    "published_at": "2026-09-09T00:00:00+05:30",
-    "category": "Startups",
-    "popularity_basis": "Logistics AI funding covered by FreightWaves, Business Wire, and StockTitan with enterprise deployment traction.",
-    "sources": [
-      {
-        "name": "FreightWaves",
-        "url": "https://www.freightwaves.com/news/overroute-raises-5-5m-to-expand-ai-freight-execution-platform",
-        "source_type": "news",
-        "published_at": "2026-09-09T13:54:39+05:30"
-      },
-      {
-        "name": "Business Wire",
-        "url": "https://www.stocktitan.net/news/JBHT/overroute-raises-5-5-million-to-scale-in-complex-freight-ddxvmshgak76.html",
-        "source_type": "company",
-        "published_at": "2026-09-09T00:00:00+05:30"
-      }
-    ]
-  },
-  {
-    "rank": 17,
-    "title": "FTC withdraws 2021 health app breach policy statement",
-    "summary": "The Federal Trade Commission rescinded its 2021 Policy Statement on Breaches by Health Apps, calling it obsolete after 2024 rule updates expanded the Health Breach Notification Rule to cover health apps and connected devices directly.",
-    "published_at": "2026-09-09T00:00:00+05:30",
-    "category": "Regulation",
-    "popularity_basis": "Regulatory policy change covered by FTC.gov and MLex with privacy and health tech implications.",
-    "sources": [
-      {
-        "name": "FTC",
-        "url": "https://www.ftc.gov/news-events/news/press-releases/2026/09/ftc-withdraws-obsolete-policy-statement",
-        "source_type": "regulatory",
-        "published_at": "2026-09-09T00:00:00+05:30"
-      },
-      {
-        "name": "MLex",
-        "url": "https://www.mlex.com/mlex/data-privacy-security/articles/2523155/us-ftc-withdraws-health-breach-notification-rule-policy-statement",
-        "source_type": "news",
-        "published_at": "2026-09-09T15:05:43+05:30"
-      }
-    ]
-  },
-  {
-    "rank": 18,
-    "title": "SpaceX launches classified Space Force payload",
-    "summary": "SpaceX successfully launched its 80th Starlink mission of 2026 and prepared to fly a classified national security payload for the U.S. Space Force from Cape Canaveral. The company also plans to launch the final three O3b mPOWER satellites for SES.",
-    "published_at": "2026-09-09T09:07:16+05:30",
-    "category": "Telecommunications",
-    "popularity_basis": "Ongoing space launch activity covered by Florida Today, MyNews13, and Spaceflight Now with defense and satellite relevance.",
-    "sources": [
-      {
-        "name": "Florida Today",
-        "url": "https://www.floridatoday.com/story/tech/science/space/2026/09/09/spacex-rocket-launch-from-cape-canaveral-possible-this-weekend-after-slowdown/91657683007/",
-        "source_type": "news",
-        "published_at": "2026-09-09T09:07:16+05:30"
-      },
-      {
-        "name": "Spaceflight Now",
-        "url": "https://spaceflightnow.com/2026/09/09/live-coverage-spacex-to-launch-classified-payload-for-the-u-s-space-force/",
+        "name": "PYMNTS",
+        "url": "https://www.pymnts.com/news/artificial-intelligence/2026/salesforce-eyes-2-billion-acquisition-of-ai-powered-platform-listen-labs/",
         "source_type": "news",
         "published_at": "2026-09-09T00:00:00+05:30"
-      }
-    ]
-  },
-  {
-    "rank": 19,
-    "title": "Latitude raises $35M Series A for cross-border payments",
-    "summary": "Global payments infrastructure startup Latitude secured $35 million in Series A funding to simplify cross-border money movement. The round supports expansion of the Houston-based company's international payment rails.",
-    "published_at": "2026-09-09T00:00:00+05:30",
-    "category": "Startups",
-    "popularity_basis": "Fintech funding covered by VC News Daily with cross-border payments market relevance.",
-    "sources": [
-      {
-        "name": "VC News Daily",
-        "url": "https://vcnewsdaily.com/",
-        "source_type": "news",
-        "published_at": "2026-09-09T00:00:00+05:30"
-      }
-    ]
-  },
-  {
-    "rank": 20,
-    "title": "Savvy Wealth closes $100M Series C for AI-native RIA",
-    "summary": "AI-native registered investment advisor Savvy Wealth completed a $100 million Series C funding round. The New York-based company provides AI-powered wealth management tools for independent financial advisors.",
-    "published_at": "2026-09-09T00:00:00+05:30",
-    "category": "Startups",
-    "popularity_basis": "Major fintech funding covered by VC News Daily with AI and wealth management intersection.",
-    "sources": [
-      {
-        "name": "VC News Daily",
-        "url": "https://vcnewsdaily.com/",
-        "source_type": "news",
-        "published_at": "2026-09-09T00:00:00+05:30"
-      }
-    ]
-  },
-  {
-    "rank": 21,
-    "title": "Encoded Therapeutics raises $275M in Series F",
-    "summary": "Clinical-stage biotechnology company Encoded Therapeutics closed a $275 million Series F financing round. The South San Francisco-based company develops genetic medicines for severe neurological disorders.",
-    "published_at": "2026-09-09T00:00:00+05:30",
-    "category": "Startups",
-    "popularity_basis": "Large biotech funding covered by VC News Daily with significant capital raise in gene therapy sector.",
-    "sources": [
-      {
-        "name": "VC News Daily",
-        "url": "https://vcnewsdaily.com/",
-        "source_type": "news",
-        "published_at": "2026-09-09T00:00:00+05:30"
-      }
-    ]
-  },
-  {
-    "rank": 22,
-    "title": "Xiaomi expands Mijia smart home brand across Europe at IFA 2026",
-    "summary": "Xiaomi announced large-scale expansion of its Mijia smart home brand across Europe at IFA 2026, showcasing its Human × Car × Home ecosystem. The company also unveiled three new in-house AI chips at the Berlin trade show.",
-    "published_at": "2026-09-09T15:05:37+05:30",
-    "category": "Consumer Technology",
-    "popularity_basis": "Major consumer electronics showcase covered by Variety and Xiaomi's official channels at IFA 2026.",
-    "sources": [
-      {
-        "name": "Variety",
-        "url": "https://variety.com/2026/shopping/news/ifa-september-2026-best-new-tech-releases-products-shop-now-1236849068/",
-        "source_type": "news",
-        "published_at": "2026-09-09T19:00:00+05:30"
-      },
-      {
-        "name": "Xiaomi",
-        "url": "https://www.mi.com/global/discover/article?id=6348",
-        "source_type": "company",
-        "published_at": "2026-09-09T15:05:37+05:30"
-      }
-    ]
-  },
-  {
-    "rank": 23,
-    "title": "Marvell to showcase AI data center connectivity portfolio",
-    "summary": "Marvell announced it will display its end-to-end AI data center connectivity and memory solutions at AI Infra Summit 2026 in Santa Clara, September 15-17. The semiconductor company highlights scale-up and scale-out infrastructure advances.",
-    "published_at": "2026-09-09T00:00:00+05:30",
-    "category": "Semiconductors",
-    "popularity_basis": "Semiconductor product showcase covered by Marvell investor relations with AI infrastructure relevance.",
-    "sources": [
-      {
-        "name": "Marvell",
-        "url": "https://investor.marvell.com/news-events/press-releases/detail/1032/marvell-to-showcase-end-to-end-ai-data-center-connectivity-portfolio-at-ai-infra-summit-2026",
-        "source_type": "company",
-        "published_at": "2026-09-09T00:00:00+05:30"
-      }
-    ]
-  },
-  {
-    "rank": 24,
-    "title": "GCs and Wilson Sonsini launch legal tech VC fund",
-    "summary": "A group of general counsels partnered with Wilson Sonsini Goodrich & Rosati to launch GCVC, a venture capital fund for legal technology startups. The fund already has over 50 general counsels invested and backed AI-native legal software companies.",
-    "published_at": "2026-09-09T17:16:00+05:30",
-    "category": "Startups",
-    "popularity_basis": "Legal tech funding vehicle covered by ABA Journal and Reuters with institutional investor participation.",
-    "sources": [
-      {
-        "name": "ABA Journal",
-        "url": "https://www.abajournal.com/news/article/new-legal-tech-vc-fund-consisting-of-general-counsels-and-wilson-sonsini-launches",
-        "source_type": "news",
-        "published_at": "2026-09-09T17:16:00+05:30"
-      }
-    ]
-  },
-  {
-    "rank": 25,
-    "title": "Autonomous AI agents compromise thousands of credentials in hours",
-    "summary": "Security researchers documented a financially motivated hacking group using an autonomous multi-agent AI framework to harvest thousands of credentials within six hours. The attack demonstrates how threat actors leverage AI to accelerate operations.",
-    "published_at": "2026-09-08T00:00:00+05:30",
-    "category": "Cybersecurity",
-    "popularity_basis": "AI-powered cyberattack documentation covered by The Hacker News with security industry implications.",
-    "sources": [
-      {
-        "name": "The Hacker News",
-        "url": "https://thehackernews.com/2026/09/autonomous-ai-agents-compromise.html",
-        "source_type": "news",
-        "published_at": "2026-09-08T00:00:00+05:30"
       }
     ]
   }
