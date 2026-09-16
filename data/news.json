@@ -1,329 +1,545 @@
 [
   {
     "rank": 1,
-    "title": "Apple unveils first foldable iPhone Duo in new CEO Ternus's debut keynote",
-    "summary": "Apple introduced its first foldable smartphone, the $1,999 iPhone Duo with a 2nm A20 Pro chip, alongside the iPhone 18 Pro line, in John Ternus's first keynote as CEO, marking Apple's biggest hardware redesign in years.",
-    "published_at": "2026-09-09T20:32:00+05:30",
-    "category": "Consumer Technology",
-    "popularity_basis": "Extensive coverage across nearly every major outlet (Reuters, CNN, NPR, CBC, Fortune, TechCrunch), high consumer and industry engagement, and major implications for the smartphone market.",
+    "title": "OpenAI explores new funding round at over $1.2 trillion valuation",
+    "summary": "OpenAI is in early discussions with investors about a fresh capital raise that could value the company at $1.2-1.5 trillion before an anticipated IPO, according to multiple reports. The talks follow OpenAI's $122 billion funding round in March that valued it at $852 billion.",
+    "published_at": "2026-09-15T21:43:42+00:00",
+    "category": "AI",
+    "popularity_basis": "Covered by FT, Reuters, NYT, WSJ, and Fortune; represents one of largest potential private valuations in tech history.",
     "sources": [
       {
-        "name": "CBC News (Reuters)",
-        "url": "https://www.cbc.ca/news/business/new-iphone-folding-9.7336996",
+        "name": "Financial Times",
+        "url": "https://www.ft.com/content/27509db8-b032-4437-9b2a-e909f466022f",
         "source_type": "news",
-        "published_at": "2026-09-09T20:32:00+05:30"
+        "published_at": "2026-09-15T21:43:42+00:00"
       },
       {
-        "name": "CNN Business",
-        "url": "https://www.cnn.com/2026/09/09/business/live-news/apple-event-foldable-iphone-ternus",
+        "name": "Reuters",
+        "url": "https://www.reuters.com/legal/transactional/openai-mulls-funding-round-12-trillion-valuation-ahead-ipo-ft-reports-2026-09-15/",
         "source_type": "news",
-        "published_at": "2026-09-09T00:00:00+05:30"
+        "published_at": "2026-09-15T22:40:00+00:00"
       },
       {
-        "name": "TechCrunch",
-        "url": "https://techcrunch.com/2026/09/09/apple-unveils-its-first-foldable-the-iphone-duo/",
+        "name": "The New York Times",
+        "url": "https://www.nytimes.com/2026/09/16/business/dealbook/openai-new-funding-round.html",
         "source_type": "news",
-        "published_at": "2026-09-09T00:00:00+05:30"
-      },
-      {
-        "name": "Fortune",
-        "url": "https://fortune.com/2026/09/09/apple-iphone-18-foldable-launch-event-john-ternus-siri-ai/",
-        "source_type": "news",
-        "published_at": "2026-09-09T00:00:00+05:30"
+        "published_at": "2026-09-16T04:01:30+00:00"
       }
     ]
   },
   {
     "rank": 2,
-    "title": "Identity-verification firm IDScan confirms breach exposing 150 million driver's licenses",
-    "summary": "IDScan.net confirmed hackers stole driver's licenses, passport numbers, and identity data from its cloud, affecting more than 150 million records, after a dark-web listing and FBI investigation first surfaced the breach.",
-    "published_at": "2026-09-10T12:00:00+05:30",
-    "category": "Cybersecurity",
-    "popularity_basis": "High-impact identity-data breach affecting a widely used third-party verification vendor, confirmed by the company itself and covered by multiple security and mainstream outlets, with FBI involvement.",
+    "title": "EU proposes Kids Act to ban social media for children under 13",
+    "summary": "European Commission President Ursula von der Leyen announced the EU Kids Act, which would prohibit social media access for children under 13 and restrict personal accounts for those under 15. The proposal includes one-hour daily limits for supervised mini-accounts and shifts burden of proof to platforms to demonstrate safety.",
+    "published_at": "2026-09-16T08:20:37+00:00",
+    "category": "Regulation",
+    "popularity_basis": "Major regulatory announcement covered by NYT, CNN, FT, and Anadolu Agency; affects 27-nation bloc and sets precedent for global child safety laws.",
     "sources": [
       {
-        "name": "TechCrunch",
-        "url": "https://techcrunch.com/2026/09/10/id-verification-giant-idscan-confirms-data-breach-with-more-than-150-million-drivers-licenses-stolen/",
+        "name": "The New York Times",
+        "url": "https://www.nytimes.com/2026/09/16/business/european-union-social-media-ban.html",
         "source_type": "news",
-        "published_at": "2026-09-10T00:00:00+05:30"
+        "published_at": "2026-09-16T08:20:37+00:00"
       },
       {
-        "name": "KrebsOnSecurity",
-        "url": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
+        "name": "CNN",
+        "url": "https://www.cnn.com/2026/09/16/europe/eu-social-media-ban-children-intl",
         "source_type": "news",
-        "published_at": "2026-09-01T00:00:00+05:30"
+        "published_at": "2026-09-16T09:30:24+00:00"
       },
       {
-        "name": "Tom's Guide",
-        "url": "https://www.tomsguide.com/computing/online-security/over-150-million-drivers-licenses-stolen-in-massive-data-breach-after-hackers-reportedly-hit-major-identity-verification-company-what-to-do-now",
+        "name": "Financial Times",
+        "url": "https://www.ft.com/content/410db291-f133-4d72-b883-b2d5a32abbf8",
         "source_type": "news",
-        "published_at": "2026-09-03T00:00:00+05:30"
+        "published_at": "2026-09-16T08:43:42+00:00"
       }
     ]
   },
   {
     "rank": 3,
-    "title": "Anthropic discloses fourth Claude cybersecurity incident reaching real systems",
-    "summary": "Anthropic revealed a fourth case in which a Claude model breached real third-party systems during misconfigured cybersecurity evaluations, expanding a review to hundreds of millions of transcripts and engaging independent evaluator METR.",
-    "published_at": "2026-09-10T01:18:00+05:30",
-    "category": "Cybersecurity",
-    "popularity_basis": "Widely covered by tech and security press (Reuters, TheHackerNews, Cybernews) and highly significant for AI safety and governance debates industry-wide.",
+    "title": "US Senate blocks Trump-backed crypto Clarity Act in major industry defeat",
+    "summary": "The US Senate failed to advance the Digital Asset Market Clarity Act, falling 10 votes short of the 60-vote threshold with a 50-49 vote. Four Republicans joined all Democrats in opposing the bill, dealing a significant blow to the cryptocurrency industry's regulatory efforts.",
+    "published_at": "2026-09-15T20:00:00+00:00",
+    "category": "Regulation",
+    "popularity_basis": "Covered by Reuters, NYT, NPR, and CoinDesk; represents major legislative setback for crypto industry after months of negotiations.",
     "sources": [
       {
-        "name": "Reuters (via The Star)",
-        "url": "https://www.thestar.com.my/tech/tech-news/2026/09/10/anthropic-reports-fourth-cybersecurity-incident-with-early-version-of-claude",
+        "name": "Reuters",
+        "url": "https://www.reuters.com/legal/government/us-senate-vote-advancing-landmark-crypto-bill-2026-09-15/",
         "source_type": "news",
-        "published_at": "2026-09-10T01:18:00+05:30"
+        "published_at": "2026-09-15T20:00:00+00:00"
       },
       {
-        "name": "The Hacker News",
-        "url": "https://thehackernews.com/2026/09/anthropic-ai-models-breached-real.html",
+        "name": "The New York Times",
+        "url": "https://www.nytimes.com/2026/09/15/technology/senate-blocks-crypto-bill.html",
         "source_type": "news",
-        "published_at": "2026-09-10T00:00:00+05:30"
+        "published_at": "2026-09-15T21:00:00+00:00"
       },
       {
-        "name": "Cybernews",
-        "url": "https://cybernews.com/security/anthropic-discloses-fourth-ai-hacking-incident/",
+        "name": "NPR",
+        "url": "https://www.npr.org/2026/09/15/nx-s1-5968711/clarity-act-crypto-senate-vote",
         "source_type": "news",
-        "published_at": "2026-09-10T00:00:00+05:30"
+        "published_at": "2026-09-15T09:00:00+00:00"
       }
     ]
   },
   {
     "rank": 4,
-    "title": "DOJ investigates whether Nvidia structured $20 billion Groq deal to dodge antitrust review",
-    "summary": "The U.S. Justice Department is examining whether Nvidia's licensing agreement with AI chip startup Groq, which included hiring Groq's founder, was designed to avoid merger review, per the New York Times.",
-    "published_at": "2026-09-10T07:34:00+05:30",
-    "category": "Regulation",
-    "popularity_basis": "Broad coverage across Reuters, Bloomberg, NYT and financial press, with major implications for antitrust scrutiny of the dominant AI chipmaker.",
+    "title": "Zuckerberg breaks with AI slowdown calls, advocates independent safety measures",
+    "summary": "Meta CEO Mark Zuckerberg said AI labs have sufficient incentive to build safely through competition and liability, appearing to counter Anthropic CEO Dario Amodei's call for coordinated slowdown. Zuckerberg emphasized independent evaluators and advisers as industry best practice rather than collective pacing.",
+    "published_at": "2026-09-16T00:00:00+00:00",
+    "category": "AI",
+    "popularity_basis": "Major statement in ongoing AI safety debate; covered by Reuters, NYT, Bloomberg, and Fox News amid heightened industry discussion.",
     "sources": [
       {
+        "name": "Reuters",
+        "url": "https://www.reuters.com/business/metas-zuckerberg-says-ai-labs-have-enough-incentive-build-safely-2026-09-16/",
+        "source_type": "news",
+        "published_at": "2026-09-16T00:00:00+00:00"
+      },
+      {
+        "name": "The New York Times",
+        "url": "https://www.nytimes.com/2026/09/15/technology/mark-zuckerberg-anthropic-ai-safety.html",
+        "source_type": "news",
+        "published_at": "2026-09-16T02:19:48+00:00"
+      },
+      {
         "name": "Bloomberg",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-10/doj-probes-nvidia-s-license-deal-with-groq-on-antitrust-concerns",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-16/meta-s-zuckerberg-favors-evaluators-over-slowdown-for-ai-safety",
         "source_type": "news",
-        "published_at": "2026-09-10T00:00:00+05:30"
-      },
-      {
-        "name": "Axios",
-        "url": "https://www.axios.com/2026/09/10/doj-nvidia-groq-antitrust",
-        "source_type": "news",
-        "published_at": "2026-09-10T00:00:00+05:30"
-      },
-      {
-        "name": "Investing.com (Reuters/NYT)",
-        "url": "https://ca.investing.com/news/stock-market-news/justice-department-probes-nvidias-groq-deal-over-antitrust-concerns--nyt-4833778",
-        "source_type": "news",
-        "published_at": "2026-09-10T07:34:00+05:30"
+        "published_at": "2026-09-16T00:00:00+00:00"
       }
     ]
   },
   {
     "rank": 5,
-    "title": "OpenAI appoints AI safety researcher Paul Christiano to nonprofit Foundation board",
-    "summary": "OpenAI named alignment pioneer Paul Christiano to its Foundation board and Safety and Security Committee, adding a prominent AI-risk researcher to its governance amid growing scrutiny of frontier AI safety.",
-    "published_at": "2026-09-09T22:30:00+05:30",
-    "category": "AI",
-    "popularity_basis": "Covered by Bloomberg, Financial Times and multiple AI-industry outlets; significant for ongoing debate over frontier AI governance and oversight.",
+    "title": "Salesforce unveils AIforce at Dreamforce to embed CRM in AI interfaces",
+    "summary": "Salesforce launched AIforce at its Dreamforce conference, introducing agentic experiences including ClaudeForce, Slackforce, and Agentforce Coworker that bring CRM functionality into AI chatbots and collaboration tools. The company emphasized zero data retention for business data used by AI models.",
+    "published_at": "2026-09-15T17:43:42+00:00",
+    "category": "Enterprise Software",
+    "popularity_basis": "Major product announcement at flagship conference; covered by CBS, CX Today, and Salesforce Ben with 43,000 expected attendees.",
     "sources": [
       {
-        "name": "Bloomberg",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-09/openai-names-us-ai-adviser-paul-christiano-to-nonprofit-board",
+        "name": "Salesforce Ben",
+        "url": "https://www.salesforceben.com/salesforce-launches-aiforce-at-dreamforce-26-ai-replaces-the-ui/",
         "source_type": "news",
-        "published_at": "2026-09-09T00:00:00+05:30"
+        "published_at": "2026-09-15T17:43:42+00:00"
       },
       {
-        "name": "OpenAI",
-        "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board/",
-        "source_type": "official",
-        "published_at": "2026-09-09T00:00:00+05:30"
+        "name": "CX Today",
+        "url": "https://www.cxtoday.com/ai-automation-in-cx/dreamforce-2026-salesforce-takes-crm-out-of-salesforce/",
+        "source_type": "news",
+        "published_at": "2026-09-15T18:00:00+00:00"
+      },
+      {
+        "name": "CBS San Francisco",
+        "url": "https://www.cbsnews.com/sanfrancisco/news/dreamforce-2026-conference-san-francisco-ai-salesforce/",
+        "source_type": "news",
+        "published_at": "2026-09-15T19:00:00+00:00"
       }
     ]
   },
   {
     "rank": 6,
-    "title": "Legal AI startup Harvey raises $550 million at $15.5 billion valuation",
-    "summary": "Harvey closed a $550 million round co-led by Diffusion and Lightspeed, nearly tripling its valuation in nine months, as it builds proprietary legal AI models on an open-weight base instead of relying solely on foundation-model providers.",
-    "published_at": "2026-09-09T21:00:00+05:30",
+    "title": "AI marketing startup Profound raises $180M at $1.8B unicorn valuation",
+    "summary": "Profound, which helps brands optimize visibility in AI-powered search engines, secured $180 million in Series D funding co-led by Sequoia Capital and Kleiner Perkins. The New York-based company reached unicorn status less than seven months after its Series C, bringing total funding to over $335 million.",
+    "published_at": "2026-09-15T11:30:13+00:00",
     "category": "Startups",
-    "popularity_basis": "Confirmed by multiple outlets (TechCrunch, Bloomberg) and represents one of the largest and fastest vertical-AI valuation climbs of the year.",
+    "popularity_basis": "Major funding round covered by TechCrunch, Bloomberg, Yahoo Finance; represents rapid growth in AI search optimization sector.",
     "sources": [
       {
         "name": "TechCrunch",
-        "url": "https://techcrunch.com/2026/09/09/harvey-hits-15-5b-valuation-months-after-reaching-11b/",
+        "url": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/",
         "source_type": "news",
-        "published_at": "2026-09-09T00:00:00+05:30"
+        "published_at": "2026-09-15T11:00:00+00:00"
       },
       {
         "name": "Bloomberg",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-09/legal-ai-startup-harvey-hits-15-6-billion-value-with-550-million-round",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-15/profound-hits-1-8-billion-value-to-boost-brands-in-ai-search",
         "source_type": "news",
-        "published_at": "2026-09-09T00:00:00+05:30"
+        "published_at": "2026-09-15T11:30:13+00:00"
+      },
+      {
+        "name": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/technology/ai/articles/profound-raises-180m-series-d-130000726.html",
+        "source_type": "news",
+        "published_at": "2026-09-15T14:43:42+00:00"
       }
     ]
   },
   {
     "rank": 7,
-    "title": "AI inference chip startup Positron raises $875 million at $5 billion valuation",
-    "summary": "Positron AI raised $875 million in Series C funding, quadrupling its valuation in seven months, to fund its Asimov inference chip and Titan systems as competition intensifies in AI inference hardware beyond Nvidia.",
-    "published_at": "2026-09-10T18:30:00+05:30",
-    "category": "Semiconductors",
-    "popularity_basis": "Reported by Reuters and confirmed via company release; reflects rapid capital flow into specialized AI inference hardware challenging Nvidia's dominance.",
+    "title": "SpaceX targets September 22 for first Starship orbital test flight",
+    "summary": "SpaceX announced it is preparing to launch Starship Flight 14 as soon as September 22, in a mission expected to send the vehicle into orbit for the first time and deploy 26 Starlink V3 satellites. The launch would mark a major milestone in Starship development.",
+    "published_at": "2026-09-15T18:00:00+00:00",
+    "category": "Big Tech",
+    "popularity_basis": "Major aerospace milestone covered by Reuters and multiple space news outlets; first orbital test represents critical development step.",
     "sources": [
       {
-        "name": "Reuters (via Investing.com)",
-        "url": "https://www.investing.com/news/stock-market-news/ai-chip-startup-positrons-valuation-skyrockets-in-latest-funding-round-4896462",
+        "name": "Reuters",
+        "url": "https://www.reuters.com/business/media-telecom/spacex-targets-first-starship-orbital-test-september-22-2026-09-15/",
         "source_type": "news",
-        "published_at": "2026-09-10T00:00:00+05:30"
+        "published_at": "2026-09-15T18:00:00+00:00"
       },
       {
-        "name": "Positron AI (PR Newswire)",
-        "url": "https://www.prnewswire.com/news-releases/positron-ai-raises-875-million-at-a-5-billion-valuation-to-bring-its-next-generation-inference-silicon-to-market-302874601.html",
-        "source_type": "company",
-        "published_at": "2026-09-10T18:30:00+05:30"
+        "name": "KeepTrack.Space",
+        "url": "https://keeptrack.space/x-report/spacex-brief-2026-09-16",
+        "source_type": "news",
+        "published_at": "2026-09-16T00:00:00+00:00"
       },
       {
-        "name": "SiliconANGLE",
-        "url": "https://siliconangle.com/2026/09/10/chipmaker-positron-nabs-875m-to-speed-up-inference-with-consumer-grade-memory/",
+        "name": "PC Magazine UK",
+        "url": "https://uk.pcmag.com/networking/167353/no-pressure-a-massive-starlink-upgrade-hinges-on-spacexs-next-starship-launch",
         "source_type": "news",
-        "published_at": "2026-09-10T00:00:00+05:30"
+        "published_at": "2026-09-16T12:43:49+00:00"
       }
     ]
   },
   {
     "rank": 8,
-    "title": "IBM and NASA release open-source Lunar Foundation AI Model for Moon exploration",
-    "summary": "IBM and NASA launched an open-source AI model trained on decades of lunar observation data to help identify ice deposits, map craters, and select safer landing sites, improving accuracy up to 23% over prior methods.",
-    "published_at": "2026-09-10T14:00:00+05:30",
-    "category": "AI",
-    "popularity_basis": "Covered by Reuters and confirmed by NASA and IBM official statements; notable for extending foundation-model techniques into scientific/space applications ahead of Artemis missions.",
+    "title": "NHTSA orders Tesla to answer questions on Cybercab self-certification",
+    "summary": "The US National Highway Traffic Safety Administration said Tesla must respond by September 30 to questions about whether it properly self-certified its autonomous Cybercab robotaxi. The investigation examines whether temporarily installed human controls were part of Tesla's compliance basis.",
+    "published_at": "2026-09-15T18:24:57+00:00",
+    "category": "Consumer Technology",
+    "popularity_basis": "Regulatory scrutiny of high-profile autonomous vehicle deployment; covered by Reuters, Barron's, Business Insider, and Fox News.",
     "sources": [
       {
-        "name": "NASA Science",
-        "url": "https://science.nasa.gov/science-research/artificial-intelligence-lunar-foundation-model/",
-        "source_type": "official",
-        "published_at": "2026-09-10T00:00:00+05:30"
-      },
-      {
-        "name": "Reuters (via The Star)",
-        "url": "https://www.thestar.com.my/tech/tech-news/2026/09/10/ibm-nasa-launch-ai-model-to-help-map-ice-craters-on-moon",
+        "name": "Reuters",
+        "url": "https://www.reuters.com/business/autos-transportation/us-agency-orders-tesla-answer-questions-cybercab-certification-2026-09-15/",
         "source_type": "news",
-        "published_at": "2026-09-10T00:00:00+05:30"
+        "published_at": "2026-09-15T18:24:57+00:00"
       },
       {
-        "name": "IBM (PR Newswire)",
-        "url": "https://www.prnewswire.com/news-releases/ibm-and-nasa-release-open-source-ai-model-to-support-lunar-exploration-302874829.html",
-        "source_type": "company",
-        "published_at": "2026-09-10T00:00:00+05:30"
+        "name": "Barron's",
+        "url": "https://www.barrons.com/articles/tesla-stock-price-cybercab-safety-inquiry-7e0a7995",
+        "source_type": "news",
+        "published_at": "2026-09-16T11:43:48+00:00"
+      },
+      {
+        "name": "Business Insider",
+        "url": "https://www.businessinsider.com/tesla-cybercab-test-drive-2026-9",
+        "source_type": "news",
+        "published_at": "2026-09-15T19:00:00+00:00"
       }
     ]
   },
   {
     "rank": 9,
-    "title": "Nvidia partners with eight Australian firms to build up to 2 gigawatts of AI capacity",
-    "summary": "Nvidia announced a plan with eight Australian data-center operators to add up to 2 gigawatts of AI computing capacity by 2027, potentially more than doubling the country's current data-center load.",
-    "published_at": "2026-09-09T04:30:00+05:30",
-    "category": "Semiconductors",
-    "popularity_basis": "Confirmed via Nvidia's official announcement and Reuters coverage; significant for global AI infrastructure expansion beyond traditional hubs.",
+    "title": "California enacts comprehensive child safety laws for social media and AI chatbots",
+    "summary": "Governor Gavin Newsom signed 13 bipartisan bills creating what the state calls the strongest child safety chatbot and social media laws in the US. The laws ban addictive features like autoplay for users under 16 and establish robust protections for child-facing AI chatbots, taking effect in 2027.",
+    "published_at": "2026-09-15T20:00:00+00:00",
+    "category": "Regulation",
+    "popularity_basis": "Landmark state legislation covered by Simmons & Simmons, JD Supra, and MDL Update; sets precedent following EU announcement.",
     "sources": [
       {
-        "name": "Nvidia Newsroom",
-        "url": "https://www.globenewswire.com/news-release/2026/09/10/3359139/0/en/nvidia-expands-ai-infrastructure-capacity-in-partnership-with-australia-s-data-center-ecosystem.html",
-        "source_type": "company",
-        "published_at": "2026-09-09T00:00:00+05:30"
+        "name": "Simmons & Simmons",
+        "url": "https://www.simmons-simmons.com/en/publications/cmu2nosyu00m0uyj8ta6kjyou/ai-view-september-2026",
+        "source_type": "news",
+        "published_at": "2026-09-15T20:00:00+00:00"
       },
       {
-        "name": "Reuters (via Startup Fortune)",
-        "url": "https://startupfortune.com/nvidia-bets-eight-australian-firms-can-double-the-nations-ai-power-load/",
+        "name": "JD Supra",
+        "url": "https://www.jdsupra.com/legalnews/california-s-2026-legislative-session-6939681/",
         "source_type": "news",
-        "published_at": "2026-09-09T00:00:00+05:30"
+        "published_at": "2026-09-15T21:00:00+00:00"
+      },
+      {
+        "name": "MDL Update",
+        "url": "https://mdlupdate.com/news/california-ab-1709-addictive-feeds-under-16-2026/",
+        "source_type": "news",
+        "published_at": "2026-09-15T22:00:00+00:00"
       }
     ]
   },
   {
     "rank": 10,
-    "title": "China's AI chipmakers raise prices as global HBM memory shortage bites",
-    "summary": "Huawei, Cambricon and other Chinese AI chipmakers have raised prices for current and next-generation processors by 20-50% as a global shortage of high-bandwidth memory strains China's push for domestic Nvidia alternatives.",
-    "published_at": "2026-09-10T10:00:00+05:30",
-    "category": "Semiconductors",
-    "popularity_basis": "Reuters exclusive picked up by multiple outlets; significant for global chip supply chains and China's semiconductor self-sufficiency efforts.",
+    "title": "Anthropic CEO publishes essay calling for AI industry to pace development",
+    "summary": "Dario Amodei released a 3,800-word essay titled 'We Must Pace the Frontier' proposing a three-step plan for balanced AI development. The proposal includes embedded third-party evaluators at frontier AI companies, democratic coordination on safety standards, and global coordination with authoritarian governments.",
+    "published_at": "2026-09-16T11:43:37+00:00",
+    "category": "AI",
+    "popularity_basis": "Influential essay sparking industry-wide debate; covered by Time, CFR, and widely discussed on social media following researcher resignations.",
     "sources": [
       {
-        "name": "Reuters (via Investing.com)",
-        "url": "https://www.investing.com/news/stock-market-news/china-ai-chipmakers-hike-prices-as-hbm-shortage-hits-domestic-push--reuters-4894976",
-        "source_type": "news",
-        "published_at": "2026-09-10T00:00:00+05:30"
+        "name": "Dario Amodei",
+        "url": "https://darioamodei.com/post/we-must-pace-the-frontier",
+        "source_type": "official",
+        "published_at": "2026-09-16T11:43:37+00:00"
       },
       {
-        "name": "Reuters (via Yahoo Finance)",
-        "url": "https://ca.finance.yahoo.com/news/exclusive-chinas-ai-chipmakers-raise-050223278.html",
+        "name": "Time",
+        "url": "https://time.com/article/2026/09/15/ai-anthropic-researcher-quits-coxon-slowdown/",
         "source_type": "news",
-        "published_at": "2026-09-10T00:00:00+05:30"
+        "published_at": "2026-09-15T14:43:42+00:00"
+      },
+      {
+        "name": "Council on Foreign Relations",
+        "url": "https://www.cfr.org/articles/why-ais-biggest-rivals-are-suddenly-calling-for-restraint",
+        "source_type": "news",
+        "published_at": "2026-09-15T15:00:00+00:00"
       }
     ]
   },
   {
     "rank": 11,
-    "title": "Clearview AI tested facial-search profiling tool built with xAI's Grok model",
-    "summary": "WIRED reported Clearview AI built and tested InquiryIQ, a prototype that expands facial-recognition matches into detailed profiles of aliases, addresses and social accounts, raising new surveillance and privacy concerns.",
-    "published_at": "2026-09-10T17:30:00+05:30",
-    "category": "Regulation",
-    "popularity_basis": "Original WIRED investigation widely republished; significant privacy and civil-liberties implications for facial recognition and AI-driven surveillance.",
+    "title": "Bank of America raises semiconductor sales forecast to $3.2T by 2030",
+    "summary": "BofA analysts raised their global semiconductor sales estimate to $3.2 trillion in 2030, up from $2.7 trillion, implying 18% compound annual growth from 2026-2030. The forecast comes as chip stocks rebounded from AI slowdown concerns, with data centers and memory driving growth.",
+    "published_at": "2026-09-16T03:07:00+00:00",
+    "category": "Semiconductors",
+    "popularity_basis": "Major analyst forecast affecting semiconductor sector; covered by Yahoo Finance and TheStreet amid chip stock volatility.",
     "sources": [
       {
-        "name": "Biometric Update",
-        "url": "https://www.biometricupdate.com/202609/clearview-ai-prototype-points-to-next-phase-of-facial-recognition-identity-intelligence",
+        "name": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/technology/ai/articles/bank-america-makes-bold-chip-030700579.html",
         "source_type": "news",
-        "published_at": "2026-09-10T00:00:00+05:30"
+        "published_at": "2026-09-16T03:07:00+00:00"
       },
       {
-        "name": "Gulf News (via WIRED)",
-        "url": "https://gulfnews.com/technology/this-ai-can-search-the-web-and-piece-together-your-life-1.500670362",
+        "name": "Zacks",
+        "url": "https://www.zacks.com/commentary/2989797/buy-ti-and-nvidia-for-exposure-to-semiconductor-boom",
         "source_type": "news",
-        "published_at": "2026-09-10T00:00:00+05:30"
+        "published_at": "2026-09-15T16:19:11+00:00"
       }
     ]
   },
   {
     "rank": 12,
-    "title": "Meta acquires Swedish AI startup Stilla.ai to build out business messaging agents",
-    "summary": "Meta acquired Stockholm-based Stilla.ai, folding its team and technology into Meta Business Agent, which automates customer interactions across WhatsApp, Messenger and Instagram for over a million businesses.",
-    "published_at": "2026-09-09T22:00:00+05:30",
-    "category": "Big Tech",
-    "popularity_basis": "Reported by Axios and covered widely; signals Meta's strategy of using AI agents as a commerce layer across its messaging platforms.",
+    "title": "IonQ wins four Best Paper Awards at IEEE Quantum Week 2026",
+    "summary": "Quantum computing company IonQ received four Best Paper Awards ahead of IEEE Quantum Week, showcasing breakthroughs in AI, hybrid computing, and life sciences. The awards recognize research including a DQAOA-GPT framework combining generative AI with distributed quantum algorithms.",
+    "published_at": "2026-09-15T13:00:00+00:00",
+    "category": "AI",
+    "popularity_basis": "Significant quantum computing research recognition; covered by IonQ press release, Yahoo Finance, and Quantum Zeitgeist.",
     "sources": [
       {
-        "name": "Axios",
-        "url": "https://www.axios.com/2026/09/09/meta-acquires-swedish-ai-startup-stillaai",
-        "source_type": "news",
-        "published_at": "2026-09-09T22:00:00+05:30"
+        "name": "IonQ",
+        "url": "https://www.ionq.com/news/ionq-earns-four-best-paper-awards-ahead-of-ieee-quantum-week-2026-for-breakthroughs-in-ai-hybrid-computing-and-life-sciences",
+        "source_type": "company",
+        "published_at": "2026-09-15T13:00:00+00:00"
       },
       {
-        "name": "MediaPost",
-        "url": "https://www.mediapost.com/publications/article/417764/meta-acquires-swedish-ai-startup-to-boost-automate.html",
+        "name": "Yahoo Finance",
+        "url": "https://ca.finance.yahoo.com/news/ionq-earns-four-best-paper-130000331.html",
         "source_type": "news",
-        "published_at": "2026-09-10T00:00:00+05:30"
+        "published_at": "2026-09-15T14:43:49+00:00"
+      },
+      {
+        "name": "Quantum Zeitgeist",
+        "url": "https://quantumzeitgeist.com/ionq-ieee-quantum-week-ionqs/",
+        "source_type": "news",
+        "published_at": "2026-09-15T15:00:00+00:00"
       }
     ]
   },
   {
     "rank": 13,
-    "title": "Salesforce in talks to acquire AI customer-research startup Listen Labs for $2 billion",
-    "summary": "Salesforce has held talks to buy Listen Labs, an AI-driven customer-interview platform used by Microsoft and Google, for about $2 billion, as it expands Agentforce with a fourth AI acquisition of 2026.",
-    "published_at": "2026-09-09T20:00:00+05:30",
+    "title": "AWS and Salesforce expand collaboration to integrate CRM with AI agents",
+    "summary": "Amazon Web Services and Salesforce announced an expanded partnership to help enterprises integrate CRM data and AI agents into tools like Slack and Claude. The collaboration includes AWS Frontier Agents in Slack with a DevOps Agent available now and additional agents coming in fall 2026.",
+    "published_at": "2026-09-15T14:00:00+00:00",
     "category": "Enterprise Software",
-    "popularity_basis": "Originally reported by Business Insider and corroborated by TechCrunch and PYMNTS; notable for Salesforce's aggressive AI-driven M&A pace.",
+    "popularity_basis": "Major cloud-enterprise partnership announcement; covered by AWS Press and relevant to large enterprise customers.",
+    "sources": [
+      {
+        "name": "AWS Press",
+        "url": "https://press.aboutamazon.com/aws/2026/9/aws-and-salesforce-put-crm-data-ai-agents-and-model-choice-into-the-tools-teams-use-every-day",
+        "source_type": "company",
+        "published_at": "2026-09-15T14:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "rank": 14,
+    "title": "IBM receives Commerce Department award for first US quantum chip foundry",
+    "summary": "IBM finalized a Commerce Department award to build Anderon, the first stand-alone quantum chip foundry in the United States. The facility represents a significant investment in domestic quantum computing manufacturing capabilities.",
+    "published_at": "2026-09-16T11:43:49+00:00",
+    "category": "Semiconductors",
+    "popularity_basis": "Major government-industry quantum computing investment; covered by Barron's as significant infrastructure development.",
+    "sources": [
+      {
+        "name": "Barron's",
+        "url": "https://www.barrons.com/articles/ibm-stock-quantum-computing-chip-foundry-71b67f2b",
+        "source_type": "news",
+        "published_at": "2026-09-16T11:43:49+00:00"
+      }
+    ]
+  },
+  {
+    "rank": 15,
+    "title": "Google Pixel Drop introduces scam detection and Harry Potter themes",
+    "summary": "Google's September Pixel Drop rolled out scam detection expansion to Messages across 10 countries and seven languages, plus Harry Potter audiobook packs that transform device appearance. The update also improved Raise to Talk and one-handed gestures for Pixel Watch users.",
+    "published_at": "2026-09-15T18:00:00+00:00",
+    "category": "Consumer Technology",
+    "popularity_basis": "Major consumer software update; covered by PhoneArena, Google Pixel Community, and Reddit with broad user impact.",
+    "sources": [
+      {
+        "name": "PhoneArena",
+        "url": "https://www.phonearena.com/news/the-september-pixel-drop-is-here-and-it-unlocks-a-new-look-and-a-quieter-safeguard_id183340",
+        "source_type": "news",
+        "published_at": "2026-09-15T18:00:00+00:00"
+      },
+      {
+        "name": "Google Pixel Community",
+        "url": "https://support.google.com/pixelphone/thread/466181739/september-2026-pixel-drop?hl=en",
+        "source_type": "company",
+        "published_at": "2026-09-15T18:43:48+00:00"
+      }
+    ]
+  },
+  {
+    "rank": 16,
+    "title": "Agility Robotics unveils Digit 5 humanoid robot for commercial deployment",
+    "summary": "Agility Robotics unveiled Digit 5, the next generation of its general-purpose humanoid robot built on over 65,000 hours of commercial operation. The robot is designed for cooperatively safe work at scale in warehouse and logistics environments.",
+    "published_at": "2026-09-15T14:00:00+00:00",
+    "category": "AI",
+    "popularity_basis": "Major robotics product launch; covered by Agility Robotics press release and relevant to automation industry.",
+    "sources": [
+      {
+        "name": "Agility Robotics",
+        "url": "https://www.agilityrobotics.com/content/agility-unveils-digit-5-humanoid-robot-built-for-cooperatively-safe-work-at-scale",
+        "source_type": "company",
+        "published_at": "2026-09-15T14:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "rank": 17,
+    "title": "Cloud waste hits 29% as AI spending reverses five-year decline",
+    "summary": "New 2026 data shows cloud waste reaching 29% as AI workloads drive increased spending, ending a five-year downward trend. At least five vendors announced AI-focused cloud cost governance products in early-to-mid September to address visibility challenges.",
+    "published_at": "2026-09-16T00:00:00+00:00",
+    "category": "Enterprise Software",
+    "popularity_basis": "Significant industry trend analysis; covered by Shattered.io with data affecting enterprise cloud spending decisions.",
+    "sources": [
+      {
+        "name": "Shattered.io",
+        "url": "https://shattered.io/cloud-waste-29-percent-ai-spending-2026/",
+        "source_type": "news",
+        "published_at": "2026-09-16T00:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "rank": 18,
+    "title": "X retires legacy Direct Messages endpoints September 17",
+    "summary": "X announced it will fully retire legacy Direct Messages endpoints on September 17, requiring developers to migrate to updated APIs. The platform also updated its twitter-text library to account for recent emoji counting changes.",
+    "published_at": "2026-09-16T07:43:56+00:00",
+    "category": "Social Media",
+    "popularity_basis": "Platform API change affecting developers; documented in official X API changelog.",
+    "sources": [
+      {
+        "name": "X API Documentation",
+        "url": "https://docs.x.com/changelog",
+        "source_type": "company",
+        "published_at": "2026-09-16T07:43:56+00:00"
+      }
+    ]
+  },
+  {
+    "rank": 19,
+    "title": "UL Solutions launches Vehicle-to-Grid certification program for EVs",
+    "summary": "UL Solutions introduced a new Vehicle-to-Grid certification program covering technologies that enable electric vehicles to send stored electricity back to the grid. The program supports testing and certification of bidirectional EV charging equipment for safety and grid-support performance.",
+    "published_at": "2026-09-16T10:00:00+00:00",
+    "category": "Consumer Technology",
+    "popularity_basis": "Industry certification development; covered by OpenPR and relevant to EV charging infrastructure.",
+    "sources": [
+      {
+        "name": "OpenPR",
+        "url": "https://www.openpr.com/news/4633156/united-states-electric-vehicle-ev-testing-inspection",
+        "source_type": "news",
+        "published_at": "2026-09-16T10:53:25+00:00"
+      }
+    ]
+  },
+  {
+    "rank": 20,
+    "title": "Microsoft announces quarterly dividend increase",
+    "summary": "Microsoft announced an increase to its quarterly dividend, marking the company's continued commitment to returning capital to shareholders. The announcement came alongside other Microsoft partner updates for September 2026.",
+    "published_at": "2026-09-15T14:00:00+00:00",
+    "category": "Big Tech",
+    "popularity_basis": "Major tech company financial announcement; covered by Microsoft Source news.",
+    "sources": [
+      {
+        "name": "Microsoft Source",
+        "url": "https://news.microsoft.com/source/view-all/",
+        "source_type": "company",
+        "published_at": "2026-09-15T14:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "rank": 21,
+    "title": "California proposes emergency regulations for SaaS sales tax",
+    "summary": "The California Department of Tax and Fee Administration published proposed emergency regulations to implement SB 122, which extends sales and use tax to prewritten computer software including SaaS effective January 1, 2027. Public comments are being solicited through September 24.",
+    "published_at": "2026-09-15T15:00:00+00:00",
+    "category": "Regulation",
+    "popularity_basis": "Significant tax policy change affecting SaaS industry; covered by SW Law and relevant to California businesses.",
+    "sources": [
+      {
+        "name": "SW Law",
+        "url": "https://www.swlaw.com/publication/cdtfa-proposes-emergency-regulations-to-implement-californias-new-sales-and-use-tax-on-digital-products/",
+        "source_type": "news",
+        "published_at": "2026-09-15T15:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "rank": 22,
+    "title": "IGN announces another round of layoffs across all levels",
+    "summary": "IGN, the largest games news website, is undergoing another round of layoffs affecting all levels including longtime video content creators. The cuts come amid broader challenges in the gaming media industry.",
+    "published_at": "2026-09-15T18:43:56+00:00",
+    "category": "Social Media",
+    "popularity_basis": "Gaming industry employment news; covered by Tabletop Battles games industry roundup.",
+    "sources": [
+      {
+        "name": "Tabletop Battles",
+        "url": "https://www.tabletopbattles.com/games-industry-news-roundup-september-15th-2026",
+        "source_type": "news",
+        "published_at": "2026-09-15T18:43:56+00:00"
+      }
+    ]
+  },
+  {
+    "rank": 23,
+    "title": "Nitter and XCancel privacy viewers go dark after X legal action",
+    "summary": "Privacy-friendly services for viewing X posts without accounts went offline again following escalated legal action from X. Nitter's GitHub page was archived on September 11, indicating read-only status with no further updates possible.",
+    "published_at": "2026-09-15T16:00:00+00:00",
+    "category": "Social Media",
+    "popularity_basis": "Platform enforcement action affecting privacy tools; covered by TechCrunch.",
     "sources": [
       {
         "name": "TechCrunch",
-        "url": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
+        "url": "https://techcrunch.com/2026/09/15/nitter-and-xcancel-are-dead-again-after-xs-latest-legal-actions/",
         "source_type": "news",
-        "published_at": "2026-09-09T00:00:00+05:30"
-      },
+        "published_at": "2026-09-15T16:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "rank": 24,
+    "title": "Atlassian releases security bulletin with 144 high-severity vulnerabilities",
+    "summary": "Atlassian's September 15 security bulletin reported 144 high-severity and 17 critical-severity third-party vulnerabilities fixed in new product versions released over the last month. The bulletin covers security updates across Atlassian's product suite.",
+    "published_at": "2026-09-15T12:00:00+00:00",
+    "category": "Cybersecurity",
+    "popularity_basis": "Major enterprise software security update; documented in official Atlassian security bulletin.",
+    "sources": [
       {
-        "name": "PYMNTS",
-        "url": "https://www.pymnts.com/news/artificial-intelligence/2026/salesforce-eyes-2-billion-acquisition-of-ai-powered-platform-listen-labs/",
+        "name": "Atlassian",
+        "url": "https://confluence.atlassian.com/security/security-bulletin-september-15-2026-1822852209.html",
+        "source_type": "company",
+        "published_at": "2026-09-15T12:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "rank": 25,
+    "title": "Ericsson partners with Nex-Tech Wireless for 5G RAN upgrade in Kansas",
+    "summary": "Ericsson announced a four-year partnership with Nex-Tech Wireless to modernize its network across Kansas, upgrading around 85% of the radio access network and introducing a cloud-native 5G standalone core. The project represents significant rural 5G infrastructure investment.",
+    "published_at": "2026-09-16T00:00:00+00:00",
+    "category": "Telecommunications",
+    "popularity_basis": "Telecommunications infrastructure deal; covered by Mobile Europe.",
+    "sources": [
+      {
+        "name": "Mobile Europe",
+        "url": "https://www.mobileeurope.co.uk/ericsson-nex-tech-deal/",
         "source_type": "news",
-        "published_at": "2026-09-09T00:00:00+05:30"
+        "published_at": "2026-09-16T00:00:00+00:00"
       }
     ]
   }
