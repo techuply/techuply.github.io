@@ -1,94 +1,254 @@
 [
-  {
-    "rank": 1,
-    "title": "Nvidia leadership turmoil weighs on AI and chip stocks",
-    "summary": "Investors sold semiconductor and AI-infrastructure shares after Nvidia CEO Jensen Huang's resignation, with the Philadelphia Semiconductor Index falling sharply. The selloff highlighted concerns about leadership uncertainty and the durability of the AI investment cycle.",
-    "published_at": "2026-11-13T23:37:16+08:00",
-    "category": "Semiconductors",
-    "popularity_basis": "Broad financial and technology coverage, large market moves across chip and AI-infrastructure stocks, and high potential impact on the AI sector.",
-    "sources": [
-      {
-        "name": "The Business Times",
-        "url": "[https://www.businesstimes.com.sg/companies-markets/capital-markets/currencies/us-stocks-nasdaq-end-lower-nvidia-uncertainty-weighs-tech-shares](https://www.businesstimes.com.sg/companies-markets/capital-markets/currencies/us-stocks-nasdaq-end-lower-nvidia-uncertainty-weighs-tech-shares)",
-        "source_type": "news",
-        "published_at": "2026-11-13T23:37:16+08:00"
-      },
-      {
-        "name": "The Hindu Businessline",
-        "url": "[https://www.thehindubusinessline.com/markets/us-stocks-tumble-as-nvidia-slides-43-triggering-fresh-selloff-in-technology-shares/article71700678.ece/amp/](https://www.thehindubusinessline.com/markets/us-stocks-tumble-as-nvidia-slides-43-triggering-fresh-selloff-in-technology-shares/article71700678.ece/amp/)",
-        "source_type": "news",
-        "published_at": "2026-11-14T00:00:00+05:30"
-      }
-    ]
-  },
-  {
-    "rank": 2,
-    "title": "Microsoft says global Outlook outage is stabilizing",
-    "summary": "Microsoft said it had addressed the underlying network-capacity issue behind a prolonged global disruption to Outlook, Teams and Copilot, while continuing to restore remaining affected customers and regions. The company said it found no evidence of malicious activity.",
-    "published_at": "2026-11-14T01:05:00+08:00",
-    "category": "Enterprise Software",
-    "popularity_basis": "Extensive global coverage because the outage affected businesses, governments, airlines and financial institutions; the recovery update was widely reported.",
-    "sources": [
-      {
-        "name": "GMA News",
-        "url": "[https://www.gmanetwork.com/news/scitech/technology/1009441/faxes-phones-and-bluetooth-microsoft-outage-forces-businesses-to-find-fixes/story/?amp](https://www.gmanetwork.com/news/scitech/technology/1009441/faxes-phones-and-bluetooth-microsoft-outage-forces-businesses-to-find-fixes/story/?amp)",
-        "source_type": "news",
-        "published_at": "2026-11-14T01:05:00+08:00"
-      },
-      {
-        "name": "News.com.au",
-        "url": "[https://www.news.com.au/technology/online/internet/130000-microsoft-outlook-users-locked-out-of-emails-huge-outage/news-story/6bddc768b5587d3788bdb2b492d27c79](https://www.news.com.au/technology/online/internet/130000-microsoft-outlook-users-locked-out-of-emails-huge-outage/news-story/6bddc768b5587d3788bdb2b492d27c79)",
-        "source_type": "news",
-        "published_at": "2026-11-14T10:45:00+11:00"
-      }
-    ]
-  },
-  {
-    "rank": 3,
-    "title": "OpenAI launches ChatGPT Wallet for agent purchases",
-    "summary": "OpenAI introduced ChatGPT Wallet, allowing eligible US ChatGPT Pro users to let AI agents make purchases without directly accessing card details. Every transaction requires a security check, marking a step toward consumer-facing agentic commerce.",
-    "published_at": "2026-11-13T15:43:18+00:00",
-    "category": "AI",
-    "popularity_basis": "Coverage by Reuters and prominent technology outlets; significant implications for AI agents, payments and consumer trust.",
-    "sources": [
-      {
-        "name": "Reuters",
-        "url": "[https://www.reuters.com/technology/openai-launches-chatgpt-wallet-letting-ai-agents-pay-purchases-2026-11-13/](https://www.reuters.com/technology/openai-launches-chatgpt-wallet-letting-ai-agents-pay-purchases-2026-11-13/)",
-        "source_type": "news",
-        "published_at": "2026-11-13T15:43:18+00:00"
-      }
-    ]
-  },
-  {
-    "rank": 4,
-    "title": "Cerebras shares surge after profit and forecast raise",
-    "summary": "Cerebras Systems shares rose about 17 percent after the AI-chip company reported a surprise profit and raised its annual sales forecast. The results eased concerns about AI infrastructure spending and strengthened its position as a Nvidia challenger.",
-    "published_at": "2026-11-13T11:53:13+00:00",
-    "category": "Semiconductors",
-    "popularity_basis": "Strong market reaction, Reuters coverage, and relevance to investor concerns over AI-chip demand and spending.",
-    "sources": [
-      {
-        "name": "Reuters",
-        "url": "[https://www.reuters.com/technology/cerebras-shares-surge-profit-surprise-forecast-raise-ease-ai-spending-worries-2026-11-13/](https://www.reuters.com/technology/cerebras-shares-surge-profit-surprise-forecast-raise-ease-ai-spending-worries-2026-11-13/)",
-        "source_type": "news",
-        "published_at": "2026-11-13T11:53:13+00:00"
-      }
-    ]
-  },
-  {
-    "rank": 5,
-    "title": "US Weather Service says radar systems are operating normally",
-    "summary": "The US National Weather Service said its radars and radar website were operating normally after reports of nationwide internet and communications problems. It said outdated content on isolated webpages had circulated but there was no radar outage.",
-    "published_at": "2026-11-13T22:13:14+00:00",
-    "category": "Consumer Technology",
-    "popularity_basis": "Timely clarification from an official agency amid public concern about a potential nationwide weather-radar disruption.",
-    "sources": [
-      {
-        "name": "Reuters",
-        "url": "[https://www.reuters.com/technology/us-national-weather-service-reports-nationwide-internet-communications-issues-2026-11-13/](https://www.reuters.com/technology/us-national-weather-service-reports-nationwide-internet-communications-issues-2026-11-13/)",
-        "source_type": "news",
-        "published_at": "2026-11-13T22:13:14+00:00"
-      }
-    ]
-  }
+{
+"rank": 1,
+"title": "Former Nvidia CEO Jensen Huang Agrees to Testify Before Congress Amid Export Scandal",
+"summary": "Following his abrupt resignation from Nvidia, Jensen Huang agreed to testify before Congress over alleged U.S. chip export control lapses and national security concerns. Commerce Secretary Howard Lutnick will also testify as Nvidia faces sharp market value losses.",
+"published_at": "2026-11-13T11:07:00+05:30",
+"category": "Semiconductors",
+"popularity_basis": "Dominates global tech and mainstream headlines with major geopolitical, regulatory, and market ramifications.",
+"sources": [
+{
+"name": "The Guardian",
+"url": "[https://www.theguardian.com/technology/live/2026/nov/13/nvidia-jensen-huang-to-testify-before-congress-live-latest-updates](https://www.theguardian.com/technology/live/2026/nov/13/nvidia-jensen-huang-to-testify-before-congress-live-latest-updates)",
+"source_type": "news",
+"published_at": "2026-11-13T12:20:00+05:30"
+},
+{
+"name": "TechCrunch",
+"url": "[https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/](https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/)",
+"source_type": "news",
+"published_at": "2026-11-14T04:13:00+05:30"
+}
+]
+},
+{
+"rank": 2,
+"title": "Global Microsoft 365 Outage Enters Second Day Before Gradual Recovery",
+"summary": "A widespread Microsoft server misconfiguration disrupted Outlook, Teams, and cloud services across 74 countries, impacting hospitals, schools, police, and businesses. Microsoft apologized, ruled out a cyberattack, and restored broad stability after a multi-day outage.",
+"published_at": "2026-11-13T10:30:00+05:30",
+"category": "Enterprise Software",
+"popularity_basis": "Broad mainstream coverage across international outlets due to massive global disruption of essential workplace and public-sector communications.",
+"sources": [
+{
+"name": "The Guardian",
+"url": "[https://www.theguardian.com/technology/live/2026/nov/13/microsoft-outage-down-today-live-update-outlook-teams-365-when-fixed-latest-status-cause-news](https://www.theguardian.com/technology/live/2026/nov/13/microsoft-outage-down-today-live-update-outlook-teams-365-when-fixed-latest-status-cause-news)",
+"source_type": "news",
+"published_at": "2026-11-14T02:07:00+05:30"
+},
+{
+"name": "Al Jazeera",
+"url": "[https://www.aljazeera.com/news/2026/11/13/microsoft-says-services-still-returning-amid-widespread-outage](https://www.aljazeera.com/news/2026/11/13/microsoft-says-services-still-returning-amid-widespread-outage)",
+"source_type": "news",
+"published_at": "2026-11-14T02:30:00+05:30"
+}
+]
+},
+{
+"rank": 3,
+"title": "Anthropic IPO Reportedly Six Times Oversubscribed Ahead of Nasdaq Debut",
+"summary": "Anthropic's upcoming Nasdaq listing under ticker ANT is reportedly six times oversubscribed, putting the AI lab on track to raise up to $90.4 billion including private placements. The offering targets a fully diluted valuation near $1.4 trillion.",
+"published_at": "2026-11-13T11:30:00+05:30",
+"category": "AI",
+"popularity_basis": "High investor and industry interest in what could become the largest initial public offering in history.",
+"sources": [
+{
+"name": "The Times of India",
+"url": "[https://timesofindia.indiatimes.com/business/international-business/anthropic-ipo-six-times-oversubscribed-as-ai-firm-targets-record-1-4-trillion-valuation/articleshow/135790833.cms](https://timesofindia.indiatimes.com/business/international-business/anthropic-ipo-six-times-oversubscribed-as-ai-firm-targets-record-1-4-trillion-valuation/articleshow/135790833.cms)",
+"source_type": "news",
+"published_at": "2026-11-13T11:30:00+05:30"
+},
+{
+"name": "The Decoder",
+"url": "[https://the-decoder.com/anthropics-ipo-is-six-times-oversubscribed-and-on-track-to-become-the-largest-public-offering-in-history/](https://the-decoder.com/anthropics-ipo-is-six-times-oversubscribed-and-on-track-to-become-the-largest-public-offering-in-history/)",
+"source_type": "news",
+"published_at": "2026-11-13T21:30:00+05:30"
+}
+]
+},
+{
+"rank": 4,
+"title": "OpenAI Launches ChatGPT Wallet for Biometric-Approved Agent Purchases",
+"summary": "OpenAI introduced ChatGPT Wallet in limited availability for U.S. Pro users, allowing AI agents to complete checkouts using payment network tokens from Visa, Mastercard, and American Express. Users approve transactions with biometrics without exposing real card numbers.",
+"published_at": "2026-11-13T22:30:00+05:30",
+"category": "AI",
+"popularity_basis": "Major product expansion into agentic commerce with broad coverage across tech and financial news outlets.",
+"sources": [
+{
+"name": "ANI News",
+"url": "[https://www.aninews.in/news/business/openai-expands-into-payments-with-chatgpt-wallet-allowing-ai-agents-to-make-purchases-using-users-cards20261114075642/](https://www.aninews.in/news/business/openai-expands-into-payments-with-chatgpt-wallet-allowing-ai-agents-to-make-purchases-using-users-cards20261114075642/)",
+"source_type": "news",
+"published_at": "2026-11-14T07:56:42+05:30"
+},
+{
+"name": "PowerfulAI.tools",
+"url": "[https://www.powerfulai.tools/blog/chatgpt-wallet-agent-payments-2026](https://www.powerfulai.tools/blog/chatgpt-wallet-agent-payments-2026)",
+"source_type": "news",
+"published_at": "2026-11-14T07:30:00+05:30"
+}
+]
+},
+{
+"rank": 5,
+"title": "FBI and DOJ Disrupt North Korean Deepfake Crypto Scam Worth Over $400 Million",
+"summary": "U.S. authorities disrupted FaceStealer, a North Korean cyber campaign that used hijacked accounts and fake video calls to steal over $400 million in cryptocurrency. Officials also secured authorization to seize over $1.2 billion from October's Binance heist.",
+"published_at": "2026-11-13T17:30:00+05:30",
+"category": "Cybersecurity",
+"popularity_basis": "Significant law enforcement action against state-sponsored AI-assisted cybercrime and record cryptocurrency thefts.",
+"sources": [
+{
+"name": "The Hacker News",
+"url": "[https://thehackernews.com/2026/11/fbi-says-north-korean-hackers-stole.html](https://thehackernews.com/2026/11/fbi-says-north-korean-hackers-stole.html)",
+"source_type": "news",
+"published_at": "2026-11-13T20:30:00+05:30"
+},
+{
+"name": "Bitdefender",
+"url": "[https://www.bitdefender.com/en-us/blog/hotforsecurity/us-seizes-1-billion-north-korea-binance-crypto](https://www.bitdefender.com/en-us/blog/hotforsecurity/us-seizes-1-billion-north-korea-binance-crypto)",
+"source_type": "news",
+"published_at": "2026-11-13T20:30:00+05:30"
+}
+]
+},
+{
+"rank": 6,
+"title": "OpenAI Unveils Daybreak Red Team and Defense Factory Security Agents",
+"summary": "OpenAI launched Daybreak Red Team for autonomous web application penetration testing and Daybreak Defense Factory to trace vulnerabilities and draft code patches. The tools aim to help security teams validate exploits and prepare human-reviewed fixes faster.",
+"published_at": "2026-11-13T14:51:00+05:30",
+"category": "Cybersecurity",
+"popularity_basis": "Strong enterprise and cybersecurity industry interest in automated vulnerability discovery and patching workflows.",
+"sources": [
+{
+"name": "SecurityWeek",
+"url": "[https://www.securityweek.com/openai-unveils-daybreak-red-team-defense-factory-security-tools/](https://www.securityweek.com/openai-unveils-daybreak-red-team-defense-factory-security-tools/)",
+"source_type": "news",
+"published_at": "2026-11-13T14:51:00+05:30"
+},
+{
+"name": "Help Net Security",
+"url": "[https://www.helpnetsecurity.com/2026/11/13/openai-daybreak-vulnerability-remediation-red-team-defense-factory-agents/](https://www.helpnetsecurity.com/2026/11/13/openai-daybreak-vulnerability-remediation-red-team-defense-factory-agents/)",
+"source_type": "news",
+"published_at": "2026-11-13T15:30:00+05:30"
+}
+]
+},
+{
+"rank": 7,
+"title": "AI Agent Startup LangChain Raises $300 Million Series C at $3 Billion Valuation",
+"summary": "LangChain raised $300 million in Series C funding, more than doubling its valuation to $3 billion. The company is expanding its LangSmith platform to help enterprises build, observe, and govern model-agnostic AI agents in production.",
+"published_at": "2026-11-13T22:30:00+05:30",
+"category": "Startups",
+"popularity_basis": "Major venture funding milestone highlighting sustained investor appetite for AI agent infrastructure startups.",
+"sources": [
+{
+"name": "TechCrunch",
+"url": "[https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/](https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/)",
+"source_type": "news",
+"published_at": "2026-11-14T01:07:00+05:30"
+},
+{
+"name": "LangChain",
+"url": "[https://www.langchain.com/blog/series-c](https://www.langchain.com/blog/series-c)",
+"source_type": "company",
+"published_at": "2026-11-13T22:30:00+05:30"
+}
+]
+},
+{
+"rank": 8,
+"title": "Four Nonprofits Sue OpenAI, Google, Anthropic, Meta, and SpaceX to Freeze AI Training",
+"summary": "Four advocacy nonprofits filed suit in California seeking an emergency injunction to halt frontier AI model training at OpenAI, Google, Anthropic, Meta, and SpaceX. Plaintiffs argue the companies must first prove their systems remain under safe human control.",
+"published_at": "2026-11-13T10:30:00+05:30",
+"category": "Regulation",
+"popularity_basis": "High-profile legal challenge targeting five leading AI developers simultaneously over frontier model safety.",
+"sources": [
+{
+"name": "AI Weekly",
+"url": "[https://aiweekly.co/ai-news-today/edition/2026-11-13](https://aiweekly.co/ai-news-today/edition/2026-11-13)",
+"source_type": "news",
+"published_at": "2026-11-13T18:30:00+05:30"
+},
+{
+"name": "Winzheng",
+"url": "[https://www.winzheng.com/en/article/nonprofits-sue-openai-google-anthropic-halt-ai-development](https://www.winzheng.com/en/article/nonprofits-sue-openai-google-anthropic-halt-ai-development)",
+"source_type": "news",
+"published_at": "2026-11-13T10:30:00+05:30"
+}
+]
+},
+{
+"rank": 9,
+"title": "Google Rolls Out Gemini 4 Hydrogen Across Search, Workspace, and Developer APIs",
+"summary": "Google made Gemini 4 Hydrogen broadly available across Search, the Gemini app, Sheets, and its developer API at $1.50 per million input tokens. The model replaces Gemini 3.8 Flash with faster agentic execution and a one-million-token context window.",
+"published_at": "2026-11-13T10:00:00+05:30",
+"category": "AI",
+"popularity_basis": "Flagship model release affecting millions of Search and Workspace users alongside enterprise API pricing.",
+"sources": [
+{
+"name": "Google Blog",
+"url": "[https://blog.google/intl/en-in/products/introducing-gemini-4-hydrogen/](https://blog.google/intl/en-in/products/introducing-gemini-4-hydrogen/)",
+"source_type": "company",
+"published_at": "2026-11-13T10:00:00+05:30"
+},
+{
+"name": "Google DeepMind",
+"url": "[https://deepmind.google/models/model-cards/gemini-4-hydrogen/](https://deepmind.google/models/model-cards/gemini-4-hydrogen/)",
+"source_type": "research",
+"published_at": "2026-11-13T10:00:00+05:30"
+}
+]
+},
+{
+"rank": 10,
+"title": "AI Cloud Provider Nscale Reports $1.69 Billion Loss Alongside 1,344% Revenue Surge in IPO Update",
+"summary": "London-based AI infrastructure firm Nscale updated its U.S. IPO filing, revealing nine-month revenue jumped 1,344% to $307.5 million while net losses widened to roughly $1.69 billion. The filing underscores the heavy capital costs of scaling AI data centers.",
+"published_at": "2026-11-13T12:05:00+05:30",
+"category": "Startups",
+"popularity_basis": "Closely watched financial disclosure illustrating the unit economics and capital intensity of neocloud infrastructure providers.",
+"sources": [
+{
+"name": "AI Weekly",
+"url": "[https://aiweekly.co/alerts/nscale-posts-169b-q3-loss-as-revenue-jumps-1344-in-ipo-update](https://aiweekly.co/alerts/nscale-posts-169b-q3-loss-as-revenue-jumps-1344-in-ipo-update)",
+"source_type": "news",
+"published_at": "2026-11-13T12:05:00+05:30"
+},
+{
+"name": "ResultSense",
+"url": "[https://www.resultsense.com/news/2026-11-13-nscale-amended-ipo-filing-revenue/](https://www.resultsense.com/news/2026-11-13-nscale-amended-ipo-filing-revenue/)",
+"source_type": "news",
+"published_at": "2026-11-13T19:30:00+05:30"
+}
+]
+},
+{
+"rank": 11,
+"title": "NTT DATA and IIT Jammu Partner to Launch AI Center of Excellence for Climate Resilience",
+"summary": "NTT DATA and the Indian Institute of Technology Jammu established an AI Center of Excellence focused on flood monitoring, landslide early warning, and regional talent development. The initiative targets disaster resilience across Jammu and Kashmir's river basins.",
+"published_at": "2026-11-13T16:30:00+05:30",
+"category": "AI",
+"popularity_basis": "Notable academic-industry AI infrastructure and talent partnership in India addressing regional climate risk.",
+"sources": [
+{
+"name": "NTT DATA",
+"url": "[https://www.nttdata.com/en-us/news/2026/ntt-data-and-iit-jammu-partner-to-establish-ai-center-of-excellence](https://www.nttdata.com/en-us/news/2026/ntt-data-and-iit-jammu-partner-to-establish-ai-center-of-excellence)",
+"source_type": "company",
+"published_at": "2026-11-13T16:30:00+05:30"
+}
+]
+},
+{
+"rank": 12,
+"title": "Intel Showcases Edge and Physical AI Deployments at Web Summit 2026 in Lisbon",
+"summary": "Intel demonstrated edge and physical AI systems with ecosystem partners across manufacturing, healthcare, retail, and smart cities at Web Summit 2026. The company highlighted its Open Edge Platform and Altera sensor integration to accelerate real-time industrial robotics.",
+"published_at": "2026-11-13T22:30:00+05:30",
+"category": "Semiconductors",
+"popularity_basis": "Major semiconductor industry showcase demonstrating practical edge AI and industrial robotics adoption.",
+"sources": [
+{
+"name": "Intel Newsroom",
+"url": "[https://www.intel.com/content/www/us/en/newsroom/news/artificial-intelligence/intel-on-the-ground-at-web-summit-2026.html](https://www.intel.com/content/www/us/en/newsroom/news/artificial-intelligence/intel-on-the-ground-at-web-summit-2026.html)",
+"source_type": "company",
+"published_at": "2026-11-13T22:30:00+05:30"
+}
+]
+}
 ]
