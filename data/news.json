@@ -1,189 +1,301 @@
 [
 {
 "rank": 1,
-"title": "Treasury Secretary Bessent urges external CEO search and shakeup at Nvidia",
-"summary": "U.S. Treasury Secretary Scott Bessent called for an external CEO search and major shakeup at Nvidia following Jensen Huang's exit, pushing back against investor calls for Huang's return.",
-"published_at": "2026-11-16T06:07:00+05:30",
-"category": "Semiconductors",
-"popularity_basis": "Broadly covered across international business and tech outlets with major implications for AI chip governance and leadership.",
+"title": "US Tightens AI Chip Export Controls to Curb Remote Chinese Compute Access",
+"summary": "The US Commerce Department issued an interim final rule restricting advanced AI semiconductor shipments and overseas data center compute arrangements, including in Malaysia and Singapore, while rescinding the 2025 AI Diffusion Rule.",
+"published_at": "2026-11-16T20:32:00+05:30",
+"category": "Regulation",
+"popularity_basis": "Broad coverage across major tech and policy outlets due to major supply-chain and geopolitical impact on global AI data centers.",
 "sources": [
 {
-"name": "Hindustan Times",
-"url": "[https://www.hindustantimes.com/world-news/us-news/treasury-secretary-scott-bessent-calls-for-dramatic-shakeup-at-nvidia-amid-jensen-huang-comeback-talk-101794786060704.html](https://www.hindustantimes.com/world-news/us-news/treasury-secretary-scott-bessent-calls-for-dramatic-shakeup-at-nvidia-amid-jensen-huang-comeback-talk-101794786060704.html)",
+"name": "TechCrunch",
+"url": "[https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/](https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/)",
 "source_type": "news",
-"published_at": "2026-11-16T06:07:00+05:30"
+"published_at": "2026-11-16T20:32:00+05:30"
 },
 {
-"name": "The Times of India",
-"url": "[https://timesofindia.indiatimes.com/technology/tech-news/after-pointing-to-commerce-secretary-howard-lutnick-for-nvidia-chips-treasury-secretary-scott-bessent-has-dramatic-shakeup-message-for-the-company/articleshow/135869858.cms](https://timesofindia.indiatimes.com/technology/tech-news/after-pointing-to-commerce-secretary-howard-lutnick-for-nvidia-chips-treasury-secretary-scott-bessent-has-dramatic-shakeup-message-for-the-company/articleshow/135869858.cms)",
+"name": "Tech Wire Asia",
+"url": "[https://techwireasia.com/2026/11/us-ai-chip-restrictions-malaysia-singapore/](https://techwireasia.com/2026/11/us-ai-chip-restrictions-malaysia-singapore/)",
 "source_type": "news",
-"published_at": "2026-11-16T07:41:00+05:30"
-},
-{
-"name": "The Edge Singapore",
-"url": "[https://www.theedgesingapore.com/news/tech/nvidias-ceo-search-draws-fire-bessents-shake--call](https://www.theedgesingapore.com/news/tech/nvidias-ceo-search-draws-fire-bessents-shake--call)",
-"source_type": "news",
-"published_at": "2026-11-16T08:38:00+05:30"
+"published_at": "2026-11-17T09:30:00+05:30"
 }
 ]
 },
 {
 "rank": 2,
-"title": "ULA Vulcan rocket fails in flight, destroying 40 Amazon Leo satellites",
-"summary": "A United Launch Alliance Vulcan rocket suffered an in-flight failure minutes after liftoff from Cape Canaveral, resulting in the loss of 40 Amazon Leo broadband satellites.",
-"published_at": "2026-11-15T21:46:00+05:30",
-"category": "Telecommunications",
-"popularity_basis": "Widely reported across mainstream and space-industry media due to its major setback to Amazon's satellite internet rollout.",
+"title": "Nvidia Leadership Turmoil Continues Ahead of Earnings Amid Board and Political Reactions",
+"summary": "Following Jensen Huang's resignation, reports indicate Nvidia's board is not considering reinstating him despite a large petition, while President Trump doubted national security risks and Sam Altman said the AI industry will remain stable.",
+"published_at": "2026-11-16T23:41:00+05:30",
+"category": "Big Tech",
+"popularity_basis": "Dominates top-read charts across mainstream and technology publications ahead of Nvidia's quarterly earnings report.",
 "sources": [
 {
-"name": "Spaceflight Now",
-"url": "[https://spaceflightnow.com/2026/11/15/ula-suffers-first-total-mission-failure-with-loss-of-vulcan-rocket-carrying-40-amazon-leo-satellites/](https://spaceflightnow.com/2026/11/15/ula-suffers-first-total-mission-failure-with-loss-of-vulcan-rocket-carrying-40-amazon-leo-satellites/)",
+"name": "TechCrunch",
+"url": "[https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/](https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/)",
 "source_type": "news",
-"published_at": "2026-11-15T21:46:00+05:30"
+"published_at": "2026-11-16T23:41:00+05:30"
 },
 {
-"name": "CBS News",
-"url": "[https://www.cbsnews.com/news/vulcan-rocket-40-amazon-leo-internet-satellites-launch-mishap/](https://www.cbsnews.com/news/vulcan-rocket-40-amazon-leo-internet-satellites-launch-mishap/)",
+"name": "TechCrunch",
+"url": "[https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/](https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/)",
 "source_type": "news",
-"published_at": "2026-11-16T01:34:00+05:30"
+"published_at": "2026-11-17T00:42:00+05:30"
 },
 {
 "name": "The Times of India",
-"url": "[https://timesofindia.indiatimes.com/world/us/suffered-an-anomaly-amazon-loses-40-leo-satellites-as-ulas-vulcan-rocket-fails-minutes-after-launch/articleshow/135869099.cms](https://timesofindia.indiatimes.com/world/us/suffered-an-anomaly-amazon-loses-40-leo-satellites-as-ulas-vulcan-rocket-fails-minutes-after-launch/articleshow/135869099.cms)",
+"url": "[https://timesofindia.indiatimes.com/business/international-business/nvidia-board-not-considering-jensen-huangs-return-report/articleshow/135903984.cms](https://timesofindia.indiatimes.com/business/international-business/nvidia-board-not-considering-jensen-huangs-return-report/articleshow/135903984.cms)",
 "source_type": "news",
-"published_at": "2026-11-16T07:07:00+05:30"
+"published_at": "2026-11-17T04:28:00+05:30"
 }
 ]
 },
 {
 "rank": 3,
-"title": "Microsoft Exchange outage blocks German hotel chlorine alert, injuring 15 people",
-"summary": "A malfunctioning pool dosing system at a German hotel leaked chlorine gas after Microsoft Exchange cloud disruptions prevented automated email alerts from reaching staff, injuring 15 people.",
-"published_at": "2026-11-15T18:00:00+05:30",
-"category": "Enterprise Software",
-"popularity_basis": "Strong reader engagement and cross-outlet pickup highlighting real-world safety risks of cloud email dependencies.",
+"title": "FBI Warns of Global Cyberattacks Powered by Autonomous AI Hacking Tool Artex",
+"summary": "The FBI issued an alert warning that threat actors are using the open-source, LLM-driven penetration testing framework Artex to automate cyber intrusions and compromise networks in under three hours.",
+"published_at": "2026-11-16T17:30:00+05:30",
+"category": "Cybersecurity",
+"popularity_basis": "High industry urgency and broad security coverage due to active global supply-chain compromises involving ConnectWise and financial institutions.",
 "sources": [
 {
-"name": "The Times of India",
-"url": "[https://timesofindia.indiatimes.com/technology/tech-news/a-hotel-in-germany-reports-chlorine-gas-poisoning-after-email-warning-system-fails-due-to-microsoft-365-outage-guests-taken-to-hospital/articleshow/135864509.cms](https://timesofindia.indiatimes.com/technology/tech-news/a-hotel-in-germany-reports-chlorine-gas-poisoning-after-email-warning-system-fails-due-to-microsoft-365-outage-guests-taken-to-hospital/articleshow/135864509.cms)",
+"name": "TechCrunch",
+"url": "[https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/](https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/)",
 "source_type": "news",
-"published_at": "2026-11-16T01:07:00+05:30"
+"published_at": "2026-11-16T23:06:00+05:30"
 },
 {
-"name": "Hi-Tech.ua",
-"url": "[https://hi-tech.ua/en/microsoft-outage-leads-to-chlorine-poisoning-at-hotel-pool/](https://hi-tech.ua/en/microsoft-outage-leads-to-chlorine-poisoning-at-hotel-pool/)",
+"name": "Infosecurity Magazine",
+"url": "[https://www.infosecurity-magazine.com/news/fbi-growing-abuse-ai-pentesting/](https://www.infosecurity-magazine.com/news/fbi-growing-abuse-ai-pentesting/)",
 "source_type": "news",
-"published_at": "2026-11-15T18:00:00+05:30"
+"published_at": "2026-11-16T17:30:00+05:30"
+},
+{
+"name": "The Times of India",
+"url": "[https://timesofindia.indiatimes.com/technology/tech-news/fbi-warns-companies-in-the-us-and-across-the-world-names-ai-hacking-tool-criminals-are-using-to-attack-financial-services-suggests-dos-and-donts/articleshow/135907239.cms](https://timesofindia.indiatimes.com/technology/tech-news/fbi-warns-companies-in-the-us-and-across-the-world-names-ai-hacking-tool-criminals-are-using-to-attack-financial-services-suggests-dos-and-donts/articleshow/135907239.cms)",
+"source_type": "news",
+"published_at": "2026-11-17T07:50:00+05:30"
 }
 ]
 },
 {
 "rank": 4,
-"title": "Zelenskyy accuses SpaceX of imposing Starshield terminal speed limits in Ukraine",
-"summary": "Ukrainian President Volodymyr Zelenskyy accused SpaceX of restricting Starshield satellite terminal speeds above 161 km/h, hampering Ukrainian interceptor drones targeting Russian strikes.",
-"published_at": "2026-11-15T22:07:00+05:30",
-"category": "Telecommunications",
-"popularity_basis": "Covered by major international outlets with direct geopolitical and defense-technology significance.",
+"title": "Tesla Announces €3 Billion Giga Berlin Expansion for Cybercab Production",
+"summary": "Tesla confirmed plans to invest €3 billion in a new manufacturing building at its Berlin gigafactory aimed at producing up to one million autonomous Cybercabs annually starting in 2029.",
+"published_at": "2026-11-16T22:52:00+05:30",
+"category": "Consumer Technology",
+"popularity_basis": "Significant capital commitment and strong coverage across automotive and technology publications despite unresolved European autonomous driving approvals.",
 "sources": [
 {
-"name": "The Guardian",
-"url": "[https://www.theguardian.com/world/2026/nov/16/ukraine-war-briefing-energy-attacks-made-possible-by-continuing-starshield-restrictions-says-zelenskyy](https://www.theguardian.com/world/2026/nov/16/ukraine-war-briefing-energy-attacks-made-possible-by-continuing-starshield-restrictions-says-zelenskyy)",
+"name": "Electrek",
+"url": "[https://electrek.co/2026/11/16/tesla-cybercab-giga-berlin-3-billion-1-million/](https://electrek.co/2026/11/16/tesla-cybercab-giga-berlin-3-billion-1-million/)",
 "source_type": "news",
-"published_at": "2026-11-16T08:13:00+05:30"
+"published_at": "2026-11-16T22:52:00+05:30"
 },
 {
-"name": "Anadolu Agency",
-"url": "[https://aa.com.tr/en/eurasia/zelenskyy-accuses-spacex-of-restricting-starshield-terminal-speeds-for-ukraine/4125933](https://aa.com.tr/en/eurasia/zelenskyy-accuses-spacex-of-restricting-starshield-terminal-speeds-for-ukraine/4125933)",
+"name": "TechCrunch",
+"url": "[https://techcrunch.com/2026/11/16/tesla-goes-all-in-on-the-cybercab-with-upcoming-e3b-berlin-gigafactory-expansion/](https://techcrunch.com/2026/11/16/tesla-goes-all-in-on-the-cybercab-with-upcoming-e3b-berlin-gigafactory-expansion/)",
 "source_type": "news",
-"published_at": "2026-11-15T22:07:00+05:30"
+"published_at": "2026-11-16T23:51:00+05:30"
+},
+{
+"name": "Teslarati",
+"url": "[https://www.teslarati.com/tesla-makes-e3-billion-cybercab-bet-giga-berlin/](https://www.teslarati.com/tesla-makes-e3-billion-cybercab-bet-giga-berlin/)",
+"source_type": "news",
+"published_at": "2026-11-16T23:30:00+05:30"
 }
 ]
 },
 {
 "rank": 5,
-"title": "Scrutiny mounts over Commerce Secretary Lutnick's Bitdeer ties and AI chip rules",
-"summary": "Reports raised conflict-of-interest questions over U.S. Commerce Secretary Howard Lutnick's former firm Cantor Fitzgerald financing Bitdeer's Malaysian AI data center while Lutnick backs narrower remote-access chip rules.",
-"published_at": "2026-11-15T20:00:00+05:30",
-"category": "Regulation",
-"popularity_basis": "High policy and regulatory impact regarding U.S. AI chip export-control loopholes and offshore GPU rentals.",
+"title": "Uber Notifies Nearly 150,000 Drivers of Data Breach at Vendor Fireworks AI",
+"summary": "Uber began notifying close to 150,000 drivers that their personal details and driver's license records were stolen during an October security breach at third-party AI cloud provider Fireworks AI.",
+"published_at": "2026-11-17T01:23:00+05:30",
+"category": "Cybersecurity",
+"popularity_basis": "High consumer and enterprise security impact involving sensitive driver identification data at a major AI infrastructure vendor.",
 "sources": [
 {
-"name": "Times Now",
-"url": "[https://www.timesnownews.com/world/us/us-news/could-us-commerce-secretarys-old-firm-gain-from-softer-chip-rules-report-raises-questions-article-156515803](https://www.timesnownews.com/world/us/us-news/could-us-commerce-secretarys-old-firm-gain-from-softer-chip-rules-report-raises-questions-article-156515803)",
+"name": "TechCrunch",
+"url": "[https://techcrunch.com/2026/11/16/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/](https://techcrunch.com/2026/11/16/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/)",
 "source_type": "news",
-"published_at": "2026-11-16T01:03:00+05:30"
+"published_at": "2026-11-17T01:23:00+05:30"
 },
 {
-"name": "BigGo Finance",
-"url": "[https://finance.biggo.com/news/afc85443-bd7b-4a76-b6f4-20b8dc685783](https://finance.biggo.com/news/afc85443-bd7b-4a76-b6f4-20b8dc685783)",
+"name": "Newsfilter",
+"url": "[https://newsfilter.io/articles/uber-says-hackers-stole-information-on-close-to-150-000-drivers-licenses-during-19467242737e523cbe5c9ef362640c53](https://newsfilter.io/articles/uber-says-hackers-stole-information-on-close-to-150-000-drivers-licenses-during-19467242737e523cbe5c9ef362640c53)",
 "source_type": "news",
-"published_at": "2026-11-16T02:07:00+05:30"
+"published_at": "2026-11-17T01:23:00+05:30"
 }
 ]
 },
 {
 "rank": 6,
-"title": "Apple launches U.S. research study on how people use AI for health",
-"summary": "Apple announced a virtual U.S. research study and companion app to examine how consumers use, trust, and understand conversational AI tools for health questions.",
-"published_at": "2026-11-15T21:30:00+05:30",
-"category": "AI",
-"popularity_basis": "Official Apple announcement addressing mainstream consumer adoption and safety of medical AI chatbots.",
+"title": "Infoblox Confirms Data Breach via Compromised Third-Party Migration Vendor",
+"summary": "Cybersecurity and networking firm Infoblox confirmed attackers accessed company, customer, and employee information stored in Microsoft SharePoint after compromising a third-party data migration vendor.",
+"published_at": "2026-11-17T03:42:00+05:30",
+"category": "Cybersecurity",
+"popularity_basis": "Significant enterprise security story affecting a major network automation provider and its corporate SharePoint environment.",
 "sources": [
 {
-"name": "Apple Newsroom",
-"url": "[https://www.apple.com/newsroom/2026/11/apple-launches-research-study-to-explore-the-use-of-ai-for-health/](https://www.apple.com/newsroom/2026/11/apple-launches-research-study-to-explore-the-use-of-ai-for-health/)",
-"source_type": "official",
-"published_at": "2026-11-15T21:30:00+05:30"
+"name": "TechCrunch",
+"url": "[https://techcrunch.com/2026/11/16/cyber-giant-infoblox-confirms-security-incident-after-hackers-access-company-information/](https://techcrunch.com/2026/11/16/cyber-giant-infoblox-confirms-security-incident-after-hackers-access-company-information/)",
+"source_type": "news",
+"published_at": "2026-11-17T03:42:00+05:30"
 },
 {
-"name": "MeteoraWeb",
-"url": "[https://meteoraweb.com/en/news/apple-health-ai-usage-study-openevidence-ai-health](https://meteoraweb.com/en/news/apple-health-ai-usage-study-openevidence-ai-health)",
+"name": "LavX News",
+"url": "[https://news.lavx.hu/article/infoblox-investigates-SharePoint-breach-that-exposed-customer-and-employee-data](https://www.google.com/search?q=https://news.lavx.hu/article/infoblox-investigates-SharePoint-breach-that-exposed-customer-and-employee-data)",
 "source_type": "news",
-"published_at": "2026-11-16T08:07:00+05:30"
+"published_at": "2026-11-17T05:44:00+05:30"
 }
 ]
 },
 {
 "rank": 7,
-"title": "Singapore's CSA warns of active exploitation of two Barracuda gateway flaws",
-"summary": "Singapore's Cyber Security Agency issued an urgent advisory warning that attackers are actively chaining CVE-2026-116606 and CVE-2026-111560 to gain unauthenticated root access on Barracuda Email Security Gateways.",
-"published_at": "2026-11-16T08:07:00+05:30",
-"category": "Cybersecurity",
-"popularity_basis": "Official government cybersecurity alert covering actively exploited critical-severity enterprise appliance vulnerabilities.",
+"title": "OpenAI Pilots Embedded Third-Party Safety Evaluators to Study AI Subversion",
+"summary": "OpenAI announced a pilot program embedding external evaluators from Apollo Research, Goodfire, METR, and Transluce to investigate AI subversion risks, though researchers noted disclosure and access limits.",
+"published_at": "2026-11-16T22:32:00+05:30",
+"category": "AI",
+"popularity_basis": "Notable AI governance development drawing scrutiny from independent AI safety researchers.",
 "sources": [
 {
-"name": "Cyber Security Agency of Singapore (CSA)",
-"url": "[https://www.csa.gov.sg/alerts-and-advisories/alerts/al-2026-162/](https://www.csa.gov.sg/alerts-and-advisories/alerts/al-2026-162/)",
-"source_type": "regulatory",
-"published_at": "2026-11-16T08:07:00+05:30"
+"name": "TechCrunch",
+"url": "[https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/](https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/)",
+"source_type": "news",
+"published_at": "2026-11-16T22:32:00+05:30"
 },
 {
-"name": "Barracuda Networks",
-"url": "[https://trust.barracuda.com/security/pre-authentication-authorization-bypass-command-injection](https://trust.barracuda.com/security/pre-authentication-authorization-bypass-command-injection)",
-"source_type": "company",
-"published_at": "2026-11-10T00:00:00+05:30"
+"name": "Venture Atlas",
+"url": "[https://www.ventureatlas.org/news/2026-11-16-openai-academic-researchers](https://www.ventureatlas.org/news/2026-11-16-openai-academic-researchers)",
+"source_type": "news",
+"published_at": "2026-11-17T08:30:00+05:30"
 }
 ]
 },
 {
 "rank": 8,
-"title": "Nvidia robotics engineer Darrell Dai resigns, criticizing board over Jensen Huang's exit",
-"summary": "Nvidia robotics research engineer Darrell Dai announced his resignation and criticized the board for not consulting or explaining Jensen Huang's abrupt departure to engineering staff.",
-"published_at": "2026-11-15T14:07:00+05:30",
-"category": "Big Tech",
-"popularity_basis": "Strong social engagement and coverage across tech publications reflecting internal fallout from Nvidia's leadership crisis.",
+"title": "OpenAI Introduces New Image Classifier and ChatGPT Warnings Against CSAM",
+"summary": "OpenAI unveiled a new image detection classifier and updated ChatGPT safety warnings to prevent the generation and distribution of child sexual abuse material.",
+"published_at": "2026-11-16T22:30:00+05:30",
+"category": "AI",
+"popularity_basis": "Key trust-and-safety update from a leading AI platform amid heightened regulatory scrutiny over generative AI misuse.",
 "sources": [
 {
-"name": "The Times of India",
-"url": "[https://timesofindia.indiatimes.com/technology/tech-news/darrell-dai-a-robot-research-engineer-at-nvidia-resigns-complains-to-nvidia-board-you-did-not-hear-engineers-working-in-the-company-on-jensen-huang-we-also-have-a-story-to-tell/articleshow/135850771.cms](https://timesofindia.indiatimes.com/technology/tech-news/darrell-dai-a-robot-research-engineer-at-nvidia-resigns-complains-to-nvidia-board-you-did-not-hear-engineers-working-in-the-company-on-jensen-huang-we-also-have-a-story-to-tell/articleshow/135850771.cms)",
+"name": "TechCrunch",
+"url": "[https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/](https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/)",
 "source_type": "news",
-"published_at": "2026-11-15T14:07:00+05:30"
+"published_at": "2026-11-16T22:30:00+05:30"
+}
+]
 },
 {
-"name": "The Economic Times",
-"url": "[https://m.economictimes.com/news/international/world-news/difficult-to-accept-nvidia-engineer-quits-after-jensen-huangs-exit-says-why-former-ceo-mattered-to-employees/articleshow/135854310.cms](https://m.economictimes.com/news/international/world-news/difficult-to-accept-nvidia-engineer-quits-after-jensen-huangs-exit-says-why-former-ceo-mattered-to-employees/articleshow/135854310.cms)",
+"rank": 9,
+"title": "Cybersecurity AI Startup Corma Reaches $1 Billion Valuation in Three Months",
+"summary": "AI-driven cybersecurity startup Corma achieved a $1 billion valuation roughly three months after launch as investor demand surges for automated defensive tools against AI-enabled cyberattacks.",
+"published_at": "2026-11-17T05:02:00+05:30",
+"category": "Startups",
+"popularity_basis": "Unusually rapid unicorn valuation highlighting intense venture capital interest in defensive AI security.",
+"sources": [
+{
+"name": "TechCrunch",
+"url": "[https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/](https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/)",
 "source_type": "news",
-"published_at": "2026-11-15T17:23:43+05:30"
+"published_at": "2026-11-17T05:02:00+05:30"
+}
+]
+},
+{
+"rank": 10,
+"title": "UN-Backed Study Finds AI Models Fallible on Climate Science Facts",
+"summary": "A UNESCO-backed report presented at COP31 found that leading AI models frequently generate inaccurate information and struggle to counter climate science denial reliably.",
+"published_at": "2026-11-16T21:30:00+05:30",
+"category": "AI",
+"popularity_basis": "International policy relevance as UN climate negotiators examine AI reliability and misinformation risks.",
+"sources": [
+{
+"name": "The Guardian",
+"url": "[https://www.theguardian.com/environment/2026/nov/16/ai-models-fallible-denial-climate-science-unesco-cop31](https://www.theguardian.com/environment/2026/nov/16/ai-models-fallible-denial-climate-science-unesco-cop31)",
+"source_type": "news",
+"published_at": "2026-11-16T21:30:00+05:30"
+}
+]
+},
+{
+"rank": 11,
+"title": "Nvidia Unveils Nemotron for Science, Vera CPU Expansion, and Quantum Platform",
+"summary": "Nvidia announced Nemotron AI agents for scientific discovery, expanded its Vera CPU platform, and partnered with IBM and Fermilab on a quantum-classical codesign platform.",
+"published_at": "2026-11-16T20:00:00+05:30",
+"category": "Semiconductors",
+"popularity_basis": "Major product and research roadmap announcements from Nvidia ahead of its quarterly financial results.",
+"sources": [
+{
+"name": "NVIDIA Newsroom",
+"url": "[https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition](https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition)",
+"source_type": "company",
+"published_at": "2026-11-16T20:00:00+05:30"
+}
+]
+},
+{
+"rank": 12,
+"title": "OpenAI Study Finds 98% of Surveyed Scientists Expect Faster AI Discoveries",
+"summary": "An OpenAI survey reported that 98 percent of participating scientists expect AI tools to accelerate discoveries in their fields, though funding and experimental capacity remain key bottlenecks.",
+"published_at": "2026-11-17T08:51:00+05:30",
+"category": "AI",
+"popularity_basis": "Highlights growing adoption of generative AI across scientific research workflows.",
+"sources": [
+{
+"name": "The Economic Times",
+"url": "[http://economictimes.indiatimes.com/tech/artificial-intelligence/98-percent-of-scientists-expect-ai-to-accelerate-scientific-discoveries-openai-study-finds/articleshow/135908805.cms](http://economictimes.indiatimes.com/tech/artificial-intelligence/98-percent-of-scientists-expect-ai-to-accelerate-scientific-discoveries-openai-study-finds/articleshow/135908805.cms)",
+"source_type": "news",
+"published_at": "2026-11-17T08:51:00+05:30"
+}
+]
+},
+{
+"rank": 13,
+"title": "SAP Completes Acquisition of Skills Intelligence Startup TechWolf",
+"summary": "Enterprise software giant SAP announced the completion of its acquisition of TechWolf to strengthen AI-powered workforce skills intelligence across its enterprise applications.",
+"published_at": "2026-11-16T18:00:00+05:30",
+"category": "Enterprise Software",
+"popularity_basis": "Notable enterprise software M&A transaction expanding AI-driven HR and talent capabilities.",
+"sources": [
+{
+"name": "SAP News Center",
+"url": "[https://news.sap.com/2026/11/india-promise-to-platform-global-growth/](https://news.sap.com/2026/11/india-promise-to-platform-global-growth/)",
+"source_type": "company",
+"published_at": "2026-11-16T18:00:00+05:30"
+}
+]
+},
+{
+"rank": 14,
+"title": "India Semiconductor Testing Bottlenecks Emerge Amid Qualcomm Layoffs and Fab Delays",
+"summary": "Industry reports indicate India's chip assembly expansion is outpacing domestic testing capacity, while Qualcomm initiated layoffs in India and Tata Electronics delayed its flagship fab start to mid-2028.",
+"published_at": "2026-11-16T14:00:00+05:30",
+"category": "Semiconductors",
+"popularity_basis": "Important regional supply-chain update affecting India's semiconductor ecosystem and global chip engineering hubs.",
+"sources": [
+{
+"name": "DIGITIMES",
+"url": "[https://www.digitimes.com/news/a20261113VL215/india-roundup-capacity-electronics-plant-production-testing.html](https://www.digitimes.com/news/a20261113VL215/india-roundup-capacity-electronics-plant-production-testing.html)",
+"source_type": "news",
+"published_at": "2026-11-16T14:00:00+05:30"
+}
+]
+},
+{
+"rank": 15,
+"title": "OpenAI Expands Free ChatGPT Access Program Toward 200,000 Academic Researchers",
+"summary": "OpenAI announced it is expanding its ChatGPT for Academic Researchers initiative toward 200,000 participants worldwide, doubling its initial July pilot target.",
+"published_at": "2026-11-17T08:30:00+05:30",
+"category": "AI",
+"popularity_basis": "Expands subsidized AI tool access across global universities and research institutions.",
+"sources": [
+{
+"name": "Venture Atlas",
+"url": "[https://www.ventureatlas.org/news/2026-11-16-openai-academic-researchers](https://www.ventureatlas.org/news/2026-11-16-openai-academic-researchers)",
+"source_type": "news",
+"published_at": "2026-11-17T08:30:00+05:30"
 }
 ]
 }
