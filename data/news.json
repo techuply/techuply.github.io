@@ -1,325 +1,301 @@
 [
 {
 "rank": 1,
-"title": "Anthropic and OpenAI Release Unverified AI-Authored Proofs of Valiant's Conjecture",
-"summary": "Anthropic and OpenAI both published AI-generated proofs claiming to solve the 47-year-old VP versus VNP algebraic complexity conjecture. Neither formalization has completed human mathematical peer review, leaving their validity unconfirmed.",
-"published_at": "2026-11-24T12:00:00+05:30",
-"category": "AI",
-"popularity_basis": "Widespread coverage across AI and tech publications alongside intense debate among computer scientists over automated mathematical discovery.",
+"title": "Federal Jury Convicts Huawei on 10 Counts of Trade Secret Theft and Bank Fraud",
+"summary": "A Brooklyn federal jury found Huawei guilty of conspiring to steal U.S. trade secrets and defrauding banks regarding Iran sanctions, while acquitting it of racketeering. The verdict concludes an 11-week trial in a landmark U.S.-China technology dispute.",
+"published_at": "2026-11-25T15:00:00+05:30",
+"category": "Regulation",
+"popularity_basis": "Broadly covered across major global news outlets with major geopolitical and semiconductor supply-chain implications.",
 "sources": [
 {
-"name": "AI Weekly",
-"url": "[https://aiweekly.co/alerts/anthropic-publishes-claude-authored-vp-vnp-proof-unverified](https://aiweekly.co/alerts/anthropic-publishes-claude-authored-vp-vnp-proof-unverified)",
+"name": "TIME",
+"url": "[https://time.com/article/2026/11/25/huawei-guilty-crimes-fraud-conspiracy-sanctions-us-china/](https://time.com/article/2026/11/25/huawei-guilty-crimes-fraud-conspiracy-sanctions-us-china/)",
 "source_type": "news",
-"published_at": "2026-11-24T11:18:00+05:30"
+"published_at": "2026-11-25T15:00:00+05:30"
 },
 {
-"name": "36Kr Europe",
-"url": "[https://eu.36kr.com/en/p/4084424614570375](https://eu.36kr.com/en/p/4084424614570375)",
+"name": "The Guardian",
+"url": "[https://www.theguardian.com/technology/2026/nov/24/huawei-china-convicted-deceiving-banks-stealing-us-trade-secrets](https://www.theguardian.com/technology/2026/nov/24/huawei-china-convicted-deceiving-banks-stealing-us-trade-secrets)",
 "source_type": "news",
-"published_at": "2026-11-25T07:18:00+05:30"
+"published_at": "2026-11-25T06:35:00+05:30"
+},
+{
+"name": "SDxCentral",
+"url": "[https://www.sdxcentral.com/news/jury-convicts-huawei-on-10-criminal-counts-of-bank-fraud-and-trade-secret-theft/](https://www.sdxcentral.com/news/jury-convicts-huawei-on-10-criminal-counts-of-bank-fraud-and-trade-secret-theft/)",
+"source_type": "news",
+"published_at": "2026-11-25T19:35:00+05:30"
 }
 ]
 },
 {
 "rank": 2,
-"title": "Nvidia Faces Scrutiny Over AI Customer Financing Following Jensen Huang's Return",
-"summary": "Following Jensen Huang's reinstatement as CEO, Nvidia faces heightened scrutiny over its AI customer financing commitments while CFO Colette Kress maintains tighter financial controls.",
-"published_at": "2026-11-24T14:00:00+05:30",
-"category": "Semiconductors",
-"popularity_basis": "High market interest following Nvidia's executive turmoil, share volatility, and broader industry concerns around AI infrastructure financing.",
+"title": "Dell Q3 Revenue Doubles to $54.9 Billion on Surging AI Server Backlog",
+"summary": "Dell Technologies reported Q3 FY27 revenue of $54.94 billion, driven by $22 billion in AI-optimized server sales and a $132.3 billion backlog. The company raised its full-year revenue forecast to $202 billion and authorized a $25 billion share buyback.",
+"published_at": "2026-11-25T06:35:00+05:30",
+"category": "Enterprise Software",
+"popularity_basis": "Strong financial market impact and widespread coverage across business and tech media as a key barometer for enterprise AI hardware demand.",
 "sources": [
 {
-"name": "TechCrunch",
-"url": "[https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/](https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/)",
-"source_type": "news",
-"published_at": "2026-11-25T03:18:00+05:30"
+"name": "Dell Technologies Investor Relations",
+"url": "[https://investors.delltechnologies.com/_assets/*270719a6457975cf4cdc96deae78c939/delltechnologies/db/3595/34778/performance_review/Q3_FY27_Performance_Review*.pdf](https://www.google.com/search?q=https%3A%2F%2Finvestors.delltechnologies.com%2F_assets%2F_270719a6457975cf4cdc96deae78c939%2Fdelltechnologies%2Fdb%2F3595%2F34778%2Fperformance_review%2FQ3_FY27_Performance_Review_.pdf)",
+"source_type": "company",
+"published_at": "2026-11-25T06:35:00+05:30"
 },
 {
-"name": "ANI News",
-"url": "[https://www.aninews.in/news/business/nvidias-ai-financing-commitments-may-face-tighter-us-scrutiny-amid-stability-concerns-report20261125084913/](https://www.aninews.in/news/business/nvidias-ai-financing-commitments-may-face-tighter-us-scrutiny-amid-stability-concerns-report20261125084913/)",
+"name": "AI Weekly",
+"url": "[https://aiweekly.co/alerts/dell-q3-revenue-doubles-to-549b-as-ai-server-backlog-hits-1323b-and-fy27](https://aiweekly.co/alerts/dell-q3-revenue-doubles-to-549b-as-ai-server-backlog-hits-1323b-and-fy27)",
 "source_type": "news",
-"published_at": "2026-11-25T08:49:00+05:30"
+"published_at": "2026-11-25T06:35:00+05:30"
 }
 ]
 },
 {
 "rank": 3,
-"title": "Google DeepMind Gemini 4 Agents Discover Faster Quantum Algorithms Verified in Lean",
-"summary": "Google DeepMind and Google Quantum AI reported that teams of Gemini 4 agents discovered formally verified quantum circuits that reduce computing costs by up to 290x for arcsin routines and 11.8x for fusion simulations.",
-"published_at": "2026-11-24T07:30:00+05:30",
-"category": "AI",
-"popularity_basis": "Strong social engagement and coverage across AI and quantum computing outlets due to verified algorithmic speedups.",
+"title": "UK Cyber Agency Warns of Sharp Rise in AI-Driven Cyberattacks Since September",
+"summary": "The UK National Cyber Security Centre reported a marked increase in cyberattacks utilizing autonomous AI pen-testing frameworks like ARTEX and Cairn. The agency warned that AI is compressing vulnerability exploitation timelines and will likely aid ransomware attacks on critical infrastructure by 2028.",
+"published_at": "2026-11-25T09:06:00+05:30",
+"category": "Cybersecurity",
+"popularity_basis": "High industry significance with multiple cybersecurity and mainstream tech outlets highlighting official government warnings on offensive AI.",
 "sources": [
 {
-"name": "Google DeepMind",
-"url": "[https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/](https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/)",
-"source_type": "company",
-"published_at": "2026-11-24T07:30:00+05:30"
+"name": "AI Weekly",
+"url": "[https://aiweekly.co/alerts/ncsc-flags-marked-rise-in-ai-driven-hacks-since-september](https://aiweekly.co/alerts/ncsc-flags-marked-rise-in-ai-driven-hacks-since-september)",
+"source_type": "news",
+"published_at": "2026-11-25T09:06:00+05:30"
 },
 {
 "name": "AI Weekly",
-"url": "[https://aiweekly.co/alerts/deepminds-gemini-4-agents-cut-quantum-algorithm-cost-290x](https://aiweekly.co/alerts/deepminds-gemini-4-agents-cut-quantum-algorithm-cost-290x)",
+"url": "[https://aiweekly.co/alerts/uk-ncsc-annual-review-logs-marked-rise-in-ai-driven-cyberattacks-since](https://aiweekly.co/alerts/uk-ncsc-annual-review-logs-marked-rise-in-ai-driven-cyberattacks-since)",
 "source_type": "news",
-"published_at": "2026-11-24T07:30:00+05:30"
+"published_at": "2026-11-25T09:35:00+05:30"
 }
 ]
 },
 {
 "rank": 4,
-"title": "OpenAI and Cisco Launch Shirudo Open-Source Runtime to Shield Linux Systems",
-"summary": "OpenAI and Cisco introduced Shirudo, an open-source runtime using eBPF and AI-assisted safeguards to block software exploits on live Linux servers without requiring immediate reboots or patches.",
-"published_at": "2026-11-24T12:18:00+05:30",
-"category": "Cybersecurity",
-"popularity_basis": "Major collaboration between a leading AI lab and networking giant addressing enterprise zero-day mitigation.",
+"title": "Major Smartphone Makers Cut 2027 Shipment Targets Amid Soaring Memory Prices",
+"summary": "Apple, Samsung, Xiaomi, Oppo, and Vivo have lowered their 2027 smartphone shipment targets due to severe DRAM and NAND supply shortages driven by AI data center demand. Memory chip price surges are squeezing consumer hardware margins across the industry.",
+"published_at": "2026-11-25T09:10:00+05:30",
+"category": "Semiconductors",
+"popularity_basis": "Significant cross-industry impact linking AI infrastructure bottlenecks directly to global consumer electronics supply.",
 "sources": [
 {
-"name": "OpenAI",
-"url": "[https://openai.com/index/introducing-shirudo/](https://openai.com/index/introducing-shirudo/)",
-"source_type": "company",
-"published_at": "2026-11-24T12:18:00+05:30"
+"name": "Business Standard",
+"url": "[https://www.business-standard.com/technology/tech-news/xiaomi-vivo-oppo-cut-2027-shipment-targets-as-memory-prices-soar-126112500230_1.html](https://www.business-standard.com/technology/tech-news/xiaomi-vivo-oppo-cut-2027-shipment-targets-as-memory-prices-soar-126112500230_1.html)",
+"source_type": "news",
+"published_at": "2026-11-25T10:50:00+05:30"
 },
 {
-"name": "The Hacker News",
-"url": "[https://thehackernews.com/2026/11/openai-and-cisco-unveil-ai-assisted.html](https://thehackernews.com/2026/11/openai-and-cisco-unveil-ai-assisted.html)",
+"name": "Analytics Insight",
+"url": "[https://www.analyticsinsight.net/news/smartphone-giants-cut-2027-shipment-targets-whats-driving-the-slowdown](https://www.analyticsinsight.net/news/smartphone-giants-cut-2027-shipment-targets-whats-driving-the-slowdown)",
 "source_type": "news",
-"published_at": "2026-11-24T12:18:00+05:30"
+"published_at": "2026-11-25T09:10:00+05:30"
 }
 ]
 },
 {
 "rank": 5,
-"title": "Anthropic Launches Claude Ship to Automate Pull Request Reviews and Approvals",
-"summary": "Anthropic rolled out Claude Ship for Team and Enterprise GitHub users, enabling AI agents to review code, resolve merge conflicts, and approve routine pull requests under team-defined policies.",
-"published_at": "2026-11-24T09:18:00+05:30",
-"category": "Enterprise Software",
-"popularity_basis": "Featured among top stories on major developer and tech outlets as AI coding workflows expand to automated merge governance.",
+"title": "Google Chrome Team Backs Mozilla Against Apple Over EU iOS Browser Engine Rules",
+"summary": "Google's Chrome developers publicly supported Mozilla in challenging Apple's Digital Markets Act compliance rules on iOS, calling requirements to ship separate browser apps unworkable. No third-party browser engine has launched on iOS in Europe nearly three years after the mandate.",
+"published_at": "2026-11-25T11:46:00+05:30",
+"category": "Big Tech",
+"popularity_basis": "Notable rare public alignment between browser rivals Google and Mozilla against Apple's platform restrictions under EU antitrust law.",
 "sources": [
 {
-"name": "TechCrunch",
-"url": "[https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/](https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/)",
+"name": "Business Standard",
+"url": "[https://www.business-standard.com/technology/tech-news/why-mozilla-wants-eu-to-challenge-apple-s-iphone-browser-restrictions-126112500297_1.html](https://www.business-standard.com/technology/tech-news/why-mozilla-wants-eu-to-challenge-apple-s-iphone-browser-restrictions-126112500297_1.html)",
 "source_type": "news",
-"published_at": "2026-11-24T09:18:00+05:30"
+"published_at": "2026-11-25T11:46:00+05:30"
 },
 {
-"name": "InfoWorld",
-"url": "[https://www.infoworld.com/article/4252505/anthropic-launches-claude-ship-extending-ai-assisted-development-to-pull-request-approvals.html](https://www.infoworld.com/article/4252505/anthropic-launches-claude-ship-extending-ai-assisted-development-to-pull-request-approvals.html)",
+"name": "The Times of India",
+"url": "[https://timesofindia.indiatimes.com/technology/tech-news/googles-chrome-team-takes-rival-mozillas-side-against-apple-over-unworkable-iphone-browser-rules-forcing-browsers-to-ship-separate-apps-and-re-acquire-users-is-/articleshow/136163679.cms](https://timesofindia.indiatimes.com/technology/tech-news/googles-chrome-team-takes-rival-mozillas-side-against-apple-over-unworkable-iphone-browser-rules-forcing-browsers-to-ship-separate-apps-and-re-acquire-users-is-/articleshow/136163679.cms)",
 "source_type": "news",
-"published_at": "2026-11-24T17:18:00+05:30"
-},
-{
-"name": "Anthropic",
-"url": "[https://claude.com/resources/articles/introducing-claude-ship](https://claude.com/resources/articles/introducing-claude-ship)",
-"source_type": "company",
-"published_at": "2026-11-24T09:18:00+05:30"
+"published_at": "2026-11-25T19:35:00+05:30"
 }
 ]
 },
 {
 "rank": 6,
-"title": "Rackspace Shuts Down Spot Cloud Platform After Security Breach Exposes Secrets",
-"summary": "Rackspace announced the shutdown of its Rackspace Spot Kubernetes platform after unauthorized actors compromised credentials and accessed customer cluster secrets and storage volumes.",
-"published_at": "2026-11-25T03:07:00+05:30",
-"category": "Cybersecurity",
-"popularity_basis": "High significance for cloud infrastructure operators due to multi-tenant Kubernetes secret exposure and complete service discontinuation.",
+"title": "OpenAI Reports GPT-6.2 Achieved 10.9% Wet-Lab Hit Rate in Protein Design",
+"summary": "OpenAI published research showing its general-purpose GPT-6.2 model designed 3D protein backbones that achieved a 10.9% binding success rate across 322 synthesized minibinders in laboratory tests. Specialized models were still used alongside GPT-6.2 for sequence optimization and candidate filtering.",
+"published_at": "2026-11-25T06:35:00+05:30",
+"category": "AI",
+"popularity_basis": "High scientific and AI industry interest as an early empirical demonstration of frontier general LLMs assisting wet-lab bioengineering.",
 "sources": [
 {
-"name": "BleepingComputer",
-"url": "[https://www.bleepingcomputer.com/news/security/rackspace-shuts-down-spot-cloud-platform-after-security-breach/](https://www.bleepingcomputer.com/news/security/rackspace-shuts-down-spot-cloud-platform-after-security-breach/)",
-"source_type": "news",
-"published_at": "2026-11-25T03:07:00+05:30"
+"name": "OpenAI",
+"url": "[https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/](https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/)",
+"source_type": "company",
+"published_at": "2026-11-25T06:35:00+05:30"
 },
 {
-"name": "Aviatrix Threat Research Center",
-"url": "[https://aviatrix.ai/threat-research-center/rackspace-shuts-down-spot-cloud-platform-after-security-breach/](https://aviatrix.ai/threat-research-center/rackspace-shuts-down-spot-cloud-platform-after-security-breach/)",
-"source_type": "research",
-"published_at": "2026-11-25T06:18:00+05:30"
+"name": "AI Weekly",
+"url": "[https://aiweekly.co/alerts/openais-gpt-62-hits-109-wet-lab-rate-on-new-minibinders](https://aiweekly.co/alerts/openais-gpt-62-hits-109-wet-lab-rate-on-new-minibinders)",
+"source_type": "news",
+"published_at": "2026-11-25T06:35:00+05:30"
+},
+{
+"name": "explainx.ai",
+"url": "[https://explainx.ai/blog/openai-gpt-6-intrinsic-protein-design-onava-lab-binding-november-2026](https://explainx.ai/blog/openai-gpt-6-intrinsic-protein-design-onava-lab-binding-november-2026)",
+"source_type": "news",
+"published_at": "2026-11-25T06:35:00+05:30"
 }
 ]
 },
 {
 "rank": 7,
-"title": "Tidal Announces Ban and Deletion of 27 Million Fully AI-Generated Tracks",
-"summary": "Music streaming service Tidal announced it will ban fully AI-generated music and delete 27 million synthetic tracks starting December 9 after synthetic uploads reached 43% of recent submissions.",
-"published_at": "2026-11-24T22:16:00+05:30",
+"title": "Tidal to Delete 29 Million Fully AI-Generated Tracks Starting December 9",
+"summary": "Music streaming platform Tidal announced it will remove tens of millions of wholly AI-generated songs and block future uploads starting December 9. The company said prior demonetization policies failed to stop mass uploads and artist impersonation.",
+"published_at": "2026-11-25T16:16:00+05:30",
 "category": "Consumer Technology",
-"popularity_basis": "Broadly covered across tech and entertainment media as one of the largest platform purges of generative AI audio.",
+"popularity_basis": "Widespread consumer and creator economy attention as the first major music streamer to enact an outright ban on fully AI-made tracks.",
 "sources": [
 {
-"name": "TechCrunch",
-"url": "[https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/](https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/)",
+"name": "The Times of India",
+"url": "[https://timesofindia.indiatimes.com/technology/audio/tidal-will-remove-every-fully-ai-generated-song-from-december-9-deleting-29-million-tracks-and-blocking-new-ones-from-being-uploaded/articleshow/136158183.cms](https://timesofindia.indiatimes.com/technology/audio/tidal-will-remove-every-fully-ai-generated-song-from-december-9-deleting-29-million-tracks-and-blocking-new-ones-from-being-uploaded/articleshow/136158183.cms)",
 "source_type": "news",
-"published_at": "2026-11-24T22:16:00+05:30"
-},
-{
-"name": "A47 News",
-"url": "[https://a47news.ai/story/tech/50820/tidal-bans-ai-generated-music-purge](https://a47news.ai/story/tech/50820/tidal-bans-ai-generated-music-purge)",
-"source_type": "news",
-"published_at": "2026-11-24T12:18:00+05:30"
+"published_at": "2026-11-25T16:16:00+05:30"
 }
 ]
 },
 {
 "rank": 8,
-"title": "CISA Adds Actively Exploited Idunno AntiCsrf, Drupal, and Optimizely Flaws to KEV",
-"summary": "The U.S. Cybersecurity and Infrastructure Security Agency added three actively exploited vulnerabilities—CVE-2026-131914, CVE-2026-132165, and CVE-2026-132224—to its Known Exploited Vulnerabilities catalog, mandating federal remediation.",
-"published_at": "2026-11-24T18:18:00+05:30",
-"category": "Cybersecurity",
-"popularity_basis": "Critical operational priority for enterprise security teams following active in-the-wild remote code execution and script injection attacks.",
+"title": "Three xAI Co-Founders Launch Startup Epochal to Train Forecasting AI on Web Archives",
+"summary": "Former xAI founding team members Guodong Zhang, Zihang Dai, and Manuel Kroiss launched Epochal, backed by $100 million from Zhang. Its Time Portal platform replays historical web states inside isolated Linux environments to train AI agents on event prediction.",
+"published_at": "2026-11-25T19:35:00+05:30",
+"category": "Startups",
+"popularity_basis": "High venture capital and AI community interest driven by prominent xAI founders and a $100 million self-funded launch.",
 "sources": [
 {
-"name": "CISA",
-"url": "[https://www.cisa.gov/news-events/alerts/2026/11/24/cisa-adds-three-known-exploited-vulnerabilities-catalog](https://www.cisa.gov/news-events/alerts/2026/11/24/cisa-adds-three-known-exploited-vulnerabilities-catalog)",
-"source_type": "regulatory",
-"published_at": "2026-11-24T18:18:00+05:30"
-},
-{
-"name": "The Hacker News",
-"url": "[https://thehackernews.com/2026/11/hackers-exploit-critical-aspnet-anti.html](https://thehackernews.com/2026/11/hackers-exploit-critical-aspnet-anti.html)",
+"name": "The Rundown AI",
+"url": "[https://www.therundown.ai/news/epochal-time-portal-ai-forecasting](https://www.therundown.ai/news/epochal-time-portal-ai-forecasting)",
 "source_type": "news",
-"published_at": "2026-11-24T09:18:00+05:30"
+"published_at": "2026-11-25T19:35:00+05:30"
 }
 ]
 },
 {
 "rank": 9,
-"title": "Meta Integrates Muse AI Assistant Directly Into Instagram Direct Messages",
-"summary": "Meta rolled out its Muse AI agent inside Instagram DMs, allowing users to turn saved posts into plans and collaborate with the assistant inside message threads.",
-"published_at": "2026-11-24T22:30:00+05:30",
-"category": "Social Media",
-"popularity_basis": "Covered by multiple consumer tech publications due to Instagram's massive user base and Meta's consumer agent rollout.",
+"title": "Meta's Muse Captures 51% of AI-Agent Shopping Orders as Amazon Talks Continue",
+"summary": "Transaction data from Forter Intelligence shows Meta's Muse handled 51% of AI-agent shopping orders ahead of Black Friday, outpacing Grok and ChatGPT. Amazon and Meta are reportedly discussing a deal to lift Amazon's blockade on Muse.",
+"published_at": "2026-11-25T10:36:00+05:30",
+"category": "AI",
+"popularity_basis": "Significant e-commerce and AI monetization implications ahead of peak holiday shopping.",
 "sources": [
 {
-"name": "TechCrunch",
-"url": "[https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/](https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/)",
+"name": "AI Weekly",
+"url": "[https://aiweekly.co/alerts/metas-muse-took-51-of-ai-agent-shopping-orders-last-week](https://aiweekly.co/alerts/metas-muse-took-51-of-ai-agent-shopping-orders-last-week)",
 "source_type": "news",
-"published_at": "2026-11-24T22:30:00+05:30"
+"published_at": "2026-11-25T10:36:00+05:30"
 },
 {
-"name": "Winzheng",
-"url": "[https://www.winzheng.com/en/article/meta-muse-ai-instagram-dms](https://www.winzheng.com/en/article/meta-muse-ai-instagram-dms)",
+"name": "BigGo Finance",
+"url": "[https://finance.biggo.com/news/f0a4acbd-779a-4c98-a04d-80fe18072663](https://finance.biggo.com/news/f0a4acbd-779a-4c98-a04d-80fe18072663)",
 "source_type": "news",
-"published_at": "2026-11-25T00:18:00+05:30"
+"published_at": "2026-11-25T14:05:00+05:30"
 }
 ]
 },
 {
 "rank": 10,
-"title": "Okta Links Former ShinyHunters Vishing Group to New INCEPTION Extortion Site",
-"summary": "Okta Threat Intelligence reported that threat cluster O-UNC-053, formerly tied to ShinyHunters, launched a new data leak site called INCEPTION after conducting voice-phishing SaaS intrusions.",
-"published_at": "2026-11-24T19:18:00+05:30",
-"category": "Cybersecurity",
-"popularity_basis": "High relevance for enterprise identity and SaaS defenders tracking post-takedown ransomware and extortion operations.",
+"title": "Google Opens Workspace Gateway for AI Agents with Mandatory Human Approval Controls",
+"summary": "Google made its Workspace Gateway for AI agents generally available, requiring dedicated OAuth client IDs and admin audit controls. While agents can draft content automatically, sending emails or changing Drive permissions requires explicit human confirmation.",
+"published_at": "2026-11-25T07:35:00+05:30",
+"category": "Enterprise Software",
+"popularity_basis": "High enterprise relevance as Google sets governance, security, and billing guardrails for third-party AI agents accessing productivity suites.",
 "sources": [
 {
-"name": "Okta",
-"url": "[https://www.okta.com/en-in/blog/threat-intelligence/former_shinyhunters_cluster_moves_to_new_inception_site/](https://www.okta.com/en-in/blog/threat-intelligence/former_shinyhunters_cluster_moves_to_new_inception_site/)",
-"source_type": "company",
-"published_at": "2026-11-24T19:18:00+05:30"
-},
-{
-"name": "The Hacker News",
-"url": "[https://thehackernews.com/2026/11/okta-links-shinyhunters-associated.html](https://thehackernews.com/2026/11/okta-links-shinyhunters-associated.html)",
+"name": "BigGo Finance",
+"url": "[https://finance.biggo.com/news/ddac6969-3c7e-437a-b803-77f9da3d8b56](https://finance.biggo.com/news/ddac6969-3c7e-437a-b803-77f9da3d8b56)",
 "source_type": "news",
-"published_at": "2026-11-24T19:18:00+05:30"
+"published_at": "2026-11-25T07:35:00+05:30"
 }
 ]
 },
 {
 "rank": 11,
-"title": "Anthropic Launches Enterprise Frontier Safeguards to Detect Misuse in Customer Clouds",
-"summary": "Anthropic opened Enterprise Frontier Safeguards in beta, scanning Claude traffic for coordinated misuse while keeping prompts and responses encrypted inside customers' own AWS or Google Cloud environments.",
-"published_at": "2026-11-24T14:00:00+05:30",
+"title": "Anthropic Details How Claude Agents Migrated Messages API from Python to Rust",
+"summary": "Anthropic disclosed that autonomous Claude coding agents helped migrate its core production Messages API from Python to Rust without downtime or feature freezes. The announcement highlights advancing enterprise software engineering capabilities for AI agents.",
+"published_at": "2026-11-25T23:35:00+05:30",
 "category": "AI",
-"popularity_basis": "Notable enterprise AI governance development balancing zero-data-retention privacy with frontier model safety monitoring.",
+"popularity_basis": "Strong developer community interest in real-world production infrastructure rewrites executed by AI coding agents.",
 "sources": [
 {
-"name": "AI Weekly",
-"url": "[https://aiweekly.co/ai-news-today/edition/2026-11-24](https://aiweekly.co/ai-news-today/edition/2026-11-24)",
+"name": "Unite.AI",
+"url": "[https://www.unite.ai/anthropic-details-claude-assisted-rust-migration-of-messages-api/](https://www.unite.ai/anthropic-details-claude-assisted-rust-migration-of-messages-api/)",
 "source_type": "news",
-"published_at": "2026-11-24T19:18:00+05:30"
-},
-{
-"name": "Anthropic",
-"url": "[https://claude.com/resources/articles/introducing-claude-ship](https://claude.com/resources/articles/introducing-claude-ship)",
-"source_type": "company",
-"published_at": "2026-11-24T09:18:00+05:30"
+"published_at": "2026-11-25T23:35:00+05:30"
 }
 ]
 },
 {
 "rank": 12,
-"title": "WebSec Benchmark Finds Eight Search APIs Feed Malicious Content to AI Coding Agents",
-"summary": "AIR Research Lab reported that all eight web search APIs tested returned known malicious links to autonomous coding agents, leading to automated execution of malware payloads.",
-"published_at": "2026-11-24T19:18:00+05:30",
-"category": "Cybersecurity",
-"popularity_basis": "Significant security warning for developers deploying autonomous coding agents with unvetted web search tools.",
+"title": "India Tightens Local Value Addition Rules for Government IT Hardware Procurement",
+"summary": "India's Ministry of Electronics and Information Technology revised domestic value addition rules across six IT hardware categories, including laptops and servers. Manufacturers must perform motherboard assembly and testing in India and can earn credit for domestic R&D.",
+"published_at": "2026-11-25T13:35:00+05:30",
+"category": "Regulation",
+"popularity_basis": "Major policy impact on global PC and server OEMs operating in India's public procurement market.",
 "sources": [
 {
-"name": "AI Weekly",
-"url": "[https://aiweekly.co/ai-news-today/edition/2026-11-24](https://aiweekly.co/ai-news-today/edition/2026-11-24)",
+"name": "SJ Exim Services",
+"url": "[https://sjexim.services/2026/11/25/india-revises-local-content-rules-for-it-hardware-procurement/](https://sjexim.services/2026/11/25/india-revises-local-content-rules-for-it-hardware-procurement/)",
 "source_type": "news",
-"published_at": "2026-11-24T19:18:00+05:30"
+"published_at": "2026-11-25T13:35:00+05:30"
 },
 {
-"name": "The Hacker News",
-"url": "[https://thehackernews.com/2026/11/openai-and-cisco-unveil-ai-assisted.html](https://thehackernews.com/2026/11/openai-and-cisco-unveil-ai-assisted.html)",
+"name": "Communications Today",
+"url": "[https://www.communicationstoday.co.in/daily_newsletter/25-11-2026/](https://www.communicationstoday.co.in/daily_newsletter/25-11-2026/)",
 "source_type": "news",
-"published_at": "2026-11-24T12:18:00+05:30"
+"published_at": "2026-11-25T06:35:00+05:30"
 }
 ]
 },
 {
 "rank": 13,
-"title": "Jensen Huang Rejects Formal Succession Planning at Nvidia All-Hands Meeting",
-"summary": "Nvidia CEO Jensen Huang told employees during an all-hands meeting that formal succession plans create unnecessary hierarchy, reiterating his focus on company execution after returning to the role.",
-"published_at": "2026-11-25T03:57:00+05:30",
-"category": "Big Tech",
-"popularity_basis": "High reader engagement given ongoing governance questions surrounding Nvidia's leadership.",
+"title": "NIO Unveils WorldModel 3.0 Smart Driving and NOMI Intelligence 4.0",
+"summary": "At its NIO IN 2026 event, electric vehicle maker NIO introduced NIO WorldModel 3.0 for autonomous driving and NOMI Intelligence 4.0 for in-cabin AI. NWM 3.0 is scheduled to roll out to smart vehicle systems starting in December pending regulatory clearance.",
+"published_at": "2026-11-25T20:35:00+05:30",
+"category": "AI",
+"popularity_basis": "Notable automotive AI milestone from a major EV manufacturer deploying world-model architectures to production vehicles.",
 "sources": [
 {
-"name": "TechCrunch",
-"url": "[https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/](https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/)",
-"source_type": "news",
-"published_at": "2026-11-25T03:57:00+05:30"
-},
-{
-"name": "TechCrunch",
-"url": "[https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/](https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/)",
-"source_type": "news",
-"published_at": "2026-11-25T03:18:00+05:30"
+"name": "NIO",
+"url": "[https://www.nio.com/news/20261125001](https://www.nio.com/news/20261125001)",
+"source_type": "company",
+"published_at": "2026-11-25T20:35:00+05:30"
 }
 ]
 },
 {
 "rank": 14,
-"title": "Anthropic Study of 58 Enterprise Customers Finds AI Slows Hiring Rather Than Driving Layoffs",
-"summary": "Anthropic's economics team interviewed 58 enterprise Claude customers and found that while two-thirds slowed hiring due to AI adoption, only two firms eliminated existing roles.",
-"published_at": "2026-11-24T19:18:00+05:30",
-"category": "AI",
-"popularity_basis": "Provides empirical enterprise labor data amid widespread debate over AI-driven workforce displacement.",
+"title": "OpenAI Begins Testing Unified Chat and Work Usage Meter for Pro Subscribers",
+"summary": "OpenAI started rolling out a combined usage meter merging ChatGPT Chat and Work limits for a subset of Pro subscribers on November 25. The change streamlines quota tracking across conversational and workplace agent features.",
+"published_at": "2026-11-26T05:41:00+05:30",
+"category": "Consumer Technology",
+"popularity_basis": "Directly affects paid ChatGPT power users and reflects evolving subscription packaging for AI productivity tools.",
 "sources": [
 {
-"name": "AI Weekly",
-"url": "[https://aiweekly.co/ai-news-today/edition/2026-11-24](https://aiweekly.co/ai-news-today/edition/2026-11-24)",
+"name": "Emergent",
+"url": "[https://emergent.sh/news/openai-merges-chatgpt-chat-work-into-one](https://emergent.sh/news/openai-merges-chatgpt-chat-work-into-one)",
 "source_type": "news",
-"published_at": "2026-11-24T19:18:00+05:30"
+"published_at": "2026-11-26T05:41:00+05:30"
 }
 ]
 },
 {
 "rank": 15,
-"title": "Google Research Introduces DeepCrossAttention to Train Transformers Up to 3x Faster",
-"summary": "Google Research unveiled DeepCrossAttention, a modification to transformer residual connections that achieves comparable model quality up to three times faster while adding under 0.2% parameters.",
-"published_at": "2026-11-24T19:18:00+05:30",
-"category": "AI",
-"popularity_basis": "Noteworthy architectural efficiency gain for large language model pretraining.",
+"title": "India and Ethiopia Sign First Bilateral Technology MoU at Tech Ethiopia 2026",
+"summary": "India and Ethiopia signed their first memorandum of understanding on technology cooperation during Tech Ethiopia 2026. The agreement aims to expand bilateral collaboration in digital infrastructure, IT services, and emerging technology ecosystems.",
+"published_at": "2026-11-25T16:35:00+05:30",
+"category": "Telecommunications",
+"popularity_basis": "Notable international digital diplomacy development expanding India's technology partnership footprint in East Africa.",
 "sources": [
 {
-"name": "AI Weekly",
-"url": "[https://aiweekly.co/ai-news-today/edition/2026-11-24](https://aiweekly.co/ai-news-today/edition/2026-11-24)",
+"name": "India Technology News",
+"url": "[https://indiatechnologynews.in/india-ethiopia-technology-ties-gain-momentum-with-first-mou-at-tech-ethiopia-2026/](https://indiatechnologynews.in/india-ethiopia-technology-ties-gain-momentum-with-first-mou-at-tech-ethiopia-2026/)",
 "source_type": "news",
-"published_at": "2026-11-24T19:18:00+05:30"
+"published_at": "2026-11-25T16:35:00+05:30"
 }
 ]
 }
